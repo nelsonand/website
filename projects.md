@@ -1,4 +1,7 @@
-## Reserach Projects
+---
+layout: page
+title: Research Projects
+---
 
 ### Project 1
 
