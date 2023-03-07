@@ -1,3 +1,9 @@
+---
+layout: page
+title: Curriculum Vitae
+full-width: true
+---
+
 To learn more about my career, you can download a pdf of my CV here. 
 
 # Education
