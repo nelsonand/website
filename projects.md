@@ -4,10 +4,18 @@ title: Research Projects
 full-width: true
 ---
 
-### Project 1
+### Enabling Fusion Reactors with Negative Triangularity Configurations
 
-### Project 2
 
-adfa sdf
-a sdf
-a sdf
+### Development and Assesment of Tokamak Control 
+
+
+### Automated and Optimized Tokamak Equilibrium Reconstruction
+
+
+### Exploration of Negative Triangularity on Spherical Tokamaks
+
+
+### Cross-machine Comparison of Non-ELMing Regiemes
+
+
