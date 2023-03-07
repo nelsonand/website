@@ -1,4 +1,15 @@
-<!-- TODO this file has become a mess, refactor it -->
+<! --- DOCTYPE html --- >
+<html>
+<head>
+<style>
+div.flexwidth {
+  max-width: 1000px;
+  margin: auto;
+  border: 3px solid #73AD21;
+}
+</style>
+</head>
+<body>
 
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
@@ -25,7 +36,7 @@
 <div class="big-img intro-header">
   <div class="container-md">
     <div class="row">
-      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      <div class="flexwidth">
         <div class="{{ include.type }}-heading">
           <h1>{% if page.title %}{{ page.title | strip_html }}{% else %}<br/>{% endif %}</h1>
           {% if page.subtitle %}
@@ -59,7 +70,7 @@
 <div class="intro-header no-img">
   <div class="container-md">
     <div class="row">
-      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      <div class="flexwidth">
         <div class="{{ include.type }}-heading">
           <h1>{% if page.title %}{{ page.title | strip_html }}{% else %}<br/>{% endif %}</h1>
           {% if page.subtitle %}
