@@ -6,7 +6,9 @@ full-width: true
 
 ## First Author Publications
 
-#### [Vertical Control of DIII-D Discharges with Strong Negative Triangularity](https://doi.org/10.1088/1361-6587/acbe65)<br />**Nelson, A. O.,** Hyatt, A., Wehner, W., Welander, A., Paz-Soldan, C. & Anand, H., _Plasma Physics and Controlled Fusion_ **65**, 044002 (2023).
+**[Vertical Control of DIII-D Discharges with Strong Negative Triangularity](https://doi.org/10.1088/1361-6587/acbe65)** <br />
+**Nelson, A. O.,** Hyatt, A., Wehner, W., Welander, A., Paz-Soldan, C. & Anand, H., _Plasma Physics and Controlled Fusion_ **65**, 044002 (2023).
+
 - **Nelson, A. O.,** Paz-Soldan, C. & Saarelma, S. [Prospects for H-mode inhibition in negative triangularity tokamak reactor plasmas](https://doi.org/10.1088/1741-4326/ac8064). _Nuclear Fusion_ **62**, 096020 (2022).
 - **Nelson, A. O.,** Laggner, F. M., Diallo, A., Smith, D. R., Xing, Z. A., Shousha, R. & Kolemen, E. [Time-dependent experimental identification of inter-ELM microtearing modes in the tokamak edge on DIII-D](https://doi.org/10.1088/1741-4326/ac27ca). _Nuclear Fusion_ **61**, 116083 (2021).
 - **Nelson, A. O.,** Xing, Z. A., Izacard, O., Laggner, F. M. & Kolemen, E. [Interpretative SOL modeling throughout multiple ELM cycles in DIII-D](https://doi.org/10.1016/j.nme.2020.100883). _Nuclear Materials and Energy_ **26**, 100883 (2021).
