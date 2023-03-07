@@ -6,6 +6,14 @@ full-width: true
 
 To learn more about my career, you can download a pdf of my CV here. 
 
+# Employment
+
+#### Associate Reserach Scientist 
+ - **Columbia University**, New York, NY (United States) 2022 - present
+
+#### Postdoctoral Fellow
+ - **Columbia University**, New York, NY (United States) 2021 - 2022
+
 # Education
 
 #### Doctor of Philosophy (Ph.D.) in Astrophsyical Sciences (Plasma Physics)
@@ -20,6 +28,3 @@ To learn more about my career, you can download a pdf of my CV here.
  - **University of Colorado, Boulder**, Boulder, CO (United States) 2016
  - Minors: Applied Mathematics, Leadership Studies
 
-# Publications
-
-# Conferences
