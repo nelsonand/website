@@ -92,7 +92,7 @@ full-width: true
     strained Equilibria and Application to Snowflake Divertor Studies](https://doi.org/10.1016/j.nme.2020.100835). _Nuclear Materials and Energy_
     **25**, 100835 (2020).
 
-## 2010 - 2019
+### 2010 - 2019
 
 - Buzi, L., **Nelson, A. O.,** Yang, Y., Kaita, R., Krstić, P. S. & Koel, B. E. [Sputtering of lithium
     and lithium compound films under deuterium and helium ion bombardment](https://doi.org/10.1016/j.nme.2019.02.037). _Nuclear Materials and_
