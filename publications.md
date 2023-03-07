@@ -38,7 +38,8 @@ full-width: true
 
 ## Thesis
 
-- **Nelson, A. O.** [Comprehensive dynamic analysis of the H-mode pedestal in DIII-D](http://www.proquest.com/docview/2592245279?pq-origsite=gscholar&fromopenview=true) PhD thesis, Princeton University, Available from ProQuest Dissertations & Theses Global (2021)
+**[Comprehensive dynamic analysis of the H-mode pedestal in DIII-D](http://www.proquest.com/docview/2592245279?pq-origsite=gscholar&fromopenview=true)**<br />
+**Nelson, A. O.**  PhD thesis, Princeton University, Available from ProQuest Dissertations & Theses Global (2021)
 
 ## Co-Author Publications
 
