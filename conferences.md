@@ -55,7 +55,7 @@ full-width: true
     Fernandez, P., Reiman, A., Freidberg, J. P. & Whyte, D. G. _A pulsed, radiative L-mode scenario_
     _for application in an ARC-class device_ in _2022 US Transport Task Force Workshop_ (2022).
 - Schmitz, L., Callahan, K., Zeng, L., Rhodes, T. L., Austin, M. E., Yan, Z., McKee, G. R., Thome,
-    K. E., Marinoni, A., **Nelson,A. O.** & Paz-Soldan, C. _H-mode Access and Limit Cycle Oscillations_
+    K. E., Marinoni, A., **Nelson, A. O.** & Paz-Soldan, C. _H-mode Access and Limit Cycle Oscillations_
     _in DIII-D Negative Triangularity Plasmas_ in _64th Annual Meeting of the APS Division of Plasma_
     _Physics_ (2022).
 - Shousha, R., Ferron, J. R., Xing, Z. A., **Nelson, A. O.,** Erickson, K. G. & Kolemen, E. _Improved_
@@ -66,7 +66,7 @@ full-width: true
     _Physics_ (2022).
 - Sweeny, R. & et. al. _SPARC MHD Stability and the Error Field Strategy_ in _26th Workshop on MHD_
     _Stability and Control_ (2022).
-- Wai, J. T., Battaglia, D. J., Garnier, D., Looby, T., **Nelson,A. O.** & Kolemen, E. _Startup scenario_
+- Wai, J. T., Battaglia, D. J., Garnier, D., Looby, T., **Nelson, A. O.** & Kolemen, E. _Startup scenario_
     _development for SPARC_ in _64th Annual Meeting of the APS Division of Plasma Physics_ (2022).
 - Wilson, H., **Nelson, A. O.** & Paz-Soldan, C. _Modeling high radiation fraction L-mode plasmas in_
     _multiple configurations_ in _2022 H-Mode Workshop_ (2022).
@@ -90,16 +90,16 @@ full-width: true
     Verdoolaege, G., Brunton, S. L., Heidbrink, W. W. & Kolemen, E. Data-driven models for Alfvén
     eigenmode classification based on high resolution ECE diagnostics at DIII-D. _63rd Annual Meeting_
     _of the APS Division of Plasma Physics_ (2021).
-- Kaptanoglu, A., Jalalvand, A., Garcia, A. V., **Nelson,A.O.,** Abbate, J., Verdoolaege, G., Brunton,
+- Kaptanoglu, A., Jalalvand, A., Garcia, A. V., **Nelson, A. O.,** Abbate, J., Verdoolaege, G., Brunton,
     S. L., Heidbrink, W. W. & Kolemen, E. Spatially-localized Alfvén eigenmode classification using
     convolutional neural networks. _63rd Annual Meeting of the APS Division of Plasma Physics_ (2021).
 - Kim, S. K., Shousha, R., Hahn, S. H., **Nelson, A. O.,** Wai, J., Yang, S. M., Park, J.-K., Jeon,
     Y. M., In, Y., Lee, J. H., Kim, J., Na, Y.-S. & Kolemen, E. Optimization of H-mode pedestal by
     adaptive ELM control using 3D fields. _5th Asia-Pacific Conference on Plasma Physics_ (2021).
-- Kim, S., Shousha, R., Hahn, S. H., **Nelson,A. O.,** Wai, J., Yang, S. M., Park, J. K., Jeon, Y. M.,
+- Kim, S., Shousha, R., Hahn, S. H., **Nelson, A. O.,** Wai, J., Yang, S. M., Park, J. K., Jeon, Y. M.,
     In, Y., Na, Y.-S., Lee, J. H., Kim, J. & Kolemen, K. _Optimizing Tokamak Pedestal Confinement_
     _via Adaptive ELM Control Using 3D Fields_ in _Korean Physical Society Spring Meeting_ (2021).
-- Kim, S., Shousha, R., Hahn, S., **Nelson,A. O.,** Wai, J. T., Yang, S., Park, J.-K., Nazikian, R. M.,
+- Kim, S., Shousha, R., Hahn, S., **Nelson, A. O.,** Wai, J. T., Yang, S., Park, J.-K., Nazikian, R. M.,
     Hu, Q., Jeon, Y., In, Y., Lee, J., Kim, J., Na, Y.-S. & Kolemen, E. Optimizing edge confinement
     and stability via adaptive ELM control using RMPs. 63rd Annual Meeting of the APS Division of
     Plasma Physics (2021).
@@ -113,7 +113,7 @@ full-width: true
 - **Nelson, A. O.,** Laggner, F. M., Diallo, A., Smith, D. R., Xing, Z. A., Shousha, R. & Kolemen, E.
     Direct Identification of Microtearing Modes in the H-mode Pedestal via Current Profile Perturba-
     tions. _63rd Annual Meeting of the APS Division of Plasma Physics_ (2021).
-- **Nelson,A. O.,** Paz-Soldan, C., Song, J., Lee, J., Barr, J., Eldon, D. & Welander, A. S. _Stability of_
+- **Nelson, A. O.,** Paz-Soldan, C., Song, J., Lee, J., Barr, J., Eldon, D. & Welander, A. S. _Stability of_
     _the n=0 resitive wall mode in a negative triangularity DIII-D_ in _25th Workshop on MHD Stability_
     _Control_ (2021).
 - **Nelson, A. O.,** Xing, Z. A., Izacard, O., Laggner, F. M. & Kolemen, E. _Interpretative SOL_
@@ -149,8 +149,7 @@ full-width: true
 
 ### 2020
 
-- Halfmoon, M. R., Hatch, D. R., Kotschenreuther, M. T., Mahajan, S. M., Hassan, E., **Nelson,**
-    **A. O.,** Kolemen, E., Laggner, F. M., Diallo, A. & Groebner, R. J. _Gyrokinetic Analysis of Inter-_
+- Halfmoon, M. R., Hatch, D. R., Kotschenreuther, M. T., Mahajan, S. M., Hassan, E., **Nelson, A. O.,** Kolemen, E., Laggner, F. M., Diallo, A. & Groebner, R. J. _Gyrokinetic Analysis of Inter-_
     _ELM Transport Mechanisms in DIII-D Pedestals_ in _2020 US Transport Task Force Workshop_
     (2020).
 - Halfmoon, M., Hatch, D., Kotschenreuther, M., Mahajan, S., **Nelson, A. O.,** Kolemen, E., Lag-
@@ -166,7 +165,7 @@ full-width: true
 - Shousha, R., Ferron, J., Xing, Z. A., **Nelson, A. O.,** Erickson, K. & Kolemen, E. _Real-time_
     _Equilibrium Reconstruction with Kinetic Constraints on DIII-D_ in _62nd Annual Meeting of the_
     _APS Division of Plasma Physics_ (2020).
-- Shousha, R., Kim, S. K., Laggner, F. M., Eldon, D., **Nelson,A.O.,** Hahn, S. H., Park, J. K., Yang,
+- Shousha, R., Kim, S. K., Laggner, F. M., Eldon, D., **Nelson, A. O.,** Hahn, S. H., Park, J. K., Yang,
     S. M., Paz-Soldan, C., Evans, T. E., Fenstermacher, M. E., Grierson, B. A., Hu, Q., Humphreys,
     D. A., Hyatt, A. W., Nazikian, R., Meneghini, O., Snyder, P. B., Unterberg, E. A., Erickson, K. G.
     & Kolemen, E. _Integrated ELM Control_ in _4th Asia-Pacific Conference on Plasma Physics_ (2020).
@@ -203,7 +202,7 @@ full-width: true
 - Laggner, F., Kolemen, E., Diallo, A., Groebner, R., Barada, K., **Nelson, A. O.,** Osborne, T. &
     DIII-D Team, T. _Vertical plasma oscillations as a tool to perturb the pedestal in the DIII-D tokamak_
     in _60th Annual Meeting of the APS Division of Plasma Physics_ (2018).
-- **Nelson,A. O.,** Buzi, L., Yang, Y., Kaita, R. & Koel, B. E. _Sputtering and retention of D2 in thin_
+- **Nelson, A. O.,** Buzi, L., Yang, Y., Kaita, R. & Koel, B. E. _Sputtering and retention of D2 in thin_
     _Li and LiD films_ in _23rd International Conference on Plasma Surface Interactions in Controlled_
     _Fusion Devices_ (2018).
 - **Nelson, A. O.,** Kolemen, E., Laggner, F., Izacard, O., Groebner, R., Eldon, D., Shafer, M.,
