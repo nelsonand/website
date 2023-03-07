@@ -20,7 +20,7 @@ author: Oak Nelson
 ###############################################
 
 navbar-links:
-  Home: ""
+  Home: "index"
   Research Projects: "projects"
   Publications: "publications"
   Conferences: "conferences"
