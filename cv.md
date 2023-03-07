@@ -4,8 +4,8 @@ title: Curriculum Vitae
 full-width: true
 ---
 
-To learn more about my career, you can download a pdf of my CV here. 
-
+To learn more about my career, you can download a pdf of my CV [here](https://github.com/nelsonand/website/files/10913769/Nelson_CV_MontanaState.pdf).
+ 
 # Employment
 
 #### Associate Reserach Scientist 
