@@ -28,96 +28,84 @@ full-width: true
 
 - Curie, M., Larakers, J. L., Hatch, D., **Nelson, A. O.,** Diallo, A., Hassan, E., Guttenfelder, W.,
     Halfmoon, M., Kotschenreuther, M., Hazeltine, R. D., Mahajan, S. M., Groebner, R. J., Chen, J.,
-    Perez von Thun, C., Frassinetti, L., Saarelma, S., Giroud, C. & Tennery, M. A survey of pedestal
-    magnetic fluctuations using gyrokinetics and a global reduced model for microtearing stability.
-    _Physics of Plasmas_ **29,** 042503.https://doi.org/10.1063/5.0084842(2022).
-- Fenstermacher, M. E. _et al._ DIII-D research advancing the physics basis for optimizing the tokamak
-    approach to fusion energy. _Nuclear Fusion_ **62,** 042024.https://doi.org/10.1088/1741-4326/ac2ff
+    Perez von Thun, C., Frassinetti, L., Saarelma, S., Giroud, C. & Tennery, M. [A survey of pedestal
+    magnetic fluctuations using gyrokinetics and a global reduced model for microtearing stability](https://doi.org/10.1063/5.0084842).
+    _Physics of Plasmas_ **29**, 042503 (2022).
+- Fenstermacher, M. E. _et al._ [DIII-D research advancing the physics basis for optimizing the tokamak
+    approach to fusion energy](https://doi.org/10.1088/1741-4326/ac2ff). _Nuclear Fusion_ **62**, 042024 
     (2022).
 - Frank, S., Perks, C. J., **Nelson,A. O.,** Qian, T., Jin, S., Cavallaro, A. J., Rutkowski, A., Reiman,
-    A. H., Freidberg, J. P., Rodriguez-Fernandez, P. & Whyte, D. G. Radiative pulsed L-mode operation
-    in ARC-class reactors. _Nuclear Fusion_ **62,** 126036.https://doi.org/10.1088/1741-4326/ac95ac
+    A. H., Freidberg, J. P., Rodriguez-Fernandez, P. & Whyte, D. G. [Radiative pulsed L-mode operation
+    in ARC-class reactors](https://doi.org/10.1088/1741-4326/ac95ac). _Nuclear Fusion_ **62**, 126036 
     (2022).
 - Halfmoon, M. R., Hatch, D. R., Kotschenreuther, M. T., Mahajan, S. M., **Nelson,A.O.,** Kolemen,
-    E., Curie, M., Diallo, A., Groebner, R. J., Hassan, E., Belli, E. A. & Candy, J. Gyrokinetic analysis
-    of inter-edge localized mode transport mechanisms in a DIII-D pedestal. _Physics of Plasmas_ **29,**
-    112505.https://doi.org/10.1063/5.0102152(2022).
-
-
+    E., Curie, M., Diallo, A., Groebner, R. J., Hassan, E., Belli, E. A. & Candy, J. [Gyrokinetic analysis
+    of inter-edge localized mode transport mechanisms in a DIII-D pedestal](https://doi.org/10.1063/5.0102152). _Physics of Plasmas_ **29**,
+    112505 (2022).
 - Hassan, E., Hatch, D. R., Halfmoon, M. R., Curie, M., Kotschenreuther, M. T., Mahajan, S. M.,
-    Merlo, G., Groebner, R. J., **Nelson, A. O.** & Diallo, A. Identifying Microtearing Modes in the
-    pedestal of DIII-D H-modes in Gyrokinetic Simulations. _Nuclear Fusion_ **62,** 026008.https://doi.
-    org/10.1088/1741-4326/ac3be5(2022).
+    Merlo, G., Groebner, R. J., **Nelson, A. O.** & Diallo, A. [Identifying Microtearing Modes in the
+    pedestal of DIII-D H-modes in Gyrokinetic Simulations](https://doi.org/10.1088/1741-4326/ac3be5). _Nuclear Fusion_ **62**, 026008 (2022).
 - Jalalvand, A., Kappatou, A. A., Garcia, A. V., **Nelson,A.O.,** Abbate, J., Austin, M., Verdoolaege,
-    G., Brunton, S. L., Heidbrink, W. W. & Kolemen, E. Alfvén eigenmode classification based on
-    ECE diagnostics at DIII-D using deep recurrent neural networks. _Nuclear Fusion_ **62,** 026007.
-    https://doi.org/10.1088/1741-4326/ac3be7(2022).
+    G., Brunton, S. L., Heidbrink, W. W. & Kolemen, E. [Alfvén eigenmode classification based on
+    ECE diagnostics at DIII-D using deep recurrent neural networks](https://doi.org/10.1088/1741-4326/ac3be7). _Nuclear Fusion_ **62,** 026007 (2022).
 - Kim, S. K., Shousha, R., Hahn, S. H., **Nelson,A. O.,** Wai, J., Yang, S. M., Park, J. K., Nazikian,
-    R., Jeon, Y. M., In, Y., Lee, J. H., Kim, J., Na, Y.-S. & Kolemen, E. Optimization of 3D controlled
-    ELM-free state with recovered global confinement for tokamak fusion plasmas. _Nuclear Fusion_ **62,**
-    026043.https://doi.org/10.1088/1741-4326/ac4369(2022).
-- Schwartz, J. A., **Nelson, A. O.** & Kolemen, E. To dee or not to dee: costs and benefits of altering
-    the triangularity of a steady-state DEMO-like reactor. _Nuclear Fusion_ **62,** 076006.https://doi.
-    org/10.1088/1741-4326/ac62f6(2022).
+    R., Jeon, Y. M., In, Y., Lee, J. H., Kim, J., Na, Y.-S. & Kolemen, E. [Optimization of 3D controlled
+    ELM-free state with recovered global confinement for tokamak fusion plasmas](https://doi.org/10.1088/1741-4326/ac4369). _Nuclear Fusion_ **62**,
+    026043 (2022).
+- Schwartz, J. A., **Nelson, A. O.** & Kolemen, E. [To dee or not to dee: costs and benefits of altering
+    the triangularity of a steady-state DEMO-like reactor](https://doi.org/10.1088/1741-4326/ac62f6). _Nuclear Fusion_ **62**, 076006 (2022).
 - Shousha, R., Kim, S. K., Erickson, K. G., Hahn, S. H., **Nelson, A. O.,** Yang, S. M., Park, J.-K.,
-    Wai, J., Jeon, Y. M., Lee, J. H., Jang, J., Seo, D. C. & Kolemen, E. Design and experimental
+    Wai, J., Jeon, Y. M., Lee, J. H., Jang, J., Seo, D. C. & Kolemen, E. [Design and experimental
     demonstration of Feedback Adaptive RMP ELM Controller towards complete long pulse ELM
-    suppression on KSTAR. _Physics of Plasmas_ **29,** 032514.https://doi.org/10.1063/5.
+    suppression on KSTAR](https://doi.org/10.1063/5.0081928). _Physics of Plasmas_ **29**, 032514 
     (2022).
 
 ## 2021
 
 - Kim, S. K., Shousha, R., Hahn, S. H., **Nelson, A. O.,** Wai, J., Yang, S. M., Park, J. K., In, Y.,
-    Lee, J. H., Kim, J. & Kolemen, E. Effect of n=1 RMP-driven Turbulence on Ion Pedestal and its
-    role in Adaptive ELM control in KSTAR. _Proceedings of 47th EPS Conference on Plasma Physics_
-    **P4,** 1067. [http://ocs.ciemat.es/eps2021pap/pdf/P4.1067.pdf(2021).](http://ocs.ciemat.es/eps2021pap/pdf/P4.1067.pdf(2021).)
-- Strait, E. J., Munaretto, S., Sweeney, R. M., Logan, N. C. & **Nelson, A. O.** Electromagnetic
-    torque measurements in DIII-D using internal/external magnetic field decomposition. _Review of_
-    _Scientific Instruments_ **92,** 043516.https://doi.org/10.1063/5.0040598(2021).
+    Lee, J. H., Kim, J. & Kolemen, E. [Effect of n=1 RMP-driven Turbulence on Ion Pedestal and its
+    role in Adaptive ELM control in KSTAR](http://ocs.ciemat.es/eps2021pap/pdf/P4.1067.pdf). _Proceedings of 47th EPS Conference on Plasma Physics_
+    **P4**, 1067. (2021)
+- Strait, E. J., Munaretto, S., Sweeney, R. M., Logan, N. C. & **Nelson, A. O.** [Electromagnetic
+    torque measurements in DIII-D using internal/external magnetic field decomposition](https://doi.org/10.1063/5.0040598). _Review of_
+    _Scientific Instruments_ **92**, 043516 (2021).
 - Xing, Z., Eldon, D., **Nelson,A. O.,** Roelofs, M. A., Eggert, W. J., Izacard, O., Glasser, A., Logan,
-    N., Meneghini, O., Smith, S. P., Nazikian, R. & Kolemen, E. CAKE: Consistent Automatic Kinetic
-    Equilibrium reconstruction. _Fusion Engineering and Design_ **163,** 112163.https://doi.org/10.1016/
-    j.fusengdes.2020.112163(2021).
+    N., Meneghini, O., Smith, S. P., Nazikian, R. & Kolemen, E. [CAKE: Consistent Automatic Kinetic
+    Equilibrium reconstruction](https://doi.org/10.1016/j.fusengdes.2020.112163). _Fusion Engineering and Design_ **163**, 112163 (2021).
 
 ## 2020
 
 - Chung, Y., Char, I., Neiswanger, W., Kandasamy, K., **Nelson,A.O.,** Boyer, M. D., Kolemen, E. &
-    Schneider, J. Offline Contextual Bayesian Optimization for Nuclear Fusion. _Machine Learning and_
+    Schneider, J. [Offline Contextual Bayesian Optimization for Nuclear Fusion](http://arxiv.org/abs/2001.01793). _Machine Learning and_
     _the Physical Sciences Workshop at the 33rd Conference on Neural Information Processing Systems_
-    _(NeurIPS),_ 1–12. [http://arxiv.org/abs/2001.01793(2020).](http://arxiv.org/abs/2001.01793(2020).)
-
-
-- Fitzpatrick, R. & **Nelson,A. O.** An improved theory of the response of DIII-D H-mode discharges
+    _(NeurIPS),_ 1–12. (2020).
+- Fitzpatrick, R. & **Nelson,A. O.** [An improved theory of the response of DIII-D H-mode discharges
     to static resonant magnetic perturbations and its implications for the suppression of edge localized
-    modes. _Physics of Plasmas_ **27,** 072501.https://doi.org/10.1063/5.0011738(2020).
+    modes](https://doi.org/10.1063/5.0011738). _Physics of Plasmas_ **27**, 072501 (2020).
 - Laggner, F. M., Eldon, D., **Nelson,A. O.,** Paz-Soldan, C., Bortolon, A., Evans, T. E., Fensterma-
     cher, M. E., Grierson, B. A., Hu, Q., Humphreys, D. A., Hyatt, A. W., Nazikian, R., Meneghini, O.,
-    Snyder, P. B., Unterberg, E. A. & Kolemen, E. Real-time pedestal optimization and ELM control
-    with 3D fields and gas flows on DIII-D. _Nuclear Fusion_ **60,** 076004.https://doi.org/10.1088/1741-
-    4326/ab88e1(2020).
+    Snyder, P. B., Unterberg, E. A. & Kolemen, E. [Real-time pedestal optimization and ELM control
+    with 3D fields and gas flows on DIII-D](https://doi.org/10.1088/1741-4326/ab88e1). _Nuclear Fusion_ **60**, 076004 (2020).
 - Mehta, V., Char, I., Neiswanger, W., Chung, Y., **Nelson, A. O.,** Boyer, M. D., Kolemen, E. &
-    Schneider, J. Neural Dynamical Systems: Balancing Structure and Flexibility in Physical Predic-
-    tion. _2021 60th IEEE Conference on Decision and Control (CDC),_ 3735–3742.https://doi.org/10.
-    1109/CDC45484.2021.9682807(2020).
-- Wai, J. T., Vail, P. J., **Nelson, A. O.,** Xing, Z. A., Lasnier, C. & Kolemen, E. Infrared Con-
-    strained Equilibria and Application to Snowflake Divertor Studies. _Nuclear Materials and Energy_
-    **25,** 100835.https://doi.org/10.1016/j.nme.2020.100835(2020).
+    Schneider, J. [Neural Dynamical Systems: Balancing Structure and Flexibility in Physical Prediction](https://doi.org/10.1109/CDC45484.2021.9682807). _2021 60th IEEE Conference on Decision and Control (CDC),_ 3735–3742 (2020).
+- Wai, J. T., Vail, P. J., **Nelson, A. O.,** Xing, Z. A., Lasnier, C. & Kolemen, E. [Infrared Con-
+    strained Equilibria and Application to Snowflake Divertor Studies](https://doi.org/10.1016/j.nme.2020.100835). _Nuclear Materials and Energy_
+    **25**, 100835 (2020).
 
 ## 2010 - 2019
 
-- Buzi, L., **Nelson, A. O.,** Yang, Y., Kaita, R., Krstić, P. S. & Koel, B. E. Sputtering of lithium
-    and lithium compound films under deuterium and helium ion bombardment. _Nuclear Materials and_
-    _Energy_ **19,** 411–415.https://doi.org/10.1016/j.nme.2019.02.037(2019).
+- Buzi, L., **Nelson, A. O.,** Yang, Y., Kaita, R., Krstić, P. S. & Koel, B. E. [Sputtering of lithium
+    and lithium compound films under deuterium and helium ion bombardment](https://doi.org/10.1016/j.nme.2019.02.037). _Nuclear Materials and_
+    _Energy_ **19**, 411–415 (2019).
 - Char, I., Chung, Y., Neiswanger, W., Kandasamy, K., **Nelson,A. O.,** Boyer, M. D. & Kolemen, E.
-    Offline Contextual Bayesian Optimization. _Advances in Neural Information Processing Systems 32,_
-    4629–4640.https://proceedings.neurips.cc/paper/2019/file/7876acb66640bad41f1e1371ef30c180-
-    Paper.pdf(2019).
-- Yang, Y., Buzi, L., **Nelson, A. O.,** Kaita, R. & Koel, B. E. Post exposure time dependence of
-    deuterium retention in lithium and lithium compounds. _Nuclear Materials and Energy_ **19,** 161–165.
-    https://doi.org/10.1016/j.nme.2019.01.031(2019).
+    [Offline Contextual Bayesian Optimization](https://proceedings.neurips.cc/paper/2019/file/7876acb66640bad41f1e1371ef30c180-Paper.pdf). _Advances in Neural Information Processing Systems_ **32**,
+    4629–4640 (2019).
+- Yang, Y., Buzi, L., **Nelson, A. O.,** Kaita, R. & Koel, B. E. [Post exposure time dependence of
+    deuterium retention in lithium and lithium compounds](https://doi.org/10.1016/j.nme.2019.01.031). _Nuclear Materials and Energy_ **19**, 161–165 
+    (2019).
 - Buzi, L., Yang, Y., Domínguez-Gutiérrez, F. J., **Nelson,A.O.,** Hofman, M., Krstić, P. S., Kaita, R.
-    & Koel, B. E. Hydrogen retention in lithium and lithium oxide films. _Journal of Nuclear Materials_
-    **502,** 161–168.https://doi.org/10.1016/j.jnucmat.2018.02.010(2018).
-- Grossman, E. N., Friedman, O. D. & **Nelson, A. O.** Non-Imaging Winston Cone Concentrators
-    for Submillimeter-Wave, Overmoded Waveguide. _IEEE Transactions on Terahertz Science and_
-    _Technology_ **4,** 65–74.https://doi.org/10.1109/TTHZ.2013.2283371(2014).
+    & Koel, B. E. [Hydrogen retention in lithium and lithium oxide films](https://doi.org/10.1016/j.jnucmat.2018.02.010). _Journal of Nuclear Materials_
+    **502**, 161–168 (2018).
+- Grossman, E. N., Friedman, O. D. & **Nelson, A. O.** [Non-Imaging Winston Cone Concentrators
+    for Submillimeter-Wave, Overmoded Waveguide](https://doi.org/10.1109/TTHZ.2013.2283371). _IEEE Transactions on Terahertz Science and_
+    _Technology_ **4**, 65–74 (2014).
