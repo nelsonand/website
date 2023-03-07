@@ -6,8 +6,6 @@ full-width: true
 
 ## Invited Talks and Seminars
 
-(Slides available upon reasonable request) 
-
 - **Nelson, A. O.** _H-mode Inhibition in Negative Triangularity Tokamak Reactors (Topical Plenary)_
     in _6th Asia-Pacific Conference on Plasma Physics_ (2022).
 - **Nelson, A. O.** _Experimental identification of inter-ELM pedestal MTMs through edge current_
@@ -19,6 +17,8 @@ full-width: true
 - **Nelson, A. O.,** Haye, R. J. L., Austin, M. E., Welander, A. S. & Kolemen, E. _ECE-based Tearing_
     _Mode Suppression and Equilibrium Reconstruction_ in _24th Workshop on MHD Stability Control_
     (2019).
+
+(Slides available upon reasonable request) 
 
 ## Conference Contributions
 
