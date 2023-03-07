@@ -4,8 +4,6 @@ title: Publications
 full-width: true
 ---
 
-# List of Publications
-
 ## First Author Publications
 
 - **Nelson, A. O.,** Hyatt, A., Wehner, W., Welander, A., Paz-Soldan, C. & Anand, H. [Vertical
@@ -13,31 +11,16 @@ full-width: true
 - **Nelson, A. O.,** Paz-Soldan, C. & Saarelma, S. [Prospects for H-mode inhibition in negative triangularity tokamak reactor plasmas](https://doi.org/10.1088/1741-4326/ac8064). _Nuclear Fusion_ **62**, 096020 (2022).
 - **Nelson, A. O.,** Laggner, F. M., Diallo, A., Smith, D. R., Xing, Z. A., Shousha, R. & Kolemen, E. [Time-dependent experimental identification of inter-ELM microtearing modes in the tokamak edge on DIII-D](https://doi.org/10.1088/1741-4326/ac27ca). _Nuclear Fusion_ **61**, 116083 (2021).
 - **Nelson, A. O.,** Xing, Z. A., Izacard, O., Laggner, F. M. & Kolemen, E. [Interpretative SOL modeling throughout multiple ELM cycles in DIII-D](https://doi.org/10.1016/j.nme.2020.100883). _Nuclear Materials and Energy_ **26**, 100883 (2021).
-- **Nelson,A.O.,** Laggner, F. M., Groebner, R. J., Grierson, B. A., Izacard, O., Eldon, D., Shafer, M., Leonard, A. W., Shiraki, D., Sontag, A. C. & Kolemen, E. [Setting the H-mode pedestal structure: variations of particle source location using gas puff and pellet fueling]( https://doi.org/10.1088/1741-4326/ab5e65). _Nuclear Fusion_ **60**, 046003 (2020).
+- **Nelson, A.O.,** Laggner, F. M., Groebner, R. J., Grierson, B. A., Izacard, O., Eldon, D., Shafer, M., Leonard, A. W., Shiraki, D., Sontag, A. C. & Kolemen, E. [Setting the H-mode pedestal structure: variations of particle source location using gas puff and pellet fueling]( https://doi.org/10.1088/1741-4326/ab5e65). _Nuclear Fusion_ **60**, 046003 (2020).
 - **Nelson, A. O.,** Logan, N., Choi, W., Strait, E. J. & Kolemen, E. [Experimental evidence of ECCD-based NTM suppression threshold reduction during mode locking on DIII-D](https://doi.org/10.1088/1361-6587/ab9b3b). _Plasma Physics and Controlled Fusion_ **62**, 094002 (2020).
 - **Nelson, A. O.,** Austin, M. E. & Kolemen, E. [Electron cyclotron emission based q-profile measurement and concept for equilibrium reconstruction](https://doi.org/10.1088/1361-6587/ab24a4). _Plasma Physics and Controlled Fusion_ **61**, 085013 (2019).
 - **Nelson, A. O.,** La Haye, R. J., Austin, M. E., Welander, A. S. & Kolemen, E. [Simultaneous detection of neoclassical tearing mode and electron cyclotron current drive locations using electron cyclotron emission in DIII-D](https://doi.org/10.1016/j.fusengdes.2019.02.089). _Fusion Engineering and Design_ **141**, 25–29 (2019).
 - **Nelson, A. O.,** Dee, R., Gudipati, M. S., Horányi, M., James, D., Kempf, S., Munsat, T., Sternovsky, Z. & Ulibarri, Z. [New experimental capability to investigate the hypervelocity micrometeoroid bombardment of cryogenic surfaces](https://doi.org/10.1063/1.4941960). _Review of Scientific Instruments_ **871**, 24502–24502 (2016).
-- **Nelson,A. O.** & Grossman, E. N. [Advanced designs for non-imaging submillimeter-wave Winston cone concentrators](https://doi.org/10.1117/12.2050833). _Proceedings of SPIE_ **9102**, 91020U (2014).
-
+- **Nelson, A. O.** & Grossman, E. N. [Advanced designs for non-imaging submillimeter-wave Winston cone concentrators](https://doi.org/10.1117/12.2050833). _Proceedings of SPIE_ **9102**, 91020U (2014).
 
 ## Thesis
 
 - **Nelson, A. O.** [Comprehensive dynamic analysis of the H-mode pedestal in DIII-D](http://www.proquest.com/docview/2592245279?pq-origsite=gscholar&fromopenview=true) PhD thesis, Princeton University, Available from ProQuest Dissertations & Theses Global (2021)
-
-## Invited Talks
-
-- **Nelson, A. O.** _H-mode Inhibition in Negative Triangularity Tokamak Reactors (Topical Plenary)_
-    in _6th Asia-Pacific Conference on Plasma Physics_ (2022).
-- **Nelson, A. O.** _Experimental identification of inter-ELM pedestal MTMs through edge current_
-    _perturbations_ in _2021 US Transport Task Force Workshop_ (2021).
-- **Nelson, A. O.** _A practical introduction to the H-mode pedestal: ELMs and ELM-free regimes_ in
-    _Fusion-EP Seminar Series_ (2020).
-- **Nelson, A. O.** _Introduction to Outstanding Problems in Magnetic Confinement Fusion_ in _APS-_
-    _DPP Student Day_ (2020).
-- **Nelson, A. O.,** Haye, R. J. L., Austin, M. E., Welander, A. S. & Kolemen, E. _ECE-based Tearing_
-    _Mode Suppression and Equilibrium Reconstruction_ in _24th Workshop on MHD Stability Control_
-    (2019).
 
 ## Co-Author Publications
 
