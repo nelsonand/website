@@ -75,6 +75,7 @@ social-network-links:
 #  mastodon: instance.url/@username
   ORCID: 0000-0002-9612-1936
   google-scholar: citations?user=_RET_uYAAAAJ
+  webofscience: wos/author/record/2450046
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -97,6 +98,7 @@ share-links-active:
   github: true
   ORCID: true
   google-scholar: true
+  webofscience: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
