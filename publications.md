@@ -82,6 +82,9 @@ Shousha, R., Kim, S. K., Erickson, K. G., Hahn, S. H., **Nelson, A. O.,** Yang, 
 **[Effect of n=1 RMP-driven Turbulence on Ion Pedestal and its role in Adaptive ELM control in KSTAR](http://ocs.ciemat.es/eps2021pap/pdf/P4.1067.pdf)**<br />
 Kim, S. K., Shousha, R., Hahn, S. H., **Nelson, A. O.,** Wai, J., Yang, S. M., Park, J. K., In, Y., Lee, J. H., Kim, J. & Kolemen, E., _Proceedings of 47th EPS Conference on Plasma Physics_ **P4**, 1067. (2021)
     
+**[Neural Dynamical Systems: Balancing Structure and Flexibility in Physical Prediction](https://doi.org/10.1109/CDC45484.2021.9682807)**<br />
+Mehta, V., Char, I., Neiswanger, W., Chung, Y., **Nelson, A. O.,** Boyer, M. D., Kolemen, E. & Schneider, J., _2021 60th IEEE Conference on Decision and Control (CDC),_ 3735–3742 (2021).    
+    
 **[Electromagnetic torque measurements in DIII-D using internal/external magnetic field decomposition](https://doi.org/10.1063/5.0040598)**<br />
 Strait, E. J., Munaretto, S., Sweeney, R. M., Logan, N. C. & **Nelson, A. O.**, _Review of Scientific Instruments_ **92**, 043516 (2021).
     
@@ -99,9 +102,6 @@ Fitzpatrick, R. & **Nelson, A. O.**, _Physics of Plasmas_ **27**, 072501 (2020).
     
 **[Real-time pedestal optimization and ELM control with 3D fields and gas flows on DIII-D](https://doi.org/10.1088/1741-4326/ab88e1)**<br />
 Laggner, F. M., Eldon, D., **Nelson, A. O.,** Paz-Soldan, C., Bortolon, A., Evans, T. E., Fenstermacher, M. E., Grierson, B. A., Hu, Q., Humphreys, D. A., Hyatt, A. W., Nazikian, R., Meneghini, O., Snyder, P. B., Unterberg, E. A. & Kolemen, E., _Nuclear Fusion_ **60**, 076004 (2020).
-    
-**[Neural Dynamical Systems: Balancing Structure and Flexibility in Physical Prediction](https://doi.org/10.1109/CDC45484.2021.9682807)**<br />
-Mehta, V., Char, I., Neiswanger, W., Chung, Y., **Nelson, A. O.,** Boyer, M. D., Kolemen, E. & Schneider, J., _2021 60th IEEE Conference on Decision and Control (CDC),_ 3735–3742 (2020).
     
 **[Infrared Constrained Equilibria and Application to Snowflake Divertor Studies](https://doi.org/10.1016/j.nme.2020.100835)**<br />
 Wai, J. T., Vail, P. J., **Nelson, A. O.,** Xing, Z. A., Lasnier, C. & Kolemen, E., _Nuclear Materials and Energy_ **25**, 100835 (2020).
