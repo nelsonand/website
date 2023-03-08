@@ -45,6 +45,9 @@ full-width: true
 
 ### 2022
 
+**[Accelerated Workflow for Advanced Kinetic Equilibria](https://ieeexplore.ieee.org/document/10025485)**<br />
+Bechtel, T. A., **Nelson, A. O.**, Lao, L. L., Xing, Z. A., Smith, S. P., Nazikian, R., Flanagan, S., Schissel, D., Stephey, L., Thomas, R., Williams, S., Antepara, O., Dart, E., Koleman, E. & Tang, W., _Proceedings of the First Combined International Workshop on Interactive Urgent Supercomputing CIW-IUS_, 1-5 (2022).
+
 **[A survey of pedestal magnetic fluctuations using gyrokinetics and a global reduced model for microtearing stability](https://doi.org/10.1063/5.0084842)**<br />
 Curie, M., Larakers, J. L., Hatch, D., **Nelson, A. O.,** Diallo, A., Hassan, E., Guttenfelder, W., Halfmoon, M., Kotschenreuther, M., Hazeltine, R. D., Mahajan, S. M., Groebner, R. J., Chen, J., Perez von Thun, C., Frassinetti, L., Saarelma, S., Giroud, C. & Tennery, M., _Physics of Plasmas_ **29**, 042503 (2022).
     
