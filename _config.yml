@@ -19,6 +19,8 @@ author: Oak Nelson
 # --- List of links in the navigation bar --- #
 ###############################################
 
+layout: minimal
+
 navbar-links:
   Home: "index"
   Research Projects: "projects"
