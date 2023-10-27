@@ -10,6 +10,8 @@ full-width: true
 
 - **Nelson, A. O.** _Robust avoidance of edge localized modes alongside pedestal formation in negative triangularity plasmas_ 
     in _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- **Nelson, A. O.** _Negative Triangularity: The Holy Grail for Tokamak Core-Edge Integration?_ 
+    in _UCLA Plasma Science and Technology Institute Seminar Series_ (2023).
 - **Nelson, A. O.**, Austin, M. E., Boyes, W., Casali, L., Chrystal, C., Cote, T., Du, X., Eldon, D., Ernst, D., Khabanov, F. O., Kramer, G., Lunia, P., Marinoni, A., Mattes, R., McKee, G., Mordijck, S., Paz-Soldan, C., Schmitz, L., Scott, S., Stewart, S., Thome, K. E., Welsh, A., Wilson, H. S. & Zhao, M. _Initial Experimental Results from the DIII-D Negative Triangularity Campaign_ 
     in 2nd _International Fusion and Plasma Conference_ (Busan, Korea, 2023).
 - **Nelson, A. O.**, Schmitz, L., Cote, T., Paz-Soldan, C., Leuthold, N., Thome, K. E., Austin, M. E., Yu, G., Kramer, G. & Stewart, S. _Robust avoidance of peeling-ballooning instabilities through gradient reduction in the negative triangularity edge_ 
