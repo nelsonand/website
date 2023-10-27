@@ -6,6 +6,9 @@ full-width: true
 
 ## First Author Publications
 
+**[Robust avoidance of edge-localized modes alongside gradient formation in the negative triangularity tokamak edge](https://arxiv.org/abs/2305.13458)** <br />
+**Nelson, A. O.**, Schmitz, L., Paz-Soldan, C., Thome, K. E., Cote, T. B., Leuthold, N., Scotti, F., Austin, M. E., Hyatt, A. & Osborne, T., _Physical Review Letters_, in press (2023).
+
 **[Vertical Control of DIII-D Discharges with Strong Negative Triangularity](https://doi.org/10.1088/1361-6587/acbe65)** <br />
 **Nelson, A. O.,** Hyatt, A., Wehner, W., Welander, A., Paz-Soldan, C. & Anand, H., _Plasma Physics and Controlled Fusion_ **65**, 044002 (2023).
 
@@ -42,6 +45,23 @@ full-width: true
 **Nelson, A. O.**  PhD thesis, Princeton University, Available from ProQuest Dissertations & Theses Global (2021)
 
 ## Co-Author Publications
+
+### 2023
+
+**Highest Fusion Performance without Harmful Edge Energy Bursts in Tokamak**<br />
+Kim, S. K., Shousha, R., Yang, S. M., Hu, Q., Hahn, S. H., Jalalvand, A., Park, J.-K., Logan, N. C., **Nelson, A. O.**, Na, Y.-S., Nazikian, R., Wilcox, R.Hong, R., Rhodes, T., Paz-Soldan, C., Jeon, Y. M., Kim, M. W., Ko, W.H., Lee, J.H., Battey, A., Bortolon, A., Snipes, J. & Kolemen, E., _Nature Communications_, in review (2023).
+
+**[Kinetic-Ballooning-Limited Pedestals in Spherical Tokamak Plasmas](https://arxiv.org/abs/2308.05238)**<br />
+Parisi, J. F., Guttenfelder, W., **Nelson, A. O.**, Gaur, R., Kleiner, A., Lampert, M., Avdeeva, G., Berkery, J., Clauser, C., Curie, M., Diallo, A., Dorland, W., Kaye, S. M., McClenaghan, J. & Parra, F. I., _Physical Review Letters_, in review (2023).
+
+**[Simultaneous access to high normalized current, pressure, density, and confinement in strongly-shaped diverted negative triangularity plasmas](https://arxiv.org/abs/2309.03689)**<br />
+Paz-Soldan, C., Chrystal, C., Lunia, P., **Nelson, A. O.**, Austin, M. E., Cote, T. B., Hyatt, A. W., Marinoni, A., Osborne, T. H., Pharr, M., Sauter, O., Scotti, F., Thome, K. E., Wilks, T. M. & Wilson, H. S., _Physical Review Letters_, in review (2023).
+
+**[Geometric dependencies of the mean E × B shearing rate in negative triangularity tokamaks](https://doi.org/10.1088/1741-4326/ad0605)**<br />
+Singh, R., Diamond, P. & **Nelson, A. O.**, _Nuclear Fusion_, in press. (2023).
+
+**[Understanding the negative triangularity ELM trigger and ELM free state on DIII-D with ECE-imaging](https://doi.org/10.1063/5.0144711)**<br />
+Yu, G., Li, Z., Kramer, G., Scotti, F., **Nelson, A. O.**, Diallo, A., Lasnier, C., Austin, M. E., Qin, X., Chen, Y., Zheng, Y., Zhu, Y. & Luhmann, N. C., _Physics of Plasmas_ **30** (2023).
 
 ### 2022
 
