@@ -8,6 +8,12 @@ full-width: true
 
 (Slides available upon reasonable request) 
 
+- **Nelson, A. O.** _Robust avoidance of edge localized modes alongside pedestal formation in negative triangularity plasmas_ 
+    in _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- **Nelson, A. O.**, Austin, M. E., Boyes, W., Casali, L., Chrystal, C., Cote, T., Du, X., Eldon, D., Ernst, D., Khabanov, F. O., Kramer, G., Lunia, P., Marinoni, A., Mattes, R., McKee, G., Mordijck, S., Paz-Soldan, C., Schmitz, L., Scott, S., Stewart, S., Thome, K. E., Welsh, A., Wilson, H. S. & Zhao, M. _Initial Experimental Results from the DIII-D Negative Triangularity Campaign_ 
+    in 2nd _International Fusion and Plasma Conference_ (Busan, Korea, 2023).
+- **Nelson, A. O.**, Schmitz, L., Cote, T., Paz-Soldan, C., Leuthold, N., Thome, K. E., Austin, M. E., Yu, G., Kramer, G. & Stewart, S. _Robust avoidance of peeling-ballooning instabilities through gradient reduction in the negative triangularity edge_ 
+    in _2023 US Transport Task Force Workshop_ (2023).
 - **Nelson, A. O.** _H-mode Inhibition in Negative Triangularity Tokamak Reactors (Topical Plenary)_
     in _6th Asia-Pacific Conference on Plasma Physics_ (2022).
 - **Nelson, A. O.** _Experimental identification of inter-ELM pedestal MTMs through edge current_
@@ -21,6 +27,197 @@ full-width: true
     (2019).
 
 ## Conference Contributions
+
+### 2023
+
+- Austin, M. E., Casali, L., Chrystal, C., Cote, T., Du, X. D., Eldon, D., Ernst, D. R., Khabanov, F. O., Lunia, P.,
+    Marinoni, A., Mattes, R., McKee, G. R., Mordijck, S., **Nelson, A. O.,** Paz-Soldan, C., Schmitz, L., Scotti, F.,
+    Stewart, S., Thome, K. E. & Welsh, A. _Initial Transport Results of the DIII-D Negative Triangularity Campaign_ in _27th
+    oint EU-US Transport Task Force_ (2023).
+- Austin, M. E., Marinoni, A., **Nelson, A. O.,** Paz-Soldan, C., Sauter, O. & Thome, K. E. _Features of negative
+    triangularity profiles in DIII-D and their implications for transport_ in _2023 US Transport Task Force Workshop_ (2023).
+- Battaglia, D. J., Body, T., Brookman, M., Burgess, D., Creely, A., Eich, T., Hasse, C., Howard, N., Hubbard, A. E.,
+    Hughes, J., Logan, N., Myers, C., **Nelson, A. O.**, Paz-Soldan, C., Perks, C. J., Rea, C., Reinke, M.,
+    Rodriguez Fernandez, P., Rice, J., Saltzman, A., Scott, A., Sweeney, R., Tinguely, R. A., Wilks, T. & Wigram, M. Q _Q > 1 Operation Space in the First SPARC Campaign_ in _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- Body, T., Kuang, A. Q., Reinke, M., Battaglia, D. J., Hasse, C., Eich, T., Looby, T., Brookman, M.,
+    Rodriguez Fernandez, P., Howard, N., Wigram, M., Ballinger, S., Corsaro, L. & **Nelson, A. O.** _Integrating edge exhaust
+    in SPARC L-mode scenario development_ in _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- Casali, L., Eldon, D., Odstrcil, T., Welsh, A., Lee, K., Mattes, R., **Nelson, A. O.,** Paz, C., Burke, M. G., Cote, T.,
+    Khabanov, F., Lasnier, C., McLean, A., Scotti, F., Thome, K. & Truong, D. _First Integration of negative triangularity
+    plasmas with high core radiation fraction_ in _29th IAEA Fusion Energy Conference_ (2023).
+- Casali, L., Eldon, D., Welsh, A., Odstricil, T., **Nelson, A. O.,** Paz-Soldan, C., Burke, G., Cote, T., Khabanov, F.,
+    Lasnier, C., Mattes, R., McLean, A., Rhodes, T., Scotti, F., Thome, K. E. & Truong, D. _First Integration of negative
+    triangularity plasmas with high radiation fraction_ in _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- Cavallaro, A., Wilks, T. M., Hubbard, A. E., Ernst, D., Shoji, L., **Nelson, A. O.,** Leuthold, N., Happel, T. &
+    Herschel, M. _Multimachine Database Study of I-Mode Core Confinement and Edge Gradients_ in _65th Annual Meeting of
+    the APS Division of Plasma Physics_ (2023).
+- Chen, X., Burrell, K., Houshmandyar, S., Li, Z., Odstrcil, T., Osborne, T., Ernst, D., Diamond, P., Mckee, G., Yan, Z.,
+    Viezzer, E., Bortolon, A. & **Nelson, A. O.** _RECENT PROGRESS OF THE REACTOR-RELEVANT
+    INTRINSICALLY ELM- STABLE QUIESCENT H-MODE ON THE DIII-D TOKAMAK_ in _29th IAEA Fusion
+    Energy Conference_ (2023).
+- Cote, T. B., Yu, G., Khabanov, F. O., Stewart, S., **Nelson, A. O.** & Schmitz, L. _Observation of a bursty high-frequency
+    edge instability in DIII-D strongly shaped divertered negative triangularity plasmas_ in _65th Annual Meeting of the APS
+    Division of Plasma Physics_ (2023).
+- Ernst, D., Bortolon, A., Chen, X., King, J., **Nelson, A. O.,** Battaglia, D. & Hubbard, A. E. _Results of the 2022 U.S.
+    Joint Research Target on Intrinsically Non-ELMing Enhanced Confinement Regimes_ in _65th Annual Meeting of the APS
+    Division of Plasma Physics_ (2023).
+- Ernst, D. R., Bortolon, A., Chen, X., King, J. & **Nelson, A. O.** _Recent Experiments and Simulations to Develop
+    Intrinsically Non-ELMing Enhanced Confinement Regimes_ in _49th European Conference on Plasma Physics_ (2023).
+- Guizzo, S., **Nelson, A. O.,** Hansen, C. & Paz-Soldan, C. _Modeling the vertical stability of negative triangularity
+    reactors_ in _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- Harrison, J. R. et al. _OVERVIEW OF PHYSICS RESULTS FROM MAST UPGRADE TOWARDS
+    CORE-PEDESTAL-EXHAUST INTEGRATION_ in _29th IAEA Fusion Energy Conference_ (2023).
+- Hu, Q., Hahm, T. S., Kim, S. K., Park, J.-K., **Nelson, A. O.,** Paz-Soldan, C., Park, S., Na, Y.-S. & Choi, G. _ExB
+    shearing rate in negative triangularity tokamak plasmas_ in _10th Asia Pacific-Transport Working Group_ (2023).
+- Hubbard, A., Angulo, A., Austin, M. E., Cavallaro, A. J., Chen, J., Chrystal, C., Happel, T., Haskey, S., Hong, R.,
+    Hughes, J. W., McKee, G. R., **Nelson, A. O.,** Osborne, T., Rosenthal, A., Rhodes, T. L., Wilks, T., Yan, Z., Yu, G.,
+    Zamperini, S. & Zhu, Y. _Stationary I-modes in multiple configurations in the DIII-D tokamak_ in _65th Annual Meeting of
+    the APS Division of Plasma Physics_ (2023).
+- Kim, S. K., Yang, S. M., Park, J. K., Kolemen, E., Hu, Q., Logan, N., **Nelson, A. O.**, Choi, G. J., Lee, Y. H., Lee, H.,
+    Jeon, Y. M., Kim, J. H., Lee, C. Y. & Shousha, R. _INVESTIGATION OF RMP-INDUCED ION-SCALE
+    TURBULENCE IN THE PEDESTAL AND ITS ROLE IN ACCESSING THE OPTIMIZED HIGH- CONFINEMENT
+    ELM-FREE STATE_ in _29th IAEA Fusion Energy Conference_ (2023).
+- Kim, S. K., Shousha, R., Yang, Y. M., Hu, Q., **Nelson, A. O.,** Logan, N. C., Nazikian, R., Park, J. K., Wilcox, R.,
+    Rhodes, T., Hong, R., Paz-Soldan, C., Erickson, K., Battey, A., Hahn, S. H., Jeon, Y. M., Bortolon, A., Snipes, J. &
+    Koleman, E. _Adaptive ELM Control and its Development in KSTAR and DIII-D_ in _2nd International Fusion and
+    Plasma Conference_ (2023).
+- Kim, S., Shousha, R., Hu, Q., **Nelson, A. O.,** Nazikian, R., Yang, S. M., Logan, N. C., Park, J.-K., Wilcox, R.,
+    Rhodes, T., Hong, R., Paz-Soldan, C., Battey, A., Erickson, K., Bortolon, A. & Koleman, E. _Adaptive ELM Control in
+    DIII-D towards complete ELM suppression from H-mode transition with high-confinement_ in _65th Annual Meeting of the
+    APS Division of Plasma Physics_ (2023).
+- Knolker, M., Osborne, T., Snyder, P. B., Wilks, T. M., Hu, Q., McClenaghan, J., Cote, T. B., Paz-Soldan, C.,
+    **Nelson, A. O.** & Wilcox, R. S. _Advances in RMP ELM suppression towards high pedestal pressures harnessing the
+    Super H-mode regime_ in _29th IAEA Fusion Energy Conference_ (2023).
+- Kramer, G. J., **Nelson, A. O.** & Thome, K. E. _Full-orbit simulation of charge separation for negative triangularity
+    plasma shapes in DIII-D_ in _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- Labbate, J. A., Berkery, J., Parisi, J., Podesta, M., Dominguez-Palacios, J. J., Cruz-Zabala, D. J., Reyner Vinolas, A.,
+    Garcia-Munoz, M., Viezzer, E. & **Nelson, A. O.** _Analyzing mode stability to identify stable operating regions for the
+    novel SMall Aspect Ratio Tokamak (SMART)_ in _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- Mordijck, S., Austin, M. E., Thome, K. E., Barr, J., Chaban, R., Paz-Soldan, C. & **Nelson, A. O.** _Density peaking and
+    particle transport in negative triangularity discharges on DIII-D_ in _2023 US Transport Task Force Workshop_ (2023).
+- Mordijck, S., Austin, M. E., Thome, K. E., Barr, J., Chaban, R., Paz-Soldan, C. & **Nelson, A. O.** _Density peaking and
+    particle transport in negative triangularity discharges on DIII-D_ in _49th European Conference on Plasma Physics_ (2023).
+- Mordijck, S., Odstrcil, T., Austin, M. E., Thome, K. E., Barr, J., Chaban, R., Paz-Soldan, C. & **Nelson, A. O.** _Density
+    Peaking and Particle Transport in Negative Triangularity Discharges on DIII-D_ in _65th Annual Meeting of the APS
+    Division of Plasma Physics_ (2023).
+- **Nelson, A. O.,** Arnold, D., Boyes, W., Chandra, R., Choudhury, H., Dasilva, N., Hansen, C., Lunia, P.,
+    Paz-Soldan, C., Pharr, M., Tobin, M., Wilson, H. S., Ball, J., Bielajew, R., Benjamin, S., Calvo-Carrera, M., Chang, C.,
+    Corsaro, L., Cummings, C., Devitre, A., Diab, R., Ferry, S., Frank, S., Jerkins, J., Johnson, J., Liu, M., Mackie, S.,
+    Mandell, N., Maris, A., Miller, M. A., Mouratidis, T., Murphy, D., Peterson, E., Rutherford, G., Saltzman, A.,
+    Segantin, S. & Whyte, D. _EXPLORING THE NEGATIVE-TRIANGULARITY PATHWAY TO FUSION WITH
+    MANTA_ in _29th IAEA Fusion Energy Conference_ (2023).
+- **Nelson, A. O.,** Paz-Soldan, C., Wilson, H. S., Schmitz, L., Cote, T. B., Thome, K. E., Hyatt, A., Osborne, T.,
+    Sciortino, F., Happel, T., P ̈utterich, T., Hobirk, J., Yu, G., Mckee, G., Stewart, S., Kramer, G. J., Sauter, O.,
+    Austin, M. E. & Marinoni, A. _ROBUST L-MODE EDGE BEHAVIOR IN HIGH PERFORMANCE NEGATIVE
+    TRIANGULARITY PLASMAS: FROM EXPERIMENTS TO REACTORS_ in _29th IAEA Fusion Energy
+    Conference_ (2023).
+- **Nelson, A. O.,** Guizzo, S., Hyatt, A. W., Wehner, W., Welander, A. S., Paz-Soldan, C., Osborne, T., Anand, H. &
+    Thome, K. E. _On the vertical stability of DIII-D discharges with strong negative triangularity_ in _65th Annual Meeting of
+    the APS Division of Plasma Physics_ (2023).
+- Newman, D., James, R. W., Dominguez, A., Murphy, N., Merritt, E. C., **Nelson, A. O.,** Crane, J. & Adams, M.
+    _Becomings: Modified Green-Amber-Red protocol with the David Newman Model (GARDN - M) for DPP Site Selection_ in
+    _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- Parisi, J., Guttenfelder, W., **Nelson, A. O.,** Gaur, R., Lampert, M., Kleiner, A., Avdeeva, G., Berkery, J., Clauser, C.,
+    Curie, M., Diallo, A., Dorland, W. D., Kaye, S. M., McClenaghan, J. & Parra, F. _Kinetic ballooning mode constraints
+    for tokamak pedestals with varying aspect ratio and plasma shaping_ in _65th Annual Meeting of the APS Division of
+    Plasma Physics_ (2023).
+- Parisi, J. F., Guttenfelder, W., **Nelson, A. O.,** Clauser, C., Curie, M., Diallo, A., Gaur, R., Kleiner, A., Lampert, M. &
+    Mcclenaghan, J. A _GYROKINETICS-BASED MODEL FOR PREDICTING PEDESTAL WIDTH SCALING AT
+    ARBITRARY ASPECT RATIO_ in _29th IAEA Fusion Energy Conference_ (2023).
+- Paz-Soldan, C., Battey, A. F., Hansen, C., Leuthold, N., Logan, N. C., **Nelson, A. O.,** Stewart, I. G., Battaglia, D. J.,
+    Creely, A. J., Myers, C. E., Reinke, M. L., Garnier, D. T., Granetz, R. S., Sweeney, R. & Tinguely, R. A.
+    _EQUILIBRIUM, STABILITY, AND DISRUPTION CALCULATIONS SUPPORTING THE DESIGN AND
+    ASSEMBLY OF THE SPARC TOKAMAK_ in _29th IAEA Fusion Energy Conference_ (2023).
+- Paz-Soldan, C., Austin, M. E., Barr, J., Boyes, W., Casali, L., Chrystal, C., Cote, T., Ding, S., Du, X., Eldon, D.,
+    Ernst, D., Hong, R., Hyatt, A., Khabanov, F. O., Lunia, P., Marinoni, A., Mattes, R., McKee, G., Mordijck, S.,
+    **Nelson, A. O.,** Osborne, T., Sauter, O., Shiraki, D., Schmitz, L., Scotti, F., Stewart, S., Thome, K. E., Welsh, A.,
+    Wilks, T. & Wilson, H. _Highlights from the DIII-D Negative Triangularity Campaign_ in _65th Annual Meeting of the APS
+    Division of Plasma Physics_ (2023).
+- Pisinger, M., Li, Z., Chen, X., Osborne, T. H. & **Nelson, A. O.** _Database and stability analysis for DIII-D QH-mode
+    plasmas_ in _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- Rondini, L., Freiberger, S., **Nelson, A. O.,** Paz-Soldan, C. & Zhang, X. _Verifying Improved Particle Trapping in
+    Negative Triangularity Plasmas_ in _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- Rondini, L., Freiberger, S., **Nelson, A. O.,** Paz-Soldan, C. & Zhang, X. _Verifying improved particle trapping in negative
+    triangularity plasmas_ in _2023 Theory and Simulation of Disruptions Workshop_ (2023).
+- Schmitz, L., **Nelson, A. O.,** Hyatt, A. W., Zeng, L., Thome, K. E., Hong, R., Cote, T. B., Paz-Soldan, C., Stewart, S.,
+    Yan, Z., Khabanov, F., Osborne, T. H., Austin, M. E. & Marinoni, A. _Edge Flows, Limit Cycle Oscillations, and
+    Transport Barrier Evolution in DIII-D Negative Triangularity Plasmas_ in _2023 US Transport Task Force Workshop_
+    (2023).
+- Schmitz, L., Zeng, L., Callahan, K., Hong, R., **Nelson, A. O.,** Paz-Soldan, C. & Cote, T. _Edge Transport Barrier
+    Evolution and H-mode inhibition in Negative Triangularity Plasmas_ in _65th Annual Meeting of the APS Division of
+    Plasma Physics_ (2023).
+- Scotti, F., McLean, A. G., Marinoni, A., Lasnier, C. J., Eldon, D., Paz-Soldan, C., **Nelson, A. O.,** Thome, K. E.,
+    Truong, D., Wang, H., Burke, M. G., Wilcox, R., Li, N., Lore, J., Zhao, M., Hyatt, A., Osborne, T., Leonard, A. &
+    Fenstermacher, M. _Detachment and scrape-off layer radial transport characterization in Negative Triangularity
+    discharges in DIII-D_ in _7th Asia-Pacific Conference on Plasma Physics_ (2023).
+- Scotti, F., McLean, A. G., Marinoni, A., Lasnier, C. J., Eldon, D., Paz-Soldan, C., **Nelson, A. O.,** Thome, K. E.,
+    Truong, D., Wang, H., Burke, M. G., Wilcox, R., Li, N., Lore, J., Zhao, M., Hyatt, A., Osborne, T., Leonard, A. &
+    Fenstermacher, M. _Detachment and scrape-off layer radial transport characterization in Negative Triangularity
+    discharges in DIII-D_ in _2023 US Transport Task Force Workshop_ (2023).
+- Shousha, R., Battey, A., Rothstein, A., Paz-Soldan, C., Koleman, E., Shin, G., Park, G. Y., Abbate, J., Erickson, K.,
+    Kim, M., Logan, N., **Nelson, A. O.,** Hu, Q., Wilcox, R., Hahn, S. H., Yang, S. M., Ko, W. H. & Jeon, Y. M. _CLOSED
+    LOOP RMP ELM SUPPRESSION WITH MINIMIZED CONFINEMENT DEGRADATION USING ADAPTIVE
+    CONTROL DEMONSTRATED IN DIII-D AND KSTAR_ in _29th IAEA Fusion Energy Conference_ (2023).
+- Smith, S. P., Bechtel, T. A., Denk, S., DeShazer, E., **Nelson, A. O.,** Stephey, L., Xing, Z. A., Antepara, O., Dart, E.,
+    Nazikian, R. & Williams, S. _Leveraging increased computing power at NERSC for DIII-D CAKE analysis_ in _65th
+    Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- Smith, S., Bechtel, T. A., Denk, S., DeShazer, E., **Nelson, A. O.,** Stephey, L., Xing, Z., Antepara, O., Dart, E.,
+    Nazikian, R. & Williams, S. _Connecting DIII-D and NERSC to support DIII-D Operations through Kinetic Equilibrium
+    Analysis_ in _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- Stewart, S., Chrystal, C., Geiger, B., Khabanov, F., **Nelson, A. O.,** Paz-Soldan, C., Qin, X., Schmitz, L.,
+    Thome, K. E., Yan, Z. & McKee, G. _Investigation of Turbulence Properties in Negative Triangularity Plasmas on
+    DIII-D using Beam Emission Spectroscopy in _27th joint EU-US Transport Task Force_ (2023).
+- Stewart, S., Chrystal, C., Geiger, B., Khabanov, F., **Nelson, A. O.,** Paz-Soldan, C., Qin, X., Schmitz, L.,
+    Thome, K. E., Yan, Z. & McKee, G. _Investigation of Turbulence Properties in Negative Triangularity Plasmas on
+    DIII-D using Beam Emission Spectroscopy_ in _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- Stewart, S., McKee, G., Khabanov, F., Qin, X., Yan, Z., Geiger, B., **Nelson, A. O.,** Paz-Soldan, C. A. & Chrystal, C.
+    _Investigation of Turbulence Properties in Negative Triangularity Plasmas on DIII-D using Beam Emission Spectroscopy_
+    in _2023 US Transport Task Force Workshop_ (2023).
+- Teplukhina, A. A., Battaglia, D. J., Body, T., Boyer, M., Creely, A. J., Hasse, C., Kaloyannis, P. S., Logan, J.,
+    Looby, T., Wai, J., Contre, C., Felici, F., Merle, A., Sauter, O., Garnier, D. T., Howard, N. T., Rodriguez Fernandez, P.,
+    Wang, A., **Nelson, A. O.,** Paz-Soldan, C. & Stewart, I. G._Full-pulse simulations for SPARC using MOSAIC_ in 
+    _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- Thome, K. E., Austin, M. E., Hyatt, A., Marinoni, A., **Nelson, A. O.,** Paz-Soldan, C., Scotti, F., Barr, J. L.,
+    Burke, M. G., Casali, L., Chrystal, C., Coda, S., Cote, T. B., Ding, S., Du, X. D., Eldon, D., Ernst, D.,
+    Fenstermacher, E., Garofalo, A., Hong, R., Khabanov, F. O., Kramer, G. J., Lasnier, C. J., Logan, N. C., Lunia, P.,
+    McKee, G. R., McLean, A. G., Mordijck, S., Okabayashi, M., Sauter, O., Schmitz, L., Shiraki, D., Stewart, S.,
+    Truong, D. D., Osborne, T., Victor, B. S., Wang, H. Q., Wehner, W. P., Welander, A. S., Wilks, T. M., Yang, J., Yu, G.
+    & Zeng, L. _Assessment of Negative Triangularity as a Reactor Scenario in DIII-D_ in _29th IAEA Fusion Energy
+    Conference_ (2023).
+- Thome, K. E., Austin, M. E., Casali, L., Chrystal, C., Cote, T. B., Du, X. D., Eldon, D., Ernst, D., Hong, R.,
+    Khabanov, F. O., Lunia, P., Marinoni, A., McKee, G. R., Mordijck, S., **Nelson, A. O.,** Paz-Soldan, C., Sauter, O.,
+    Schmitz, L., Scotti, F., Stewart, S. & Zhao, M. _Initial Transport Results from the DIII-D Negative Triangularity
+    Campaign_ in _2023 US Transport Task Force Workshop_ (2023).
+- Thome, K. E., Austin, M. E., Hyatt, A., Marinoni, A., **Nelson, A. O.,** Paz-Soldan, C., Scotti, F., Barr, J. L.,
+    Boyes, W., Casali, L., Chrystal, C., Cote, T. B., Ding, S., Du, X. D., Eldon, D., Ernst, D., Garafalo, A., Hong, R.,
+    Khabanov, F. O., Kramer, G. J., Lasnier, C. J., Lunia, P., McKee, G., McLean, A. G., Mordijck, S., Okabayashi, M.,
+    Sauter, O., Schmitz, L., Shiraki, D., Stewart, S., Takemura, Y., Truong, D. D., Osborne, T., Wang, H. Q., Wilks, T. M.
+    & Zhao, M. _Overview of Results from the DIII-D Negative Triangularity Campaign_ in _65th Annual Meeting of the APS
+    Division of Plasma Physics_ (2023).
+- Thome, K. E., Austin, M. E., Hyatt, A., Marinoni, A., **Nelson, A. O.,** Paz-Soldan, C., Scotti, F., Barr, J. L.,
+    Boyes, W., Casali, L., Chrystal, C., Cote, T. B., Ding, S., Du, X. D., Eldon, D., Ernst, D., Garafalo, A., Hong, R.,
+    Khabanov, F. O., Kramer, G. J., Lasnier, C. J., Lunia, P., McKee, G., McLean, A. G., Mordijck, S., Okabayashi, M.,
+    Sauter, O., Schmitz, L., Shiraki, D., Stewart, S., Takemura, Y., Truong, D. D., Osborne, T., Wang, H. Q., Wilks, T. M.
+    & Zhao, M. _Overview of the DIII-D Negative Triangularity Campaign_ in _65th Annual Meeting of the APS Division of
+    Plasma Physics_ (2023).
+- Welsh, A., Casali, L., Eldon, D., Odstrcil, T., **Nelson, A. O.,** Mattes, R., Cote, T., Paz-Soldan, C. & Thome, K. E.
+    _Characterization of the operational space at high radiation high power negative triangularity plasmas at DIII-D_ in _65th
+    Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- Wilson, H. S., **Nelson, A. O.,** Paz-Soldan, C., McClenaghan, J., Odstricil, T., Casali, L., Eldon, D., Welsh, A. &
+    Mattes, R. _Integrated modeling of highly radiative plasmas with negative triangularity shaping_ in _65th Annual Meeting of
+    the APS Division of Plasma Physics_ (2023).
+- Wilson, H. S., ei al. _Integrated design of a pulsed, modular, negative triangularity pilot plant concept_ in _65th Annual Meeting of
+    the APS Division of Plasma Physics_ (2023).
+- Xia, J., Battey, A., Choudhury, H., **Nelson, A. O.,** Paz-Soldan, C., Barr, J., Eidietis, N., Hollmann, E., Lvovskiy, A. &
+    Shiraki, D. _Analysis of Final Loss Events in DIII-D due to Vertically Unstable Benign Runaway Electron Beams_ in _65th
+    Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- Xing, Z. A., Smith, S. P., Bechtel, T. A., Denk, S., DeShazer, E., **Nelson, A. O.,** Stephey, L., Antepara, O., Dart, E.,
+    Nazikian, R. & Williams, S. _Leveraging NERSC computing to support DIII-D operations through profile analysis and
+    kinetic equilibrium reconstruction_ in _4th Fusion HPC Workshop November_ (2023).
+- Yang, J., Sips, A. C. C., Walker, M., De Vries, P., Sinha, J., Kim, H. T., Ono, M., Glass, F., Austin, M.,
+    Van Zeeland, M., Herfindal, J., Shafer, M., **Nelson, A. O.,** Marini, C., Hyatt, A., Turco, F. & Pinsker, R. _Dependence
+    of EC toroidal injection angle on effective EC assisted startup_ in _65th Annual Meeting of the APS Division of Plasma
+    Physics_ (2023).
 
 ### 2022
 
