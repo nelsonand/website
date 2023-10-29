@@ -4,24 +4,8 @@ title: Research Projects
 full-width: true
 ---
 
-### Enabling Fusion Reactors with Negative Triangularity Configurations
+My primary goal as a researcher is to pursure novel and impactful studies that will advance the understanding of magnetic confinement fusion towards widespread commercial application. Along these lines, I collaborate with private companies and publically-funded user facilities across the globe on a broad array of topics ranging from detailed physics experiments to whole-device modeling to the development and implmentation of control and optimization schemes. 
 
-More information coming soon! 
+This page is still under development, so please check back soon for updated information!
 
-<img src="assets/img/diii-d_cut.png" alt="Rendering of Negative Triangularity in DIII-D" width="200"/>
-
-### Development and Assesment of Tokamak Control 
-
-More information coming soon!
-
-### Automated and Optimized Tokamak Equilibrium Reconstruction
-
-More information coming soon!
-
-### Exploration of Negative Triangularity on Spherical Tokamaks
-
-More information coming soon!
-
-### Cross-machine Comparison of Non-ELMing Regiemes
-
-More information coming soon!
+More information on individual projects is provided below:
