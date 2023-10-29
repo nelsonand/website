@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagewithpost
 title: Research Projects
 full-width: true
 ---
