@@ -8,6 +8,8 @@ full-width: true
 
 More information coming soon! 
 
+![Rendering of Negative Triangularity in DIII-D](assets/img/diii-d_cut.png)
+
 ### Development and Assesment of Tokamak Control 
 
 More information coming soon!
