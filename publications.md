@@ -51,6 +51,9 @@ full-width: true
 **Highest Fusion Performance without Harmful Edge Energy Bursts in Tokamak**<br />
 Kim, S. K., Shousha, R., Yang, S. M., Hu, Q., Hahn, S. H., Jalalvand, A., Park, J.-K., Logan, N. C., **Nelson, A. O.**, Na, Y.-S., Nazikian, R., Wilcox, R.Hong, R., Rhodes, T., Paz-Soldan, C., Jeon, Y. M., Kim, M. W., Ko, W.H., Lee, J.H., Battey, A., Bortolon, A., Snipes, J. & Kolemen, E., _Nature Communications_, in review (2023).
 
+**A Gaussian Process Guide for Signal Regression in Magnetic Fusion. Nuclear Fusion, in review**<br />
+Michoski, C., Oliver, T. A., Hatch, D. R., Diallo, A., Kotschenreuther, M., Eldona, D., Wallerb, M., Groebnera, R. & **Nelson, A. O.**  (2023)
+
 **[Kinetic-Ballooning-Limited Pedestals in Spherical Tokamak Plasmas](https://arxiv.org/abs/2308.05238)**<br />
 Parisi, J. F., Guttenfelder, W., **Nelson, A. O.**, Gaur, R., Kleiner, A., Lampert, M., Avdeeva, G., Berkery, J., Clauser, C., Curie, M., Diallo, A., Dorland, W., Kaye, S. M., McClenaghan, J. & Parra, F. I., _Physical Review Letters_, in review (2023).
 

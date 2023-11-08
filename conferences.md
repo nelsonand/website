@@ -4,12 +4,13 @@ title: Conferences and Seminars
 full-width: true
 ---
 
-## Invited Talks and Seminars
+## Invited Talks, Lectures and Seminars
 
 (Slides available upon reasonable request) 
 
 - **Nelson, A. O.** _Robust avoidance of edge localized modes alongside pedestal formation in negative triangularity plasmas_ 
     in _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
+- **Nelson, A. O.** _Plasma Waves_ in _Introduction to Fusion Energy and Plasma Physics Course_ (2023).
 - **Nelson, A. O.** _Negative Triangularity: The Holy Grail for Tokamak Core-Edge Integration?_ 
     in _UCLA Plasma Science and Technology Institute Seminar Series_ (2023).
 - **Nelson, A. O.**, Austin, M. E., Boyes, W., Casali, L., Chrystal, C., Cote, T., Du, X., Eldon, D., Ernst, D., Khabanov, F. O., Kramer, G., Lunia, P., Marinoni, A., Mattes, R., McKee, G., Mordijck, S., Paz-Soldan, C., Schmitz, L., Scott, S., Stewart, S., Thome, K. E., Welsh, A., Wilson, H. S. & Zhao, M. _Initial Experimental Results from the DIII-D Negative Triangularity Campaign_ 
