@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagewithpost-outreach
 title: Teaching and Outreach
 full-width: true
 ---
