@@ -48,17 +48,17 @@ full-width: true
 
 ### 2023
 
-**Highest Fusion Performance without Harmful Edge Energy Bursts in Tokamak**<br />
-Kim, S. K., Shousha, R., Yang, S. M., Hu, Q., Hahn, S. H., Jalalvand, A., Park, J.-K., Logan, N. C., **Nelson, A. O.**, Na, Y.-S., Nazikian, R., Wilcox, R.Hong, R., Rhodes, T., Paz-Soldan, C., Jeon, Y. M., Kim, M. W., Ko, W.H., Lee, J.H., Battey, A., Bortolon, A., Snipes, J. & Kolemen, E., _Nature Communications_, in review (2023).
+**Highest Fusion Performance without Harmful Edge Energy Bursts in Tokamak**, in review<br />
+Kim, S. K., Shousha, R., Yang, S. M., Hu, Q., Hahn, S. H., Jalalvand, A., Park, J.-K., Logan, N. C., **Nelson, A. O.**, Na, Y.-S., Nazikian, R., Wilcox, R.Hong, R., Rhodes, T., Paz-Soldan, C., Jeon, Y. M., Kim, M. W., Ko, W.H., Lee, J.H., Battey, A., Bortolon, A., Snipes, J. & Kolemen, E., _Nature Communications_ (2023).
 
-**A Gaussian Process Guide for Signal Regression in Magnetic Fusion. Nuclear Fusion, in review**<br />
+**A Gaussian Process Guide for Signal Regression in Magnetic Fusion. Nuclear Fusion**, in review<br />
 Michoski, C., Oliver, T. A., Hatch, D. R., Diallo, A., Kotschenreuther, M., Eldona, D., Wallerb, M., Groebnera, R. & **Nelson, A. O.**  (2023)
 
-**[Kinetic-Ballooning-Limited Pedestals in Spherical Tokamak Plasmas](https://arxiv.org/abs/2308.05238)**<br />
-Parisi, J. F., Guttenfelder, W., **Nelson, A. O.**, Gaur, R., Kleiner, A., Lampert, M., Avdeeva, G., Berkery, J., Clauser, C., Curie, M., Diallo, A., Dorland, W., Kaye, S. M., McClenaghan, J. & Parra, F. I., _Physical Review Letters_, in review (2023).
+**[Kinetic-Ballooning-Limited Pedestals in Spherical Tokamak Plasmas](https://arxiv.org/abs/2308.05238)**, in review<br />
+Parisi, J. F., Guttenfelder, W., **Nelson, A. O.**, Gaur, R., Kleiner, A., Lampert, M., Avdeeva, G., Berkery, J., Clauser, C., Curie, M., Diallo, A., Dorland, W., Kaye, S. M., McClenaghan, J. & Parra, F. I., _Physical Review Letters_ (2023).
 
-**[Simultaneous access to high normalized current, pressure, density, and confinement in strongly-shaped diverted negative triangularity plasmas](https://arxiv.org/abs/2309.03689)**<br />
-Paz-Soldan, C., Chrystal, C., Lunia, P., **Nelson, A. O.**, Austin, M. E., Cote, T. B., Hyatt, A. W., Marinoni, A., Osborne, T. H., Pharr, M., Sauter, O., Scotti, F., Thome, K. E., Wilks, T. M. & Wilson, H. S., _Physical Review Letters_, in review (2023).
+**[Simultaneous access to high normalized current, pressure, density, and confinement in strongly-shaped diverted negative triangularity plasmas](https://arxiv.org/abs/2309.03689)**, in review<br />
+Paz-Soldan, C., Chrystal, C., Lunia, P., **Nelson, A. O.**, Austin, M. E., Cote, T. B., Hyatt, A. W., Marinoni, A., Osborne, T. H., Pharr, M., Sauter, O., Scotti, F., Thome, K. E., Wilks, T. M. & Wilson, H. S., _Physical Review Letters_ (2023).
 
 **[Geometric dependencies of the mean E × B shearing rate in negative triangularity tokamaks](https://doi.org/10.1088/1741-4326/ad0605)**<br />
 Singh, R., Diamond, P. & **Nelson, A. O.**, _Nuclear Fusion_, in press. (2023).
