@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Optimizing Vertical Staiblity Control for Tokamak Pilot Plants
-cover-img: assets/img/diii-d_cut.png
-thumbnail-img: assets/img/diii-d_cut.png
-share-img: assets/img/diii-d_cut.png
+cover-img: blog-projects/assets/img/diii-d_cut.png
+thumbnail-img: blog-projects/assets/img/diii-d_cut.png
+share-img: blog-projects/assets/img/diii-d_cut.png
 category: projects
 ---
  
