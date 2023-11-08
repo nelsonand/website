@@ -6,7 +6,7 @@ full-width: true
 
 ## First Author Publications
 
-**[Robust avoidance of edge-localized modes alongside gradient formation in the negative triangularity tokamak edge](https://arxiv.org/abs/2305.13458)** <br />
+**[Robust avoidance of edge-localized modes alongside gradient formation in the negative triangularity tokamak edge](https://doi.org/10.1103/PhysRevLett.131.195101)** <br />
 **Nelson, A. O.**, Schmitz, L., Paz-Soldan, C., Thome, K. E., Cote, T. B., Leuthold, N., Scotti, F., Austin, M. E., Hyatt, A. & Osborne, T., _Physical Review Letters_, in press (2023).
 
 **[Vertical Control of DIII-D Discharges with Strong Negative Triangularity](https://doi.org/10.1088/1361-6587/acbe65)** <br />
