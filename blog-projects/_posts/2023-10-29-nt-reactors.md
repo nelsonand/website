@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fusion Power Plant Design Using Negative Triangularityå
+title: Fusion Power Plant Design Using Negative Triangularity
 cover-img: blog-projects/assets/img/diii-d_cut.png
 thumbnail-img: blog-projects/assets/img/diii-d_cut.png
 share-img: blog-projects/assets/img/diii-d_cut.png
@@ -18,7 +18,7 @@ A main thrust of my work is to explore how NT configurations can help to establi
 ## Selected puplications on this subject:
 
 **[Exploring the Negative-Triangularity Pathway to Fusion with MANTA](https://github.com/nelsonand/website/blob/main/blog-projects/assets/docs/2023_MANTA_IAEA.pdf)**<br />
-**Nelson, A. O.,** et al., 29th IAEA Fusion Energy Conference (October 2023)
+**Nelson, A. O.,** et al., _29th IAEA Fusion Energy Conference_ (October 2023)
 
 **[MANTA: Modular Adjustable Negative-Triangularity ARC](https://burningplasma.org/resources/ref/Web_Seminars/MANTA_USBPO_Webinar_Presentation.pdf)**<br />
 US Burning Plasma Organization Webinar (March 2023)
