@@ -18,10 +18,10 @@ A main thrust of my work is to explore how NT configurations can help to establi
 ## Selected puplications on this subject:
 
 **[Exploring the Negative-Triangularity Pathway to Fusion with MANTA](https://github.com/nelsonand/website/blob/main/blog-projects/assets/docs/2023_MANTA_IAEA.pdf)**<br />
-**Nelson, A. O.,** et al., _29th IAEA Fusion Energy Conference_ (October 2023)
+**Nelson, A. O.,** et al., _29th IAEA Fusion Energy Conference_ (October 2023).
 
 **[MANTA: Modular Adjustable Negative-Triangularity ARC](https://burningplasma.org/resources/ref/Web_Seminars/MANTA_USBPO_Webinar_Presentation.pdf)**<br />
-US Burning Plasma Organization Webinar (March 2023)
+US Burning Plasma Organization Webinar (March 2023).
 
 **[Prospects for H-mode inhibition in negative triangularity tokamak reactor plasmas](https://doi.org/10.1088/1741-4326/ac8064)** <br />
 **Nelson, A. O.,** Paz-Soldan, C. & Saarelma, S., _Nuclear Fusion_ **62**, 096020 (2022).
