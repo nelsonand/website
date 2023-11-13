@@ -52,7 +52,7 @@ full-width: true
 Kim, S. K., Shousha, R., Yang, S. M., Hu, Q., Hahn, S. H., Jalalvand, A., Park, J.-K., Logan, N. C., **Nelson, A. O.**, Na, Y.-S., Nazikian, R., Wilcox, R.Hong, R., Rhodes, T., Paz-Soldan, C., Jeon, Y. M., Kim, M. W., Ko, W.H., Lee, J.H., Battey, A., Bortolon, A., Snipes, J. & Kolemen, E., _Nature Communications_, in review (2023).
 
 **A Gaussian Process Guide for Signal Regression in Magnetic Fusion**<br />
-Michoski, C., Oliver, T. A., Hatch, D. R., Diallo, A., Kotschenreuther, M., Eldona, D., Wallerb, M., Groebnera, R. & **Nelson, A. O.** _Nuclear Fusion_, in review (2023)
+Michoski, C., Oliver, T. A., Hatch, D. R., Diallo, A., Kotschenreuther, M., Eldona, D., Wallerb, M., Groebnera, R. & **Nelson, A. O.**, _Nuclear Fusion_, in review (2023)
 
 **[Geometric dependencies of the mean E × B shearing rate in negative triangularity tokamaks](https://doi.org/10.1088/1741-4326/ad0605)**<br />
 Singh, R., Diamond, P. & **Nelson, A. O.**, _Nuclear Fusion_, **63** 126053 (2023).
