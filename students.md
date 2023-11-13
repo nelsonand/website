@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Former and Current Students
+title: Students
 full-width: true
 ---
 

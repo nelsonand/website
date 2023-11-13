@@ -1,6 +1,6 @@
 ---
 layout: pagewithpost-outreach
-title: Teaching and Outreach
+title: DEI and Outreach
 full-width: true
 ---
 
