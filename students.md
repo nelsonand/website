@@ -4,7 +4,7 @@ title: Students
 full-width: true
 ---
 
-Though I do not yet have my own research group, I am directly involved in mentorship of many young scientists. 
+Though I do not yet have my own research group, I am directly involved in the mentorship of many young scientists. 
 These include: 
 
 ## Graduate Students
@@ -20,6 +20,7 @@ These include:
 2022 - **Daniel Burgess** (now a graduate student at Columbia) Studies of inherently non-ELMing tokamak scenarios<br />
 2021 - **Samuel Freiberger** (now a graduate student at Columbia) Assessment of machine capabilities to create negative triangularity shapes on the MAST-U tokamak<br />
 2021 - **Samantha O'Sullivan** (now a graduate student at Oxford) Correlations between neutral beam injection blips and ELM triggers in tokamaks
+2021 - **Javier Morales-Arias** (now a graduate student at Princeton) Modeling of lithium exposures to plasma discharges
 
 ## Other Teaching Endeavors
 
