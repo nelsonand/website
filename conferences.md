@@ -319,7 +319,7 @@ full-width: true
 - **Nelson, A. O.,** Xing, Z. A., Izacard, O., Laggner, F. M. & Kolemen, E. _Interpretative SOL_
     _modeling and ELM-synchronization for full shots in DIII-D_ in _24th International Conference on_
     _Plasma Surface Interactions in Controlled Fusion Devices_ (2021).
-- O’Sullivan, S., **Nelson, A. O.,** Bortolon, A. & Kolemen, E. Correlations bewteen NBI blips and
+- O’Sullivan, S., **Nelson, A. O.,** Bortolon, A. & Kolemen, E. Correlations between NBI blips and
     ELM triggers in tokamaks. _63rd Annual Meeting of the APS Division of Plasma Physics_ (2021).
 - Panici, D., **Nelson, A. O.** & Kolemen, E. Investigating ELM Pacing by Vertical Oscillations on
     DIII-D. _63rd Annual Meeting of the APS Division of Plasma Physics_ (2021).
