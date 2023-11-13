@@ -26,5 +26,8 @@ Several additional publications on this subject are currently under review and w
 **[cfs-energy/cfspopcon: v4.0.0](https://doi.org/10.5281/zenodo.10054880)**<br />
 Battaglia, D. J., Body, T., Creely, A. J., Hasse, C., Logan, J., Mumgaard, R. T., Rodriguez-Fernandez, P., Schneider, N., Sorbom, B. N., Tse, C., Vernacchia, M., & **Nelson, A. O.** (2023).
 
+**TokaMaker: An open-source time-dependent Grad-Shafranov tool for the design and modeling of axisymmetric fusion devices**<br />
+Hansen, C., Stewart, I. G., Burgess, D., Pharr, M., Guizzo, S., Logak, F., **Nelson, A. O.** & Paz-Soldan, C., _Computer Physics Communications_, in review (2023).
+
 **[Interpretative SOL modeling throughout multiple ELM cycles in DIII-D](https://doi.org/10.1016/j.nme.2020.100883)** <br />
 **Nelson, A. O.,** Xing, Z. A., Izacard, O., Laggner, F. M. & Kolemen, E., _Nuclear Materials and Energy_ **26**, 100883 (2021).
