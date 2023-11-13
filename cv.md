@@ -16,7 +16,7 @@ To learn more about my career, you can download a pdf of my CV [here](https://gi
 
 #### Postdoctoral Fellow
  - **Columbia University**, New York, NY (United States) 2021 - 2022
- - Negative triangularity and reactor studies
+ - Negative triangularity and vertical stability studies
 
 # Education
 
