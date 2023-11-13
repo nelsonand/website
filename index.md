@@ -14,9 +14,14 @@ Full lists of my [publications](https://www.oaknelson.com/publications/), [confe
 
 Please find my contact information below if you would like to get involved!
  
+<br />
+
 # What is Magnetic Confinement Fusion?
 
-It is a very exciting time to conduct magnetic confinement fusion research. In the next decade or two, the fusion community should have answers to all of the remaining basic physics questions needed to design and build a pilot plant. 
+
+
+It is a very exciting time to conduct magnetic confinement fusion research. 
+In the next decade or two, the fusion community should have answers to all of the remaining basic physics questions needed to design and build a pilot plant. 
 In the next several decades, fusion energy could begin to play a role in modern electric markets as one of the world's greatest engineering achievements. 
 
 I work on tokamaks, which are toroidal magnetic devices that use strong magnetic fields to constrain a fusion-relevant plasma. 
@@ -28,11 +33,13 @@ This milestone (which was also [recently achieved by laser-based fusion](https:/
 
 *A schematic of a tokamak, showing a toroidal plasma confined by several sets of magnetic field coils.*
 
+<br />
+
 # CV 
 
 To learn more about my career, you can download a pdf of my CV [here](https://github.com/nelsonand/website/files/10913776/Nelson_CV_03072023.pdf).
 
-## Employment
+### Employment
 
 #### Associate Research Scientist 
  - **Columbia University**, New York, NY (United States) 2022 - present
@@ -42,7 +49,7 @@ To learn more about my career, you can download a pdf of my CV [here](https://gi
  - **Columbia University**, New York, NY (United States) 2021 - 2022
  - Negative triangularity and vertical stability studies
 
-## Education
+### Education
 
 #### Doctor of Philosophy (Ph.D.) in Astrophsyical Sciences (Plasma Physics)
  - **Princeton University**, Princeton, NJ (United States) 2021
