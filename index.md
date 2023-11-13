@@ -14,7 +14,7 @@ To date, all tokamaks that have been built were built as science experiments des
 However, several tokamaks are currently being designed and built that will push this to the next stage by demonstrating ignition - the point at which more energy is produced by a plasma than was required to make it.
 This milestone (which was also [recently achieved by laser-based fusion](https://www.llnl.gov/article/49301/shot-ages-fusion-ignition-breakthrough-hailed-one-most-impressive-scientific-feats-21st)) will herald a new era in fusion science and engineering studies, and I am very exited to play a leading role in helping it unfold!
 
-![Tokamak Cartoon](/assets/img/bg_tokamak.png){:width="50%"}
+![Tokamak Cartoon](/assets/img/bg_tokamak.png){:width="50%"; style="display:block; margin-left:auto; margin-right:auto"}
 
 *A schematic of a tokamak, showing a toroidal plasma confined by several sets of magnetic field coils.*
 
