@@ -132,7 +132,7 @@ Laggner, F. M., Eldon, D., **Nelson, A. O.,** Paz-Soldan, C., Bortolon, A., Evan
 **[Infrared Constrained Equilibria and Application to Snowflake Divertor Studies](https://doi.org/10.1016/j.nme.2020.100835)**<br />
 Wai, J. T., Vail, P. J., **Nelson, A. O.,** Xing, Z. A., Lasnier, C. & Kolemen, E., _Nuclear Materials and Energy_ **25**, 100835 (2020).
 
-### 2010 - 2019
+### 2019 and prior
 
 **[Sputtering of lithium and lithium compound films under deuterium and helium ion bombardment](https://doi.org/10.1016/j.nme.2019.02.037)**<br />
 Buzi, L., **Nelson, A. O.,** Yang, Y., Kaita, R., Krstić, P. S. & Koel, B. E., _Nuclear Materials and Energy_ **19**, 411–415 (2019).
