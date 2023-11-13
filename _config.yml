@@ -22,10 +22,10 @@ author: Oak Nelson
 navbar-links:
   Home: "index"
   Research: "projects"
+  Outreach: "outreach"
   Publications: "publications"
   Conferences: "conferences"
-  Outreach: "outreach"
-  CV: "cv"  
+  About Me: "cv"  
  
 
 ################
