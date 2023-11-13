@@ -4,9 +4,12 @@ title: About Me
 full-width: true
 ---
 
-I received my Ph.D. from the Department of Astrophysical Sciences at Princeton University in 2021, and am currently an associate research scientist at Columbia University. I work on experimental and computational projects regarding fusion energy science and engineering. 
+I am from Colorado, and received my Ph.D. from the Department of Astrophysical Sciences at Princeton University in 2021. 
+I am currently an associate research scientist at Columbia University, where I work on experimental and computational projects regarding fusion energy science and engineering. 
 
 To learn more about my career, you can download a pdf of my CV [here](https://github.com/nelsonand/website/files/10913776/Nelson_CV_03072023.pdf).
+
+Please find my contact information below if you would like to get involved!
  
 # Employment
 
