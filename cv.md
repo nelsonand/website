@@ -13,7 +13,7 @@ Please find my contact information below if you would like to get involved!
  
 # Employment
 
-#### Associate Reserach Scientist 
+#### Associate Research Scientist 
  - **Columbia University**, New York, NY (United States) 2022 - present
  - Fusion power plant engineering and design
 
