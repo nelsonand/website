@@ -18,9 +18,14 @@ Please find my contact information below if you would like to get involved!
 
 # What is Magnetic Confinement Fusion?
 
+Magnetic confinement fusion is an emerging technology that will eventually use the same process as our sun (fusing hydrogen together to make helium) to energy here on Earth. 
+The realization of commercial magenetic fusion energy is one of the grandest and potentially most impactful engineering challenges ever faced by the human race. 
+While the promise that fusion offers (clean, safe, firm and abundant energy) is clear, the path towards commercialization is not.
+At least two large steps remain. 
+First, a fully-integrated demonstration device must be designed and built. Second, this pilot plant must be optimized for affordable production at scale. 
+Both of these objectives sit at the intersection of cutting-edge physics understanding and state-of-the-art engineering solutions, requiring global collaboration and integration across a broad array of topics. 
 
-
-It is a very exciting time to conduct magnetic confinement fusion research. 
+It is a very exciting time to conduct magnetic confinement fusion research! 
 In the next decade or two, the fusion community should have answers to all of the remaining basic physics questions needed to design and build a pilot plant. 
 In the next several decades, fusion energy could begin to play a role in modern electric markets as one of the world's greatest engineering achievements. 
 
