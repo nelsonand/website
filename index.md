@@ -15,7 +15,6 @@ However, several tokamaks are currently being designed and built that will push 
 This milestone (which was also [recently achieved by laser-based fusion](https://www.llnl.gov/article/49301/shot-ages-fusion-ignition-breakthrough-hailed-one-most-impressive-scientific-feats-21st)) will herald a new era in fusion science and engineering studies, and I am very exited to play a leading role in helping it unfold!
 
 ![Tokamak Cartoon](/assets/img/bg_tokamak.png){:width="50%"; style="display:block; margin-left:auto; margin-right:auto"}
-
 *A schematic of a tokamak, showing a toroidal plasma confined by several sets of magnetic field coils.*
 
 You can learn more about the projects I am involved in, both in research and in diversity, equity and inclusion work, on other tabs on this page. Please find my contact information below if you would like to get involved!
