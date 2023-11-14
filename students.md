@@ -24,6 +24,10 @@ for the OpenFUSION Toolkit<br />
 2021 - **Samantha O'Sullivan** (now a graduate student at Oxford) Correlations between neutral beam injection blips and ELM triggers in tokamaks<br />
 2021 - **Javier Morales-Arias** (now a graduate student at Princeton) Modeling of lithium exposures to plasma discharges<br />
 
+## High School Students
+
+2023 - **Sam Benson** Description of plasma radiation processes
+
 ## Other Teaching Endeavors
 
 It takes a village to raise a fusion scientist. 
