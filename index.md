@@ -6,15 +6,14 @@ full-width: true
 
 # About Me
 
-I am from Colorado, and received my Ph.D. from the Department of Astrophysical Sciences at Princeton University in 2021. 
+I am from Colorado, and received my Ph.D. in plasma physics from the Department of Astrophysical Sciences at Princeton University in 2021. 
 I am currently an associate research scientist at Columbia University, where I work on experimental and computational projects regarding fusion energy science and engineering. 
 
 You can learn more about the projects I am involved in, both in [research](https://www.oaknelson.com/projects/) and in [diversity, equity and inclusion](https://www.oaknelson.com/outreach/) work, on other tabs on this page. 
 Full lists of my [publications](https://www.oaknelson.com/publications/), [conference contributions](https://www.oaknelson.com/conferences/) and [students](https://www.oaknelson.com/students/) are also available. 
-
 To learn more about my career so far, you can also download a pdf of my abbreviated CV [here](https://github.com/nelsonand/website/files/10913776/Nelson_CV_03072023.pdf).
 
-Please find my contact information below if you would like to get involved!
+Please find my contact information at the bottom of this page if you would like to get involved!
 
  
 <br />
