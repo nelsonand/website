@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Oak Nelson
+title: Oak Nelson 
 full-width: true
 ---
 
 # About Me
 
-I am from Colorado, and received my Ph.D. in plasma physics from the Department of Astrophysical Sciences at Princeton University in 2021. 
+I am from Colorado and use he/him/his pronouns. 
+I received my Ph.D. in plasma physics from the Department of Astrophysical Sciences at Princeton University in 2021. 
 I am currently an associate research scientist at Columbia University, where I work on experimental and computational projects regarding fusion energy science and engineering. 
 
 You can learn more about the projects I am involved in, both in [research](https://www.oaknelson.com/projects/) and in [diversity, equity and inclusion](https://www.oaknelson.com/outreach/) work, on other tabs on this page. 
@@ -32,7 +33,7 @@ It is a very exciting time to conduct magnetic confinement fusion research!
 In the next decade or two, the fusion community should have answers to all of the remaining basic physics questions needed to design and build a pilot plant. 
 In the next several decades, fusion energy could begin to play a role in modern electric markets as one of the world's greatest engineering achievements. 
 Importantly, this technological challenge is supported by both public and private sources, emphasizing the global and collaborative nature of this pursuit. 
-As we get closer to commercial realization, there has been a dramatic surge in the monetary investment in fusion energy sciences and engineering, with the fusion industry recently [surpassing $6 billion](https://www.fusionindustryassociation.org/fusion-industry-investment-passes-6bn/) in private investment and another [$1 billion in public funding](https://fusionenergyinsights.com/blog/post/1bn-for-fusion-in-biden-s-us-budget-request-for-2024#:~:text=The%20US%20government%20has%20announced,record%20funding%20for%20fusion%20energy.) being proposed this year, on top of existing commitments.
+As we get closer to commercial realization, there has been a dramatic surge in the monetary investment in fusion energy sciences and engineering, with the fusion industry recently [surpassing $6 billion in private investment](https://www.fusionindustryassociation.org/fusion-industry-investment-passes-6bn/) and another [$1 billion in public funding](https://fusionenergyinsights.com/blog/post/1bn-for-fusion-in-biden-s-us-budget-request-for-2024#:~:text=The%20US%20government%20has%20announced,record%20funding%20for%20fusion%20energy.) being proposed this year, on top of existing commitments.
 
 Within magnetic confinement fusion, I work on tokamaks, which are toroidal magnetic devices that use strong magnetic fields to constrain a fusion-relevant plasma. 
 To date, all tokamaks that have been built were built as science experiments designed to help us better understand and optimize the complicated plasma physics at play in this scenario. 
