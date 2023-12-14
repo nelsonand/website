@@ -60,7 +60,7 @@ Michoski, C., Oliver, T. A., Hatch, D. R., Diallo, A., Kotschenreuther, M., Eldo
 **[Geometric dependencies of the mean E × B shearing rate in negative triangularity tokamaks](https://doi.org/10.1088/1741-4326/ad0605)**<br />
 Singh, R., Diamond, P. & **Nelson, A. O.**, _Nuclear Fusion_, **63** 126053 (2023).
 
-**Kinetic-Ballooning-Bifurcation in Tokamak Pedestals Across Shaping and Aspect-Ratio**<br />
+**[Kinetic-Ballooning-Bifurcation in Tokamak Pedestals Across Shaping and Aspect-Ratio](https://doi.org/10.48550/arXiv.2312.05216)**<br />
 Parisi, J. F., **Nelson, A. O.**, Gaur, R., Kaye, S., Parra, F., Berkery, J., Barada, K. K., Clauser, C., Creely, C., Diallo, A., Guttenfelder, W., Hughes, J., Kogan, L., Kleiner, A., Kuang, A., Lampert, M., Macwan, T., Menard, J. & Miller, M. A., _Physics of Plasmas_, in review (2023).
 
 **[Kinetic-Ballooning-Limited Pedestals in Spherical Tokamak Plasmas](https://arxiv.org/abs/2308.05238)**<br />
