@@ -194,12 +194,6 @@ img {
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
-@media only screen and (min-width: 768px) {
-  .navbar-custom .avatar-container {
-    width: 75px;
-    margin-top: -10px;
-  }
-
 .navbar-toggler {
   font-size: 1rem;
   margin: 0.5rem 0;
@@ -241,6 +235,12 @@ img {
     padding-right: 0;
   }
 }
+
+@media only screen and (min-width: 40000px) {
+  .navbar-custom .avatar-container {
+    width: 75px;
+    margin-top: -10px;
+  }
 
 @media (min-width: 1200px) {
   .navbar-custom .nav-item.dropdown:hover {
