@@ -211,7 +211,7 @@ img {
   border-width: 0.4em;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1600px) {
   .navbar-custom {
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
@@ -236,7 +236,7 @@ img {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1600px) {
   .navbar-custom .nav-item.dropdown:hover {
     background: rgba(0, 0, 0, 0.1);
   }
@@ -271,7 +271,7 @@ img {
   {% endunless %}
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1600px) {
   .navbar-custom .nav-item.dropdown .dropdown-menu {
     text-align: center;
   }
@@ -717,7 +717,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   bottom: 0;
   display: none;
 }
-@media (min-width: 1200px) {
+@media (min-width: 1600px) {
   .intro-header {
     margin-top: 8.125rem;
   }
