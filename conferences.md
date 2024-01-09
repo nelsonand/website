@@ -32,7 +32,7 @@ full-width: true
 - **Nelson, A. O.** _Negative Triangularity: The Holy Grail for Tokamak Core-Edge Integration?_ 
     in _UCLA Plasma Science and Technology Institute Seminar Series_ (2023).
 - **Nelson, A. O.** _A practical introduction to the H-mode pedestal: ELMs and ELM-free regimes_ in
-    _Fusion-EP Seminar Series_ (2020).
+    [_Fusion-EP Seminar Series_](https://www.em-master-fusion.org/) (2020).
 - **Nelson, A. O.** _Introduction to Outstanding Problems in Magnetic Confinement Fusion_ in _APS-_
     _DPP Student Day_ (2020).
 
