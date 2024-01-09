@@ -15,7 +15,7 @@ full-width: true
 ## Other First Author Publications
 
 **Structure and Characteristics of the Negative Triangularity Edge on DIII-D** <br />
-**Nelson, A. O.**, Schmitz, L., Neiser, T., Paz-Soldan C.,Leuthold, N.,Thome, K.E., Austin, M.E, _Plasma Physics and Controlled Fusion_, in review (2024).
+**Nelson, A. O.**, Schmitz, L., Neiser, T., Paz-Soldan C.,Leuthold, N.,Thome, K.E., & Austin, M.E, _Plasma Physics and Controlled Fusion_, in review (2024).
 
 **Implications of Vertical Stability Control on the SPARC Tokamak** <br />
 **Nelson, A. O.**, Garnier, D. T., Battaglia, D. J., Paz-Soldan, C., Stewart, I., Reinke, M., Creely, A., & Wai, J., _Nuclear Fusion_, in review (2024).
