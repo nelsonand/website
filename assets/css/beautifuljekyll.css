@@ -357,11 +357,8 @@ img {
   display: none;
 }
 
-<<<<<<< HEAD
+
 @media (min-width: 500px) {
-=======
-@media (min-width: 1400px) {
->>>>>>> parent of c5c6295 (header test)
   .navbar-custom.top-nav-regular .avatar-container {
     width: 6.25rem;
     bottom: -1.9375rem;
