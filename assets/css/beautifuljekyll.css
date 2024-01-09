@@ -236,7 +236,7 @@ img {
   }
 }
 
-@media only screen and (min-width: 40000px) {
+@media (min-width: 40000px) {
   .navbar-custom .avatar-container {
     width: 75px;
     margin-top: -10px;
