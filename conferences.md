@@ -4,30 +4,37 @@ title: Conferences and Seminars
 full-width: true
 ---
 
-## Invited Talks, Lectures and Seminars
+## Invited Talks 
 
 (Slides available upon reasonable request) 
 
 - **Nelson, A. O.** _Robust avoidance of edge localized modes alongside pedestal formation in negative triangularity plasmas_ 
     in _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
-- **Nelson, A. O.** _Plasma Waves_ in _Introduction to Fusion Energy and Plasma Physics Course_ (2023).
-- **Nelson, A. O.** _Negative Triangularity: The Holy Grail for Tokamak Core-Edge Integration?_ 
-    in _UCLA Plasma Science and Technology Institute Seminar Series_ (2023).
 - **Nelson, A. O.**, Austin, M. E., Boyes, W., Casali, L., Chrystal, C., Cote, T., Du, X., Eldon, D., Ernst, D., Khabanov, F. O., Kramer, G., Lunia, P., Marinoni, A., Mattes, R., McKee, G., Mordijck, S., Paz-Soldan, C., Schmitz, L., Scott, S., Stewart, S., Thome, K. E., Welsh, A., Wilson, H. S. & Zhao, M. _Initial Experimental Results from the DIII-D Negative Triangularity Campaign_ 
-    in 2nd _International Fusion and Plasma Conference_ (Busan, Korea, 2023).
+    in _2nd International Fusion and Plasma Conference_ (Busan, Korea, 2023).
 - **Nelson, A. O.**, Schmitz, L., Cote, T., Paz-Soldan, C., Leuthold, N., Thome, K. E., Austin, M. E., Yu, G., Kramer, G. & Stewart, S. _Robust avoidance of peeling-ballooning instabilities through gradient reduction in the negative triangularity edge_ 
     in _2023 US Transport Task Force Workshop_ (2023).
 - **Nelson, A. O.** _H-mode Inhibition in Negative Triangularity Tokamak Reactors (Topical Plenary)_
     in _6th Asia-Pacific Conference on Plasma Physics_ (2022).
 - **Nelson, A. O.** _Experimental identification of inter-ELM pedestal MTMs through edge current_
     _perturbations_ in _2021 US Transport Task Force Workshop_ (2021).
+- **Nelson, A. O.,** Haye, R. J. L., Austin, M. E., Welander, A. S. & Kolemen, E. _ECE-based Tearing_
+    _Mode Suppression and Equilibrium Reconstruction_ in _24th Workshop on MHD Stability Control_
+    (2019).
+
+## Invited Lectures and Seminars  
+
+(Slides available upon reasonable request) 
+
+- **Nelson, A. O.** _The Negative Triangularity Tokmak: Ensuring Robust Access to a High-Performance, ELM-Free Fusion Power Plant_ 
+    in _UCI Physics Seminar Series_ (2024).
+- **Nelson, A. O.** _Plasma Waves_ in [_Princeton Plasma Physics Laboratory Introduction to Fusion Energy and Plasma Physics Course_](https://suli.pppl.gov/2023/course/) (2023).
+- **Nelson, A. O.** _Negative Triangularity: The Holy Grail for Tokamak Core-Edge Integration?_ 
+    in _UCLA Plasma Science and Technology Institute Seminar Series_ (2023).
 - **Nelson, A. O.** _A practical introduction to the H-mode pedestal: ELMs and ELM-free regimes_ in
     _Fusion-EP Seminar Series_ (2020).
 - **Nelson, A. O.** _Introduction to Outstanding Problems in Magnetic Confinement Fusion_ in _APS-_
     _DPP Student Day_ (2020).
-- **Nelson, A. O.,** Haye, R. J. L., Austin, M. E., Welander, A. S. & Kolemen, E. _ECE-based Tearing_
-    _Mode Suppression and Equilibrium Reconstruction_ in _24th Workshop on MHD Stability Control_
-    (2019).
 
 ## Conference Contributions
 
