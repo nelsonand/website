@@ -68,7 +68,7 @@ This milestone (which was also [recently achieved by laser-based fusion](https:/
  - **Princeton University**, Princeton, NJ (United States) 2018
  - Focus in experimental magnetic confinement fusion
 
-#### Bachelor of Science (B.Sc.) in Enegineering Physics 
+#### Bachelor of Science (B.Sc.) in Engineering Physics 
  - **University of Colorado, Boulder**, Boulder, CO (United States) 2016
  - Minors: Applied Mathematics, Leadership Studies
 
