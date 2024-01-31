@@ -77,7 +77,7 @@ Paz-Soldan, C., Chrystal, C., Lunia, P., **Nelson, A. O.**, Austin, M. E., Cote,
 **[Stability and Transport of Gyrokinetic Critical Pedestals](https://arxiv.org/abs/2401.14260)**<br />
 Parisi, J., **Nelson, A. O.**, Guttenfelder, W., Gaur, R., Berkery, J., Kaye, S., Barada, K., Clauser, C.,; Diallo, A., Hatch, D., Kleiner, A., Lampert, M., Macwan, T., Menard, J., _Nuclear Fusion_, in review (2024).
 
-**[TokaMaker: An open-source time-dependent Grad-Shafranov tool for the design and modeling of axisymmetric fusion devices](https://arxiv.org/abs/2311.07719)**<br />
+**[TokaMaker: An open-source time-dependent Grad-Shafranov tool for the design and modeling of axisymmetric fusion devices](https://doi.org/10.1016/j.cpc.2024.109111)**<br />
 Hansen, C., Stewart, I. G., Burgess, D., Pharr, M., Guizzo, S., Logak, F., **Nelson, A. O.** & Paz-Soldan, C., _Computer Physics Communications_, in review (2024).
 
 ### 2023
