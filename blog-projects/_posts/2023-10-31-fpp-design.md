@@ -12,7 +12,7 @@ One of the major challenges in this space is the design and optimization of a fu
 In the magnetic fusion field, this issue is colloquially known as the "core-edge integration" problem, and is the subject of intense ongoing research. 
 
 To better understand this problem and other engineering-integration challenges that will be faced on future machines, we are developing a suite of codes that provide reduced descriptions of various components of a fusion power plant so that self-consistent models of the entire device may be constructed. 
-Some of these codes include the OpenFUSION Toolkit (to be released soon) and CFSPOPCON (linked below).
+Some of these codes include the [OpenFUSION Toolkit](https://github.com/hansec/OpenFUSIONToolkit) and [CFSPOPCON](https://doi.org/10.5281/zenodo.10054880).
 Together, these two codes help to form a comprehensive model of the internal plasma physics that can then be coupled with systems engineering codes (describing phenomena such as neutron fluxes, material tolerances and tritium breeding, etc.) to complete a full-device tokamak model. 
 
 Much of the ongoing work on engineering challenges for fusion devices is being pursued by private fusion companies like Commonwealth Fusion Systems. 
@@ -26,7 +26,7 @@ Several additional publications on this subject are currently under review and w
 **[cfs-energy/cfspopcon: v4.0.0](https://doi.org/10.5281/zenodo.10054880)**<br />
 Battaglia, D. J., Body, T., Creely, A. J., Hasse, C., Logan, J., Mumgaard, R. T., Rodriguez-Fernandez, P., Schneider, N., Sorbom, B. N., Tse, C., Vernacchia, M., & **Nelson, A. O.** (2023).
 
-**TokaMaker: An open-source time-dependent Grad-Shafranov tool for the design and modeling of axisymmetric fusion devices**<br />
+**[TokaMaker: An open-source time-dependent Grad-Shafranov tool for the design and modeling of axisymmetric fusion devices](https://doi.org/10.1016/j.cpc.2024.109111)**<br />
 Hansen, C., Stewart, I. G., Burgess, D., Pharr, M., Guizzo, S., Logak, F., **Nelson, A. O.** & Paz-Soldan, C., _Computer Physics Communications_, in review (2023).
 
 **[Interpretative SOL modeling throughout multiple ELM cycles in DIII-D](https://doi.org/10.1016/j.nme.2020.100883)** <br />
