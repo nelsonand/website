@@ -14,6 +14,8 @@ These include:
 
 ## Undergraduate Students
 
+2024 - **Thomas Wang** Development of physics modules for the CFSPOPCON code<br />
+2024 - **Aaroosh Ramadorai** Development of physics modules for the CFSPOPCON code<br />
 2023 - **Sophia Guizzo** Studies of vertical stability for negative triangularity tokamak power plants<br />
 2023 - **Vikram Ailiani** Studies of magnetic equilibrium reconstruction techniques for tokamaks<br />
 2023 - **Alexa Lachmann** (now a graduate student at Columbia) Pythonic conversion of the FEEQS code
