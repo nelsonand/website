@@ -12,7 +12,7 @@ One of the major challenges in this space is the design and optimization of a fu
 In the magnetic fusion field, this issue is colloquially known as the "core-edge integration" problem, and is the subject of intense ongoing research. 
 
 To better understand this problem and other engineering-integration challenges that will be faced on future machines, we are developing a suite of codes that provide reduced descriptions of various components of a fusion power plant so that self-consistent models of the entire device may be constructed. 
-Some of these codes include the [OpenFUSION Toolkit](https://github.com/hansec/OpenFUSIONToolkit) and [CFSPOPCON](https://doi.org/10.5281/zenodo.10054880).
+Some of these codes include the [OpenFUSION Toolkit](https://hansec.github.io/OpenFUSIONToolkit/) and [CFSPOPCON](https://doi.org/10.5281/zenodo.10054880).
 Together, these two codes help to form a comprehensive model of the internal plasma physics that can then be coupled with systems engineering codes (describing phenomena such as neutron fluxes, material tolerances and tritium breeding, etc.) to complete a full-device tokamak model. 
 
 Much of the ongoing work on engineering challenges for fusion devices is being pursued by private fusion companies like Commonwealth Fusion Systems. 
