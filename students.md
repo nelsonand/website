@@ -14,6 +14,7 @@ These include:
 
 ## Undergraduate Students
 
+2024 - **Kate Kroger** Assessment of edge profile variation using CAKE<br />
 2024 - **Thomas Wang** Development of physics modules for the CFSPOPCON code<br />
 2024 - **Aaroosh Ramadorai** Development of physics modules for the CFSPOPCON code<br />
 2023 - **Sophia Guizzo** Studies of vertical stability for negative triangularity tokamak power plants<br />
