@@ -62,8 +62,8 @@ Kim, S. K., Shousha, R., Yang, S. M., Hu, Q., Hahn, S. H., Jalalvand, A., Park, 
 **[A Gaussian Process Guide for Signal Regression in Magnetic Fusion](https://doi.org/10.1088/1741-4326/ad1af5)**<br />
 Michoski, C., Oliver, T. A., Hatch, D. R., Diallo, A., Kotschenreuther, M., Eldona, D., Wallerb, M., Groebnera, R. & **Nelson, A. O.**, _Nuclear Fusion_, in press (2024)
 
-**[Kinetic-Ballooning-Bifurcation in Tokamak Pedestals Across Shaping and Aspect-Ratio](https://doi.org/10.48550/arXiv.2312.05216)**<br />
-Parisi, J. F., **Nelson, A. O.**, Gaur, R., Kaye, S., Parra, F., Berkery, J., Barada, K. K., Clauser, C., Creely, C., Diallo, A., Guttenfelder, W., Hughes, J., Kogan, L., Kleiner, A., Kuang, A., Lampert, M., Macwan, T., Menard, J. & Miller, M. A., _Physics of Plasmas_, in review (2024).
+**[Kinetic-Ballooning-Bifurcation in Tokamak Pedestals Across Shaping and Aspect-Ratio](https://doi.org/10.1063/5.0190818)**<br />
+Parisi, J. F., **Nelson, A. O.**, Gaur, R., Kaye, S., Parra, F., Berkery, J., Barada, K. K., Clauser, C., Creely, C., Diallo, A., Guttenfelder, W., Hughes, J., Kogan, L., Kleiner, A., Kuang, A., Lampert, M., Macwan, T., Menard, J. & Miller, M. A., _Physics of Plasmas_ **31**, 030702 (2024).
 
 **[Kinetic-Ballooning-Limited Pedestals in Spherical Tokamak Plasmas](https://arxiv.org/abs/2308.05238)**<br />
 Parisi, J. F., Guttenfelder, W., **Nelson, A. O.**, Gaur, R., Kleiner, A., Lampert, M., Avdeeva, G., Berkery, J., Clauser, C., Curie, M., Diallo, A., Dorland, W., Kaye, S. M., McClenaghan, J. & Parra, F. I., _Physical Review Letters_, in review (2024).
