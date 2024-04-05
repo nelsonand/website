@@ -17,20 +17,15 @@ These include:
 2024 - **Kate Kroger** Assessment of edge profile variation using CAKE<br />
 2024 - **Thomas Wang** Development of physics modules for the CFSPOPCON code<br />
 2024 - **Aaroosh Ramadorai** Development of physics modules for the CFSPOPCON code<br />
-2023 - **Sophia Guizzo** Studies of vertical stability for negative triangularity tokamak power plants<br />
-    -- now a graduate student at Columbia
+2023 - **Sophia Guizzo** (now a graduate student at Columbia) Studies of vertical stability for negative triangularity tokamak power plants<br />
 2023 - **Vikram Ailiani** Studies of magnetic equilibrium reconstruction techniques for tokamaks<br />
-2023 - **Alexa Lachmann** Pythonic conversion of the FEEQS code for the OpenFUSION Toolkit<br />
-    -- now a graduate student at Columbia
+2023 - **Alexa Lachmann** (now a graduate student at Columbia) Pythonic conversion of the FEEQS code
+for the OpenFUSION Toolkit<br />
 2022 - **Lucia Rondini** Assessment of bounce-orbit trajectories for negative triangularity shapes<br />
-2022 - **Daniel Burgess** Studies of inherently non-ELMing tokamak scenarios<br />
-    -- now a graduate student at Columbia
-2021 - **Samuel Freiberger** Assessment of machine capabilities to create negative triangularity shapes on the MAST-U tokamak<br />
-    -- now a graduate student at Columbia
-2021 - **Samantha O'Sullivan** Correlations between neutral beam injection blips and ELM triggers in tokamaks<br />
-    -- now a graduate student at Oxford
-2021 - **Javier Morales-Arias** Modeling of lithium exposures to plasma discharges<br />
-    -- now a graduate student at Princeton
+2022 - **Daniel Burgess** (now a graduate student at Columbia) Studies of inherently non-ELMing tokamak scenarios<br />
+2021 - **Samuel Freiberger** (now a graduate student at Columbia) Assessment of machine capabilities to create negative triangularity shapes on the MAST-U tokamak<br />
+2021 - **Samantha O'Sullivan** (now a graduate student at Oxford) Correlations between neutral beam injection blips and ELM triggers in tokamaks<br />
+2021 - **Javier Morales-Arias** (now a graduate student at Princeton) Modeling of lithium exposures to plasma discharges<br />
 
 ## High School Students
 
