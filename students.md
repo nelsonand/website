@@ -21,7 +21,7 @@ These include:
 2023 - **Vikram Ailiani** Studies of magnetic equilibrium reconstruction techniques for tokamaks<br />
 2023 - **Alexa Lachmann** (now a graduate student at Columbia) Pythonic conversion of the FEEQS code
 for the OpenFUSION Toolkit<br />
-2022 - **Lucia Rondini** Assessment of bounce-orbit trajectories for negative triangularity shapes<br />
+2022 - **Lucia Rondini** (now a graduate student at Columbia) Assessment of bounce-orbit trajectories for negative triangularity shapes<br />
 2022 - **Daniel Burgess** (now a graduate student at Columbia) Studies of inherently non-ELMing tokamak scenarios<br />
 2021 - **Samuel Freiberger** (now a graduate student at Columbia) Assessment of machine capabilities to create negative triangularity shapes on the MAST-U tokamak<br />
 2021 - **Samantha O'Sullivan** (now a graduate student at Oxford) Correlations between neutral beam injection blips and ELM triggers in tokamaks<br />
