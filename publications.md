@@ -59,6 +59,9 @@ full-width: true
 **Highest Fusion Performance without Harmful Edge Energy Bursts in Tokamak**<br />
 Kim, S. K., Shousha, R., Yang, S. M., Hu, Q., Hahn, S. H., Jalalvand, A., Park, J.-K., Logan, N. C., **Nelson, A. O.**, Na, Y.-S., Nazikian, R., Wilcox, R.Hong, R., Rhodes, T., Paz-Soldan, C., Jeon, Y. M., Kim, M. W., Ko, W.H., Lee, J.H., Battey, A., Bortolon, A., Snipes, J. & Kolemen, E., _Nature Communications_, in review (2024).
 
+**[Assessment of vertical stability for negative triangularity pilot plants](https://doi.org/10.1088/1361-6587/ad4175)**<br />
+Guizzo, S., **Nelson, A. O.**, Hansen, C., Logak, F., & Paz-Soldan C., _Plasma Physics and Controlled Fusion_, **66** 065018 (2024).
+
 **[A Gaussian Process Guide for Signal Regression in Magnetic Fusion](https://doi.org/10.1088/1741-4326/ad1af5)**<br />
 Michoski, C., Oliver, T. A., Hatch, D. R., Diallo, A., Kotschenreuther, M., Eldona, D., Wallerb, M., Groebnera, R. & **Nelson, A. O.**, _Nuclear Fusion_, in press (2024)
 
@@ -67,9 +70,6 @@ Parisi, J. F., **Nelson, A. O.**, Gaur, R., Kaye, S., Parra, F., Berkery, J., Ba
 
 **[Kinetic-Ballooning-Limited Pedestals in Spherical Tokamak Plasmas](https://doi.org/10.1088/1741-4326/ad39fb)**<br />
 Parisi, J. F., Guttenfelder, W., **Nelson, A. O.**, Gaur, R., Kleiner, A., Lampert, M., Avdeeva, G., Berkery, J., Clauser, C., Curie, M., Diallo, A., Dorland, W., Kaye, S. M., McClenaghan, J. & Parra, F. I., _Nuclear Fusion_ **64**, 054002 (2024).
-
-**[Optimization of vertical stability for negative triangularity pilot plants](https://arxiv.org/abs/2401.15217)**<br />
-Guizzo, S., **Nelson, A. O.**, Hansen, C., Logak, F., & Paz-Soldan C., _Plasma Physics and Controlled Fusion_, in review (2024).
 
 **[Simultaneous access to high normalized current, pressure, density, and confinement in strongly-shaped diverted negative triangularity plasmas](https://arxiv.org/abs/2309.03689)**<br />
 Paz-Soldan, C., Chrystal, C., Lunia, P., **Nelson, A. O.**, Austin, M. E., Cote, T. B., Hyatt, A. W., Marinoni, A., Osborne, T. H., Pharr, M., Sauter, O., Scotti, F., Thome, K. E., Wilks, T. M. & Wilson, H. S., _Nuclear Fusion_, in review (2024).
