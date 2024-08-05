@@ -11,10 +11,10 @@ In support of [Fusion Energy Week 2024](https://www.oaknelson.com/2023-12-15-fus
 
 A few selected cards are shown below, featuring art from local graduate students and professional artists alike!
 
-![Fusion Concept Cards](blog-outreach/assets/img/cards_concepts.jpg)
+![Fusion Concept Cards](/blog-outreach/assets/img/cards_concepts.jpg)
 *Selected Cards Detailing Fusion Energy Concepts.*
 
-![Fusion Machine Cards](blog-outreach/assets/img/cards_machines.jpg)
+![Fusion Machine Cards](/blog-outreach/assets/img/cards_machines.jpg)
 *Selected Cards Detailing Fusion Machines.*
 
 These trading cards are available for purchase [here](https://www.makeplayingcards.com/sell/marketplace/fusion-trading-cards-2024.html).
