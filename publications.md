@@ -20,8 +20,8 @@ full-width: true
 **[Characterization of the ELM-free Negative Triangularity Edge on DIII-D](https://doi.org/10.1088/1361-6587/ad6a83)** <br />
 **Nelson, A. O.**, Schmitz, L., Cote, T., Parisi, J. F., Paz-Soldan, C., Thome, K.E., & Austin, M.E., Scotti, F., Barr, J.L., Hyatt, A., Leuthold, N., Marinoni, A., Neiser, T., Osborne, T., Richner, N., Welander, A.S., Wehner, W.P., Wilcox, W., Wilks, T.M. & Yang, J.,  _Plasma Physics and Controlled Fusion_, in press (2024).
 
-**[Implications of Vertical Stability Control on the SPARC Tokamak](http://arxiv.org/abs/2401.09613)** <br />
-**Nelson, A. O.**, Garnier, D. T., Battaglia, D. J., Paz-Soldan, C., Stewart, I., Reinke, M., Creely, A., & Wai, J., _Nuclear Fusion_, in review (2024).
+**[Implications of Vertical Stability Control on the SPARC Tokamak](https://iopscience.iop.org/article/10.1088/1741-4326/ad58f6)** <br />
+**Nelson, A. O.**, Garnier, D. T., Battaglia, D. J., Paz-Soldan, C., Stewart, I., Reinke, M., Creely, A., & Wai, J., _Nuclear Fusion_ **64**, 086040 (2024).
 
 **[Vertical Control of DIII-D Discharges with Strong Negative Triangularity](https://doi.org/10.1088/1361-6587/acbe65)** <br />
 **Nelson, A. O.,** Hyatt, A., Wehner, W., Welander, A., Paz-Soldan, C. & Anand, H., _Plasma Physics and Controlled Fusion_ **65**, 044002 (2023).
@@ -78,7 +78,7 @@ Parisi, J. F., **Nelson, A. O.**, Gaur, R., Kaye, S., Parra, F., Berkery, J., Ba
 Parisi, J. F., Guttenfelder, W., **Nelson, A. O.**, Gaur, R., Kleiner, A., Lampert, M., Avdeeva, G., Berkery, J., Clauser, C., Curie, M., Diallo, A., Dorland, W., Kaye, S. M., McClenaghan, J. & Parra, F. I., _Nuclear Fusion_ **64**, 054002 (2024).
 
 **[MANTA: A Negative-Triangularity {NASEM}-compliant fusion pilot plant](https://iopscience.iop.org/article/10.1088/1361-6587/ad6708)**<br />
-Rutherford, G., Wilson, Haley S., Saltzman, A., and Arnold, D., Ball, J., Benjamin, S., Bielajew, R., De Boucaud, N., Calvo Carrera, M., Chandra, R., Choudhury, H., Cummings, C., Corsaro, L., DaSilva, Nigel., Diab, R., Devitre, A., Ferry, S., Frank, S., Hansen, C., Jerkins, J., Johnson, J., Lunia, P., Van De Lindt, J., Mackie, S., Maris, A., Mandell, N., Miller, M., and Mouratidis, T., **Nelson, A. O.**, Pharr, M., Peterson, E., Rodriguez-Fernandez, P., Segatin, S., Tobin, M., Velberg, A., Wang, A., Wigram, M., Witham, J., Paz-Soldan, C. & Whyte, D., _Plasma Physics and Controlled Fusion_, in presss (2024).
+Rutherford, G., Wilson, Haley S., Saltzman, A., and Arnold, D., Ball, J., Benjamin, S., Bielajew, R., De Boucaud, N., Calvo Carrera, M., Chandra, R., Choudhury, H., Cummings, C., Corsaro, L., DaSilva, Nigel., Diab, R., Devitre, A., Ferry, S., Frank, S., Hansen, C., Jerkins, J., Johnson, J., Lunia, P., Van De Lindt, J., Mackie, S., Maris, A., Mandell, N., Miller, M., and Mouratidis, T., **Nelson, A. O.**, Pharr, M., Peterson, E., Rodriguez-Fernandez, P., Segatin, S., Tobin, M., Velberg, A., Wang, A., Wigram, M., Witham, J., Paz-Soldan, C. & Whyte, D., _Plasma Physics and Controlled Fusion_, in press (2024).
 
 **[Power handling in a highly-radiative negative triangularity pilot plant](http://arxiv.org/abs/2407.06526)**<br />
 Miller, M. A., Arnold, D., Wigram, M., **Nelson, A. O.**, Witham, J., Rutherford, G., Choudhury, H., Cummings, C., Paz-Soldan, C. & Whyte, D. G.,. _Plasma Physics and Controlled Fusion_, in review (2024).
