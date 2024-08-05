@@ -14,8 +14,11 @@ full-width: true
 
 ## Other First Author Publications
 
-**[Characterization of the ELM-free Negative Triangularity Edge on DIII-D](https://arxiv.org/abs/2405.11082)** <br />
-**Nelson, A. O.**, Schmitz, L., Cote, T., Parisi, J.F., Paz-Soldan, C., Thome, K.E., & Austin, M.E., Scotti, F., Barr, J.L., Hyatt, A., Leuthold, N., Marinoni, A., Neiser, T., Osborne, T., Richner, N., Welander, A.S., Wehner, W.P., Wilcox, W., Wilks, T.M. & Yang, J.,  _Plasma Physics and Controlled Fusion_, in review (2024).
+**[First Access to ELM-free Negative Triangularity at Low Aspect Ratio](https://arxiv.org/abs/2408.00180v1)** <br />
+**Nelson, A. O.**, Vincent, C., Anand, H., Lovell, J., Parisi, J. F., Wilson, H. S., Imada, K., Wehner, W. P., Kochan, M., Blackmore, S., Guizzo, S., Rondini, L., Freiberger, S., Paz-Soldan, C. and the MAST-U Team, _Nuclear Fusion_, in review (2024).
+
+**[Characterization of the ELM-free Negative Triangularity Edge on DIII-D](https://doi.org/10.1088/1361-6587/ad6a83)** <br />
+**Nelson, A. O.**, Schmitz, L., Cote, T., Parisi, J. F., Paz-Soldan, C., Thome, K.E., & Austin, M.E., Scotti, F., Barr, J.L., Hyatt, A., Leuthold, N., Marinoni, A., Neiser, T., Osborne, T., Richner, N., Welander, A.S., Wehner, W.P., Wilcox, W., Wilks, T.M. & Yang, J.,  _Plasma Physics and Controlled Fusion_, in press (2024).
 
 **[Implications of Vertical Stability Control on the SPARC Tokamak](http://arxiv.org/abs/2401.09613)** <br />
 **Nelson, A. O.**, Garnier, D. T., Battaglia, D. J., Paz-Soldan, C., Stewart, I., Reinke, M., Creely, A., & Wai, J., _Nuclear Fusion_, in review (2024).
@@ -57,13 +60,16 @@ full-width: true
 ### 2024
 
 **[Highest Fusion Performance without Harmful Edge Energy Bursts in Tokamak](https://www.nature.com/articles/s41467-024-48415-w)**<br />
-Kim, S. K., Shousha, R., Yang, S. M., Hu, Q., Hahn, S. H., Jalalvand, A., Park, J.-K., Logan, N. C., **Nelson, A. O.**, Na, Y.-S., Nazikian, R., Wilcox, R.Hong, R., Rhodes, T., Paz-Soldan, C., Jeon, Y. M., Kim, M. W., Ko, W.H., Lee, J.H., Battey, A., Bortolon, A., Snipes, J. & Kolemen, E., _Nature Communications_, **15**, Article number: 3990 (2024) .
+Kim, S. K., Shousha, R., Yang, S. M., Hu, Q., Hahn, S. H., Jalalvand, A., Park, J.-K., Logan, N. C., **Nelson, A. O.**, Na, Y.-S., Nazikian, R., Wilcox, R.Hong, R., Rhodes, T., Paz-Soldan, C., Jeon, Y. M., Kim, M. W., Ko, W.H., Lee, J.H., Battey, A., Bortolon, A., Snipes, J. & Kolemen, E., _Nature Communications_, **15**, Article number: 3990 (2024).
 
 **[Assessment of vertical stability for negative triangularity pilot plants](https://doi.org/10.1088/1361-6587/ad4175)**<br />
 Guizzo, S., **Nelson, A. O.**, Hansen, C., Logak, F., & Paz-Soldan C., _Plasma Physics and Controlled Fusion_, **66** 065018 (2024).
 
+**[High performance power handling in the absence of an H-mode edge in negative triangularity DIII-D plasmas](https://iopscience.iop.org/article/10.1088/1741-4326/ad5f41)**<br />
+Scotti, F., Marinoni, A., McLean, A. G., Paz-Soldan, C., Thome, K. E., Zhao, M., Allen, S., Austin, M., Burke, M. G., Eldon, D., Fenstermacher, M.,Hyatt, A., Lasnier, C. J., Leonard, A., Lore, J., **Nelson, A. O.** , Osborne, T., Sauter, O., Truong, D., Van Zeeland, M. A., Wang, H. Q. & Wilcox, R., _Nuclear Fusion_ **64**, 094001 (2024).
+
 **[A Gaussian Process Guide for Signal Regression in Magnetic Fusion](https://doi.org/10.1088/1741-4326/ad1af5)**<br />
-Michoski, C., Oliver, T. A., Hatch, D. R., Diallo, A., Kotschenreuther, M., Eldona, D., Wallerb, M., Groebnera, R. & **Nelson, A. O.**, _Nuclear Fusion_, in press (2024)
+Michoski, C., Oliver, T. A., Hatch, D. R., Diallo, A., Kotschenreuther, M., Eldona, D., Wallerb, M., Groebnera, R. & **Nelson, A. O.**, _Nuclear Fusion_, in press (2024).
 
 **[Kinetic-Ballooning-Bifurcation in Tokamak Pedestals Across Shaping and Aspect-Ratio](https://doi.org/10.1063/5.0190818)**<br />
 Parisi, J. F., **Nelson, A. O.**, Gaur, R., Kaye, S., Parra, F., Berkery, J., Barada, K. K., Clauser, C., Creely, C., Diallo, A., Guttenfelder, W., Hughes, J., Kogan, L., Kleiner, A., Kuang, A., Lampert, M., Macwan, T., Menard, J. & Miller, M. A., _Physics of Plasmas_ **31**, 030702 (2024).
@@ -71,11 +77,17 @@ Parisi, J. F., **Nelson, A. O.**, Gaur, R., Kaye, S., Parra, F., Berkery, J., Ba
 **[Kinetic-Ballooning-Limited Pedestals in Spherical Tokamak Plasmas](https://doi.org/10.1088/1741-4326/ad39fb)**<br />
 Parisi, J. F., Guttenfelder, W., **Nelson, A. O.**, Gaur, R., Kleiner, A., Lampert, M., Avdeeva, G., Berkery, J., Clauser, C., Curie, M., Diallo, A., Dorland, W., Kaye, S. M., McClenaghan, J. & Parra, F. I., _Nuclear Fusion_ **64**, 054002 (2024).
 
-**[Simultaneous access to high normalized current, pressure, density, and confinement in strongly-shaped diverted negative triangularity plasmas](https://arxiv.org/abs/2309.03689)**<br />
-Paz-Soldan, C., Chrystal, C., Lunia, P., **Nelson, A. O.**, Austin, M. E., Cote, T. B., Hyatt, A. W., Marinoni, A., Osborne, T. H., Pharr, M., Sauter, O., Scotti, F., Thome, K. E., Wilks, T. M. & Wilson, H. S., _Nuclear Fusion_, in review (2024).
+**[MANTA: A Negative-Triangularity {NASEM}-compliant fusion pilot plant](https://iopscience.iop.org/article/10.1088/1361-6587/ad6708)**<br />
+Rutherford, G., Wilson, Haley S., Saltzman, A., and Arnold, D., Ball, J., Benjamin, S., Bielajew, R., De Boucaud, N., Calvo Carrera, M., Chandra, R., Choudhury, H., Cummings, C., Corsaro, L., DaSilva, Nigel., Diab, R., Devitre, A., Ferry, S., Frank, S., Hansen, C., Jerkins, J., Johnson, J., Lunia, P., Van De Lindt, J., Mackie, S., Maris, A., Mandell, N., Miller, M., and Mouratidis, T., **Nelson, A. O.**, Pharr, M., Peterson, E., Rodriguez-Fernandez, P., Segatin, S., Tobin, M., Velberg, A., Wang, A., Wigram, M., Witham, J., Paz-Soldan, C. & Whyte, D., _Plasma Physics and Controlled Fusion_, in presss (2024).
+
+**[Power handling in a highly-radiative negative triangularity pilot plant](http://arxiv.org/abs/2407.06526)**<br />
+Miller, M. A., Arnold, D., Wigram, M., **Nelson, A. O.**, Witham, J., Rutherford, G., Choudhury, H., Cummings, C., Paz-Soldan, C. & Whyte, D. G.,. _Plasma Physics and Controlled Fusion_, in review (2024).
+
+**[Simultaneous access to high normalized current, pressure, density, and confinement in strongly-shaped diverted negative triangularity plasmas](https://iopscience.iop.org/article/10.1088/1741-4326/ad69a4)**<br />
+Paz-Soldan, C., Chrystal, C., Lunia, P., **Nelson, A. O.**, Austin, M. E., Cote, T. B., Hyatt, A. W., Marinoni, A., Osborne, T. H., Pharr, M., Sauter, O., Scotti, F., Thome, K. E., Wilks, T. M. & Wilson, H. S., _Nuclear Fusion_, in press (2024).
 
 **[Stability and Transport of Gyrokinetic Critical Pedestals](https://iopscience.iop.org/article/10.1088/1741-4326/ad4d02)**<br />
-Parisi, J., **Nelson, A. O.**, Guttenfelder, W., Gaur, R., Berkery, J., Kaye, S., Barada, K., Clauser, C.,; Diallo, A., Hatch, D., Kleiner, A., Lampert, M., Macwan, T., Menard, J., _Nuclear Fusion_, in press (2024).
+Parisi, J. F., **Nelson, A. O.**, Guttenfelder, W., Gaur, R., Berkery, J., Kaye, S., Barada, K., Clauser, C.,; Diallo, A., Hatch, D., Kleiner, A., Lampert, M., Macwan, T., Menard, J., _Nuclear Fusion_ **64**, 086034 (2024).
 
 **[TokaMaker: An open-source time-dependent Grad-Shafranov tool for the design and modeling of axisymmetric fusion devices](https://doi.org/10.1016/j.cpc.2024.109111)**<br />
 Hansen, C., Stewart, I. G., Burgess, D., Pharr, M., Guizzo, S., Logak, F., **Nelson, A. O.** & Paz-Soldan, C., _Computer Physics Communications_, in review (2024).
