@@ -65,6 +65,9 @@ Kim, S. K., Shousha, R., Yang, S. M., Hu, Q., Hahn, S. H., Jalalvand, A., Park, 
 **[Assessment of vertical stability for negative triangularity pilot plants](https://doi.org/10.1088/1361-6587/ad4175)**<br />
 Guizzo, S., **Nelson, A. O.**, Hansen, C., Logak, F., & Paz-Soldan C., _Plasma Physics and Controlled Fusion_, **66** 065018 (2024).
 
+**[Eﬀect of rotation on negative triangularity plasmas in DIII-D](https://iopscience.iop.org/article/10.1088/1361-6587/ad6d89)**<br />
+Chrystal, C., Austin, M. E., Odstrcil, T., Paz-Soldan, C., Thome, K. E., Marinoni, A,. Boyes, W., Osborne, T., and Logan, N., and Hyatt, A. W. & **Nelson, A. O.**, _Plasma Physics and Controlled Fusion_, in press (2024).
+
 **[High performance power handling in the absence of an H-mode edge in negative triangularity DIII-D plasmas](https://iopscience.iop.org/article/10.1088/1741-4326/ad5f41)**<br />
 Scotti, F., Marinoni, A., McLean, A. G., Paz-Soldan, C., Thome, K. E., Zhao, M., Allen, S., Austin, M., Burke, M. G., Eldon, D., Fenstermacher, M.,Hyatt, A., Lasnier, C. J., Leonard, A., Lore, J., **Nelson, A. O.** , Osborne, T., Sauter, O., Truong, D., Van Zeeland, M. A., Wang, H. Q. & Wilcox, R., _Nuclear Fusion_ **64**, 094001 (2024).
 
