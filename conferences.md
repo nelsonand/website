@@ -28,14 +28,20 @@ full-width: true
 
 (Slides available upon reasonable request) 
 
+- **Nelson, A. O.** _The Negative Triangularity Edge_
+    in [_Physics World Webinar: Negative triangularity tokamaks: a power plant plasma solution from the core to the edge?_](https://physicsworld.com/a/negative-triangularity-tokamaks-a-power-plant-plasma-solution-from-the-core-to-the-edge/) (2024).
+- **Nelson, A. O.** [_The Negative Triangularity Tokamak: Power Handling in a Fusion Power Plant_](https://www.youtube.com/watch?v=zuvT9qhCfR8&list=PLaWHFWu_46_xdx_cSStfhbkBi1Q7GDc8I&index=10&ab_channel=PhysicsCUBoulder) 
+    in _CU Boulder Saturday Physics Series_ (2024).
 - **Nelson, A. O.** _The Negative Triangularity Tokmak: Ensuring Robust Access to a High-Performance, ELM-Free Fusion Power Plant_ 
     in _UCI Physics Seminar Series_ (2024).
-- **Nelson, A. O.** _Plasma Waves_ in [_Princeton Plasma Physics Laboratory Introduction to Fusion Energy and Plasma Physics Course_](https://suli.pppl.gov/2023/course/) (2023).
+- **Nelson, A. O.** _Plasma Waves_ 
+    in [_Princeton Plasma Physics Laboratory Introduction to Fusion Energy and Plasma Physics Course_](https://suli.pppl.gov/2023/course/) (2023).
 - **Nelson, A. O.** _Negative Triangularity: The Holy Grail for Tokamak Core-Edge Integration?_ 
     in _UCLA Plasma Science and Technology Institute Seminar Series_ (2023).
-- **Nelson, A. O.** _A practical introduction to the H-mode pedestal: ELMs and ELM-free regimes_ in
-    [_Fusion-EP Seminar Series_](https://www.em-master-fusion.org/) (2020).
-- **Nelson, A. O.** _Introduction to Outstanding Problems in Magnetic Confinement Fusion_ in _APS-DPP Student Day_ (2020).
+- **Nelson, A. O.** [_A practical introduction to the H-mode pedestal: ELMs and ELM-free regimes_](https://www.youtube.com/watch?v=S9QQEA3jhlE&ab_channel=FusionEPtalks)
+    in [_Fusion-EP Seminar Series_](https://www.em-master-fusion.org/) (2020).
+- **Nelson, A. O.** _Introduction to Outstanding Problems in Magnetic Confinement Fusion_ 
+    in _APS-DPP Student Day_ (2020).
 
 ## Conference Contributions
 
