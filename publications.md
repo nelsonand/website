@@ -14,11 +14,11 @@ full-width: true
 
 ## Other First Author Publications
 
-**[First Access to ELM-free Negative Triangularity at Low Aspect Ratio](https://arxiv.org/abs/2408.00180v1)** <br />
-**Nelson, A. O.**, Vincent, C., Anand, H., Lovell, J., Parisi, J. F., Wilson, H. S., Imada, K., Wehner, W. P., Kochan, M., Blackmore, S., Guizzo, S., Rondini, L., Freiberger, S., Paz-Soldan, C. and the MAST-U Team, _Nuclear Fusion_, in review (2024).
+**[First Access to ELM-free Negative Triangularity at Low Aspect Ratio](https://doi.org/10.1088/1741-4326/ad89db)** <br />
+**Nelson, A. O.**, Vincent, C., Anand, H., Lovell, J., Parisi, J. F., Wilson, H. S., Imada, K., Wehner, W. P., Kochan, M., Blackmore, S., Guizzo, S., Rondini, L., Freiberger, S., Paz-Soldan, C. and the MAST-U Team, _Nuclear Fusion_, in press (2024).
 
 **[Characterization of the ELM-free Negative Triangularity Edge on DIII-D](https://doi.org/10.1088/1361-6587/ad6a83)** <br />
-**Nelson, A. O.**, Schmitz, L., Cote, T., Parisi, J. F., Paz-Soldan, C., Thome, K.E., & Austin, M.E., Scotti, F., Barr, J.L., Hyatt, A., Leuthold, N., Marinoni, A., Neiser, T., Osborne, T., Richner, N., Welander, A.S., Wehner, W.P., Wilcox, W., Wilks, T.M. & Yang, J.,  _Plasma Physics and Controlled Fusion_, in press (2024).
+**Nelson, A. O.**, Schmitz, L., Cote, T., Parisi, J. F., Paz-Soldan, C., Thome, K.E., & Austin, M.E., Scotti, F., Barr, J.L., Hyatt, A., Leuthold, N., Marinoni, A., Neiser, T., Osborne, T., Richner, N., Welander, A.S., Wehner, W.P., Wilcox, W., Wilks, T.M. & Yang, J.,  _Plasma Physics and Controlled Fusion_, **66**, 105014 (2024).
 
 **[Implications of Vertical Stability Control on the SPARC Tokamak](https://iopscience.iop.org/article/10.1088/1741-4326/ad58f6)** <br />
 **Nelson, A. O.**, Garnier, D. T., Battaglia, D. J., Paz-Soldan, C., Stewart, I., Reinke, M., Creely, A., & Wai, J., _Nuclear Fusion_ **64**, 086040 (2024).
