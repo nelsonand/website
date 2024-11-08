@@ -29,7 +29,7 @@ There is still much work to be done on fleshing out and solidifying this design 
 
 ## Selected publications on this subject:
 
-**[MANTA: A Negative-Triangularity {NASEM}-compliant fusion pilot plant](https://iopscience.iop.org/article/10.1088/1361-6587/ad6708)**<br />
+**[MANTA: A Negative-Triangularity NASEM-compliant fusion pilot plant](https://iopscience.iop.org/article/10.1088/1361-6587/ad6708)**<br />
 The MANTA Collaboration, Rutherford, G., Wilson, Haley S., Saltzman, A., and Arnold, D., Ball, J., Benjamin, S., Bielajew, R., De Boucaud, N., Calvo Carrera, M., Chandra, R., Choudhury, H., Cummings, C., Corsaro, L., DaSilva, Nigel., Diab, R., Devitre, A., Ferry, S., Frank, S., Hansen, C., Jerkins, J., Johnson, J., Lunia, P., Van De Lindt, J., Mackie, S., Maris, A., Mandell, N., Miller, M., and Mouratidis, T., **Nelson, A. O.**, Pharr, M., Peterson, E., Rodriguez-Fernandez, P., Segatin, S., Tobin, M., Velberg, A., Wang, A., Wigram, M., Witham, J., Paz-Soldan, C. & Whyte, D., _Plasma Physics and Controlled Fusion_ **66**, 105006 (2024).
 
 **[Power handling in a highly-radiative negative triangularity pilot plant](https://doi.org/10.1088/1361-6587/ad867a)**<br />

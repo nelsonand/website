@@ -120,7 +120,7 @@ Parisi, J. F., Guttenfelder, W., **Nelson, A. O.**, Gaur, R., Kleiner, A., Lampe
 **[Novel intrinsic helical cores and MHD dynamo flux pumping evidence in DIII-D](https://doi.org/10.1088/1741-4326/ad89d9)**<br />
 Boyes, W., Turco, F., Hanson, J., Navratil, G., Turnbull, A., Hyatt, A., Luce, T., Meyer, W., **Nelson, A. O.**, Odstrcil, T.,Osborne, T., Scotti, F., Welander, A. & Wingen, A., _Nuclear Fusion_ **64**, 124005.  (2024).
 
-**[MANTA: A Negative-Triangularity {NASEM}-compliant fusion pilot plant](https://iopscience.iop.org/article/10.1088/1361-6587/ad6708)**<br />
+**[MANTA: A Negative-Triangularity NASEM-compliant fusion pilot plant](https://iopscience.iop.org/article/10.1088/1361-6587/ad6708)**<br />
 The MANTA Collaboration, Rutherford, G., Wilson, Haley S., Saltzman, A., and Arnold, D., Ball, J., Benjamin, S., Bielajew, R., De Boucaud, N., Calvo Carrera, M., Chandra, R., Choudhury, H., Cummings, C., Corsaro, L., DaSilva, Nigel., Diab, R., Devitre, A., Ferry, S., Frank, S., Hansen, C., Jerkins, J., Johnson, J., Lunia, P., Van De Lindt, J., Mackie, S., Maris, A., Mandell, N., Miller, M., and Mouratidis, T., **Nelson, A. O.**, Pharr, M., Peterson, E., Rodriguez-Fernandez, P., Segatin, S., Tobin, M., Velberg, A., Wang, A., Wigram, M., Witham, J., Paz-Soldan, C. & Whyte, D., _Plasma Physics and Controlled Fusion_ **66**, 105006 (2024).
 
 **[Multimodal Super-Resolution: Discovering hidden physics and its application to fusion plasmas](https://arxiv.org/abs/2405.05908)**<br />
