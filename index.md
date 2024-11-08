@@ -12,7 +12,7 @@ I am currently an associate research scientist at Columbia University, where I w
 
 You can learn more about the projects I am involved in, both in [research](https://www.oaknelson.com/projects/) and in [diversity, equity and inclusion](https://www.oaknelson.com/outreach/) work, on other tabs on this page. 
 Full lists of my [publications](https://www.oaknelson.com/publications/), [conference contributions](https://www.oaknelson.com/conferences/) and [students](https://www.oaknelson.com/students/) are also available. 
-To learn more about my career so far, you can also download a pdf of my abbreviated CV [here](https://github.com/nelsonand/website/files/Nelson_CurriculumVitae_Nov_2024.pdf).
+To learn more about my career so far, you can also download a pdf of my abbreviated CV [here](https://www.oaknelson.com/assets/Nelson_CurriculumVitae_Nov_2024.pdf).
 
 Please find my contact information at the bottom of this page if you would like to get involved!
 
