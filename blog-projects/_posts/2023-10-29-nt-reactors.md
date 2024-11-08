@@ -30,10 +30,13 @@ There is still much work to be done on fleshing out and solidifying this design 
 ## Selected publications on this subject:
 
 **[MANTA: A Negative-Triangularity {NASEM}-compliant fusion pilot plant](https://iopscience.iop.org/article/10.1088/1361-6587/ad6708)**<br />
-Rutherford, G., Wilson, Haley S., Saltzman, A., and Arnold, D., Ball, J., Benjamin, S., Bielajew, R., De Boucaud, N., Calvo Carrera, M., Chandra, R., Choudhury, H., Cummings, C., Corsaro, L., DaSilva, Nigel., Diab, R., Devitre, A., Ferry, S., Frank, S., Hansen, C., Jerkins, J., Johnson, J., Lunia, P., Van De Lindt, J., Mackie, S., Maris, A., Mandell, N., Miller, M., and Mouratidis, T., **Nelson, A. O.**, Pharr, M., Peterson, E., Rodriguez-Fernandez, P., Segatin, S., Tobin, M., Velberg, A., Wang, A., Wigram, M., Witham, J., Paz-Soldan, C. & Whyte, D., _Plasma Physics and Controlled Fusion_, in press (2024).
+The MANTA Collaboration, Rutherford, G., Wilson, Haley S., Saltzman, A., and Arnold, D., Ball, J., Benjamin, S., Bielajew, R., De Boucaud, N., Calvo Carrera, M., Chandra, R., Choudhury, H., Cummings, C., Corsaro, L., DaSilva, Nigel., Diab, R., Devitre, A., Ferry, S., Frank, S., Hansen, C., Jerkins, J., Johnson, J., Lunia, P., Van De Lindt, J., Mackie, S., Maris, A., Mandell, N., Miller, M., and Mouratidis, T., **Nelson, A. O.**, Pharr, M., Peterson, E., Rodriguez-Fernandez, P., Segatin, S., Tobin, M., Velberg, A., Wang, A., Wigram, M., Witham, J., Paz-Soldan, C. & Whyte, D., _Plasma Physics and Controlled Fusion_ **66**, 105006 (2024).
 
-**[Power handling in a highly-radiative negative triangularity pilot plant](http://arxiv.org/abs/2407.06526)**<br />
-Miller, M. A., Arnold, D., Wigram, M., **Nelson, A. O.**, Witham, J., Rutherford, G., Choudhury, H., Cummings, C., Paz-Soldan, C. & Whyte, D. G.,. _Plasma Physics and Controlled Fusion_, in review (2024).
+**[Power handling in a highly-radiative negative triangularity pilot plant](https://doi.org/10.1088/1361-6587/ad867a)**<br />
+Miller, M. A., Arnold, D., Wigram, M., **Nelson, A. O.**, Witham, J., Rutherford, G., Choudhury, H., Cummings, C., Paz-Soldan, C. & Whyte, D. G.,. _Plasma Physics and Controlled Fusion_ **66**, 125004 (2024).
+
+**Characterizing the negative triangularity reactor core operating space with integrated modeling**<br />
+Wilson, H., **Nelson, A. O.**, McClenaghan, J., Rodriguez Fernandez, P., Parisi, J. & Paz-Soldan, C., _Plasma Physics and Controlled Fusion_, inreview (2024).
 
 **[Exploring the Negative-Triangularity Pathway to Fusion with MANTA](https://github.com/nelsonand/website/blob/main/blog-projects/assets/docs/2023_MANTA_IAEA.pdf)**<br />
 **Nelson, A. O.,** et al., _29th IAEA Fusion Energy Conference_ (October 2023).
