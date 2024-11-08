@@ -59,11 +59,17 @@ full-width: true
 
 ### 2024
 
+**Accelerating Discoveries at DIII-D With the Integrated Research Infrastructure**<br />
+Bechtel Amara, T., Smith, S. P., Xing, Z. A., Neiser, T. F., Simpson, C., **Nelson, A. O.**, Denk, S., Colmenares, J., DeShazer, E., Antepara, O., Deshpande, A., Clark, M., Lestz, J., Tyler, N., Ding, P., Kostuk, M., Dart, E. Nazikian, R., Osborne, T., Williams, S., Uram, T. & Schissel, D. A. _Frontiers of Physics_, in press (2024).
+
 **[Highest Fusion Performance without Harmful Edge Energy Bursts in Tokamak](https://www.nature.com/articles/s41467-024-48415-w)**<br />
 Kim, S. K., Shousha, R., Yang, S. M., Hu, Q., Hahn, S. H., Jalalvand, A., Park, J.-K., Logan, N. C., **Nelson, A. O.**, Na, Y.-S., Nazikian, R., Wilcox, R.Hong, R., Rhodes, T., Paz-Soldan, C., Jeon, Y. M., Kim, M. W., Ko, W.H., Lee, J.H., Battey, A., Bortolon, A., Snipes, J. & Kolemen, E., _Nature Communications_, **15**, Article number: 3990 (2024).
 
 **[Assessment of vertical stability for negative triangularity pilot plants](https://doi.org/10.1088/1361-6587/ad4175)**<br />
 Guizzo, S., **Nelson, A. O.**, Hansen, C., Logak, F., & Paz-Soldan C., _Plasma Physics and Controlled Fusion_, **66** 065018 (2024).
+
+**[Multimodal Super-Resolution: Discovering hidden physics and its application to fusion plasmas](https://arxiv.org/abs/2405.05908)**<br />
+Jalalvand, A., Curie, M., Kim, S., Seo, J., Hu, Q., Curie, M., Steiner, P.,  **Nelson, A. O.**, Na, Y.-S & Kolemen, E., _Science_, in review (2024).
 
 **[Eﬀect of rotation on negative triangularity plasmas in DIII-D](https://iopscience.iop.org/article/10.1088/1361-6587/ad6d89)**<br />
 Chrystal, C., Austin, M. E., Odstrcil, T., Paz-Soldan, C., Thome, K. E., Marinoni, A,. Boyes, W., Osborne, T., and Logan, N., and Hyatt, A. W. & **Nelson, A. O.**, _Plasma Physics and Controlled Fusion_, in press (2024).

@@ -8,6 +8,8 @@ full-width: true
 
 (Slides available upon reasonable request) 
 
+- **Nelson, A. O.** _The Negative Triangularity Edge_
+    in [_Physics World Webinar: Negative triangularity tokamaks: a power plant plasma solution from the core to the edge?_](https://physicsworld.com/a/negative-triangularity-tokamaks-a-power-plant-plasma-solution-from-the-core-to-the-edge/) (2024).
 - **Nelson, A. O.** _The Negative Triangularity Tokmak: Ensuring Robust Access to a High-Performance, ELM-Free Fusion Power Plant_ 
     in _Symposium on Plasma And Nuclear Systems (SPANS-2024)_ (Ontario, Canada, 2024).
 - **Nelson, A. O.** _Robust avoidance of edge localized modes alongside pedestal formation in negative triangularity plasmas_ 
@@ -28,8 +30,6 @@ full-width: true
 
 (Slides available upon reasonable request) 
 
-- **Nelson, A. O.** _The Negative Triangularity Edge_
-    in [_Physics World Webinar: Negative triangularity tokamaks: a power plant plasma solution from the core to the edge?_](https://physicsworld.com/a/negative-triangularity-tokamaks-a-power-plant-plasma-solution-from-the-core-to-the-edge/) (2024).
 - **Nelson, A. O.** [_The Negative Triangularity Tokamak: Power Handling in a Fusion Power Plant_](https://www.youtube.com/watch?v=zuvT9qhCfR8&list=PLaWHFWu_46_xdx_cSStfhbkBi1Q7GDc8I&index=10&ab_channel=PhysicsCUBoulder) 
     in _CU Boulder Saturday Physics Series_ (2024).
 - **Nelson, A. O.** _The Negative Triangularity Tokmak: Ensuring Robust Access to a High-Performance, ELM-Free Fusion Power Plant_ 
