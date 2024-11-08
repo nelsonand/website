@@ -18,7 +18,7 @@ Jalalvand, A., Curie, M., Kim, S., Seo, J., Hu, Q., Curie, M., Steiner, P.,  **N
 **[Prospects for H-mode inhibition in negative triangularity tokamak reactor plasmas](https://doi.org/10.1088/1741-4326/ac8064)** <br />
 **Nelson, A. O.,** Paz-Soldan, C. & Saarelma, S., _Nuclear Fusion_ **62**, 096020 (2022).
 
-## Other First Author Publications
+## First Author Publications
 
 **[First Access to ELM-free Negative Triangularity at Low Aspect Ratio](https://doi.org/10.1088/1741-4326/ad89db)** <br />
 **Nelson, A. O.**, Vincent, C., Anand, H., Lovell, J., Parisi, J. F., Wilson, H. S., Imada, K., Wehner, W. P., Kochan, M., Blackmore, S., Guizzo, S., Rondini, L., Freiberger, S., Paz-Soldan, C. and the MAST-U Team, _Nuclear Fusion_, **64**, 124004 (2024).
@@ -75,7 +75,7 @@ Jalalvand, A., Curie, M., Kim, S., Seo, J., Hu, Q., Curie, M., Steiner, P.,  **N
 Bechtel Amara, T., Smith, S. P., Xing, Z. A., Neiser, T. F., Simpson, C., **Nelson, A. O.**, Denk, S., Colmenares, J., DeShazer, E., Antepara, O., Deshpande, A., Clark, M., Lestz, J., Tyler, N., Ding, P., Kostuk, M., Dart, E. Nazikian, R., Osborne, T., Williams, S., Uram, T. & Schissel, D. A. _Frontiers of Physics_, in press (2024).
 
 **Achievement of highly radiating plasma in negative triangularity and effect of reactor-relevant seeded impurities on confinement and transport**<br />
-Casali, L., Eldon, D., Odstrcil, T., Mattes, R., Welsh, A., Lee, K., **Nelson, A. O.**, Paz-Soldan, C., Khabanov, F.,Cote, T., McLean, A. G., Scotti, F. & Thome, K. E., Plasma Physics and Controlled Fusion__, inreview (2024).
+Casali, L., Eldon, D., Odstrcil, T., Mattes, R., Welsh, A., Lee, K., **Nelson, A. O.**, Paz-Soldan, C., Khabanov, F.,Cote, T., McLean, A. G., Scotti, F. & Thome, K. E., _Plasma Physics and Controlled Fusion_, in review (2024).
 
 **Application of the Scrape-Off-Layer Fast Ion (SOLFI) code to assess particle motion in mirrors and tokamaks**<br />
 Zhang, X., Lopez, N. A., **Nelson, A. O.**, Rondini, L. & Poli, F. M., _Fusion Engineering and Design_, in review (2024).
@@ -90,7 +90,7 @@ Eldon, D., Casali, L., Bykov, I., Chrystal, C., Erickson, K., Hyatt, A. W., Leon
 Stewart, S., McKee, G., Chrystal, C., Cote, T., Geiger, B., Khabanov, F., **Nelson, A. O.**, Qin, X., Paz-Soldan, C., Schmitz, L., Thome, K. E. & Yan, Z., _Plasma Physics and Controlled Fusion_, in review (2024).
 
 **Characterizing the negative triangularity reactor core operating space with integrated modeling**<br />
-Wilson, H., **Nelson, A. O.**, McClenaghan, J., Rodriguez Fernandez, P., Parisi, J. & Paz-Soldan, C., _Plasma Physics and Controlled Fusion_, inreview (2024).
+Wilson, H., **Nelson, A. O.**, McClenaghan, J., Rodriguez Fernandez, P., Parisi, J. & Paz-Soldan, C., _Plasma Physics and Controlled Fusion_, in review (2024).
 
 **[Eﬀect of rotation on negative triangularity plasmas in DIII-D](https://iopscience.iop.org/article/10.1088/1361-6587/ad6d89)**<br />
 Chrystal, C., Austin, M. E., Odstrcil, T., Paz-Soldan, C., Thome, K. E., Marinoni, A,. Boyes, W., Osborne, T., and Logan, N., and Hyatt, A. W. & **Nelson, A. O.**, _Plasma Physics and Controlled Fusion_ **66**, 105004 (2024).
@@ -127,7 +127,7 @@ The MANTA Collaboration, Rutherford, G., Wilson, Haley S., Saltzman, A., and Arn
 Jalalvand, A., Curie, M., Kim, S., Seo, J., Hu, Q., Curie, M., Steiner, P.,  **Nelson, A. O.**, Na, Y.-S & Kolemen, E., _Science_, in review (2024).
 
 **[Overview of results from the 2023 DIII-D Negative Triangularity campaign](https://doi.org/10.1088/1361-6587/ad6f40)**<br />
-Thome, K. E., Austin, M. E., Hyatt, A. W., Marinoni, A., **Nelson, A. O.**, Paz-Soldan, C., Scotti, F., Boyes, W. S., Casali, L., Chrystal, C., Ding, S., Du, X., Eldon, D., Ernst, D. R., Hong, R., McKee, G. R., Mordijck, S., Sauter, O., Schmitz, L., Barr, J. L., Burke, M. G., Coda, S., Cote, T., Fenstermacher, M. E., Garofalo, A. M., Khabanov, F., Kramer, G. J., Lasnier, C., Logan, N., Lunia, P., McLean, A. G., Okabayashi, M., Shiraki, D., Stewart, S. D., Takemura, Y., Truong, D., Osborne, T. H., Van Zeeland, M. A., Victor, B. S., Wang, H. Q., Watkins, J., Wehner, W. P., Welander, A. S., Wilks, T., Yang, J., Yu, G. & Zeng, L., _ Plasma Physics and Controlled Fusion_  **66**, 105018 (2024).
+Thome, K. E., Austin, M. E., Hyatt, A. W., Marinoni, A., **Nelson, A. O.**, Paz-Soldan, C., Scotti, F., Boyes, W. S., Casali, L., Chrystal, C., Ding, S., Du, X., Eldon, D., Ernst, D. R., Hong, R., McKee, G. R., Mordijck, S., Sauter, O., Schmitz, L., Barr, J. L., Burke, M. G., Coda, S., Cote, T., Fenstermacher, M. E., Garofalo, A. M., Khabanov, F., Kramer, G. J., Lasnier, C., Logan, N., Lunia, P., McLean, A. G., Okabayashi, M., Shiraki, D., Stewart, S. D., Takemura, Y., Truong, D., Osborne, T. H., Van Zeeland, M. A., Victor, B. S., Wang, H. Q., Watkins, J., Wehner, W. P., Welander, A. S., Wilks, T., Yang, J., Yu, G. & Zeng, L., _Plasma Physics and Controlled Fusion_ **66**, 105018 (2024).
 
 **[Power handling in a highly-radiative negative triangularity pilot plant](https://doi.org/10.1088/1361-6587/ad867a)**<br />
 Miller, M. A., Arnold, D., Wigram, M., **Nelson, A. O.**, Witham, J., Rutherford, G., Choudhury, H., Cummings, C., Paz-Soldan, C. & Whyte, D. G.,. _Plasma Physics and Controlled Fusion_ **66**, 125004 (2024).
