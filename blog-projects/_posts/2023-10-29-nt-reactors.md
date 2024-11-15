@@ -35,8 +35,8 @@ The MANTA Collaboration, Rutherford, G., Wilson, Haley S., Saltzman, A., and Arn
 **[Power handling in a highly-radiative negative triangularity pilot plant](https://doi.org/10.1088/1361-6587/ad867a)**<br />
 Miller, M. A., Arnold, D., Wigram, M., **Nelson, A. O.**, Witham, J., Rutherford, G., Choudhury, H., Cummings, C., Paz-Soldan, C. & Whyte, D. G.,. _Plasma Physics and Controlled Fusion_ **66**, 125004 (2024).
 
-**Characterizing the negative triangularity reactor core operating space with integrated modeling**<br />
-Wilson, H., **Nelson, A. O.**, McClenaghan, J., Rodriguez Fernandez, P., Parisi, J. & Paz-Soldan, C., _Plasma Physics and Controlled Fusion_, inreview (2024).
+**[Characterizing the negative triangularity reactor core operating space with integrated modeling](https://arxiv.org/abs/2409.03038)**<br />
+Wilson, H., **Nelson, A. O.**, McClenaghan, J., Rodriguez Fernandez, P., Parisi, J. & Paz-Soldan, C., _Plasma Physics and Controlled Fusion_, in review (2024).
 
 **[Exploring the Negative-Triangularity Pathway to Fusion with MANTA](https://github.com/nelsonand/website/blob/main/blog-projects/assets/docs/2023_MANTA_IAEA.pdf)**<br />
 **Nelson, A. O.,** et al., _29th IAEA Fusion Energy Conference_ (October 2023).
