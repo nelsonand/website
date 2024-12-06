@@ -6,17 +6,17 @@ full-width: true
 
 ## Featured Articles
 
-**[Highest Fusion Performance without Harmful Edge Energy Bursts in Tokamak](https://www.nature.com/articles/s41467-024-48415-w)**<br />
-Kim, S. K., Shousha, R., Yang, S. M., Hu, Q., Hahn, S. H., Jalalvand, A., Park, J.-K., Logan, N. C., **Nelson, A. O.**, Na, Y.-S., Nazikian, R., Wilcox, R.Hong, R., Rhodes, T., Paz-Soldan, C., Jeon, Y. M., Kim, M. W., Ko, W.H., Lee, J.H., Battey, A., Bortolon, A., Snipes, J. & Kolemen, E., _Nature Communications_, **15**, Article number: 3990 (2024).
-
-**[Multimodal Super-Resolution: Discovering hidden physics and its application to fusion plasmas](https://arxiv.org/abs/2405.05908)**<br />
-Jalalvand, A., Curie, M., Kim, S., Seo, J., Hu, Q., Curie, M., Steiner, P.,  **Nelson, A. O.**, Na, Y.-S & Kolemen, E., _Science_, in review (2024).
-
 **[Robust avoidance of edge-localized modes alongside gradient formation in the negative triangularity tokamak edge](https://doi.org/10.1103/PhysRevLett.131.195101)** <br />
 **Nelson, A. O.**, Schmitz, L., Paz-Soldan, C., Thome, K. E., Cote, T. B., Leuthold, N., Scotti, F., Austin, M. E., Hyatt, A. & Osborne, T., _Physical Review Letters_, **131**, 195101 (2023).
 
 **[Prospects for H-mode inhibition in negative triangularity tokamak reactor plasmas](https://doi.org/10.1088/1741-4326/ac8064)** <br />
 **Nelson, A. O.,** Paz-Soldan, C. & Saarelma, S., _Nuclear Fusion_ **62**, 096020 (2022).
+
+**[Highest Fusion Performance without Harmful Edge Energy Bursts in Tokamak](https://www.nature.com/articles/s41467-024-48415-w)**<br />
+Kim, S. K., Shousha, R., Yang, S. M., Hu, Q., Hahn, S. H., Jalalvand, A., Park, J.-K., Logan, N. C., **Nelson, A. O.**, Na, Y.-S., Nazikian, R., Wilcox, R.Hong, R., Rhodes, T., Paz-Soldan, C., Jeon, Y. M., Kim, M. W., Ko, W.H., Lee, J.H., Battey, A., Bortolon, A., Snipes, J. & Kolemen, E., _Nature Communications_, **15**, Article number: 3990 (2024).
+
+**[Multimodal Super-Resolution: Discovering hidden physics and its application to fusion plasmas](https://arxiv.org/abs/2405.05908)**<br />
+Jalalvand, A., Curie, M., Kim, S., Seo, J., Hu, Q., Curie, M., Steiner, P.,  **Nelson, A. O.**, Na, Y.-S & Kolemen, E., _Science_, in review (2024).
 
 ## First Author Publications
 
