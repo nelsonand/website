@@ -89,7 +89,7 @@ Eldon, D., Casali, L., Bykov, I., Chrystal, C., Erickson, K., Hyatt, A. W., Leon
 **Characterization of Turbulence Properties in Negative Triangularity DIII-DPlasmas**<br />
 Stewart, S., McKee, G., Chrystal, C., Cote, T., Geiger, B., Khabanov, F., **Nelson, A. O.**, Qin, X., Paz-Soldan, C., Schmitz, L., Thome, K. E. & Yan, Z., _Plasma Physics and Controlled Fusion_, in review (2024).
 
-**Characterizing the negative triangularity reactor core operating space with integrated modeling**<br />
+**[Characterizing the negative triangularity reactor core operating space with integrated modeling](https://iopscience.iop.org/article/10.1088/1361-6587/ad9be5/meta)**<br />
 Wilson, H., **Nelson, A. O.**, McClenaghan, J., Rodriguez Fernandez, P., Parisi, J. & Paz-Soldan, C., _Plasma Physics and Controlled Fusion_, in review (2024).
 
 **[Eﬀect of rotation on negative triangularity plasmas in DIII-D](https://iopscience.iop.org/article/10.1088/1361-6587/ad6d89)**<br />
