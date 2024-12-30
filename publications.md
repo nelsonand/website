@@ -95,7 +95,7 @@ Jalalvand, A., Curie, M., Kim, S., Seo, J., Hu, Q., Curie, M., Steiner, P.,  **N
 Guizzo, S., **Nelson, A. O.**, Hansen, C., Logak, F., & Paz-Soldan C., _Plasma Physics and Controlled Fusion_ **66**, 065018 (2024).
 
 **[Characterizing the negative triangularity reactor core operating space with integrated modeling](https://iopscience.iop.org/article/10.1088/1361-6587/ad9be5/meta)**<br />
-Wilson, H., **Nelson, A. O.**, McClenaghan, J., Rodriguez Fernandez, P., Parisi, J. & Paz-Soldan, C., _Plasma Physics and Controlled Fusion_, in review (2024).
+Wilson, H., **Nelson, A. O.**, McClenaghan, J., Rodriguez Fernandez, P., Parisi, J. & Paz-Soldan, C., _Plasma Physics and Controlled Fusion_, **67**, 015026 (2024).
 
 **[Eﬀect of rotation on negative triangularity plasmas in DIII-D](https://iopscience.iop.org/article/10.1088/1361-6587/ad6d89)**<br />
 Chrystal, C., Austin, M. E., Odstrcil, T., Paz-Soldan, C., Thome, K. E., Marinoni, A,. Boyes, W., Osborne, T., and Logan, N., and Hyatt, A. W. & **Nelson, A. O.**, _Plasma Physics and Controlled Fusion_ **66**, 105004 (2024).
