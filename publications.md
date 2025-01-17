@@ -83,7 +83,7 @@ Eldon, D., Casali, L., Bykov, I., Chrystal, C., Erickson, K., Hyatt, A. W., Leon
 **[Characterization of Turbulence Properties in Negative Triangularity DIII-DPlasmas](https://doi.org/10.1088/1361-6587/ada823)**<br />
 Stewart, S., McKee, G., Chrystal, C., Cote, T., Geiger, B., Khabanov, F., **Nelson, A. O.**, Qin, X., Paz-Soldan, C., Schmitz, L., Thome, K. E. & Yan, Z., _Plasma Physics and Controlled Fusion_, in press (2025).
 
-**First observations of edge instabilities in strongly shaped negative triangularly plasmas on DIII-D** 
+**First observations of edge instabilities in strongly shaped negative triangularly plasmas on DIII-D**<br /> 
 Cote, T. B., Yu, G., **Nelson, A. O.**, Leuthold, N., Richner, N., Stewart, S., Khabanov, F., Zhu, Paz-Soldan, C., Schmitz, L., Thome, K. E., Austin, M. E. & Scotti, F., _Plasma Physics and Controlled Fusion_, in review.
 
 **First-wall fluxes from large and small ELMs**<br />
