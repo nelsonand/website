@@ -15,6 +15,10 @@ full-width: true
 **[Highest Fusion Performance without Harmful Edge Energy Bursts in Tokamak](https://www.nature.com/articles/s41467-024-48415-w)**<br />
 Kim, S. K., Shousha, R., Yang, S. M., Hu, Q., Hahn, S. H., Jalalvand, A., Park, J.-K., Logan, N. C., **Nelson, A. O.**, Na, Y.-S., Nazikian, R., Wilcox, R.Hong, R., Rhodes, T., Paz-Soldan, C., Jeon, Y. M., Kim, M. W., Ko, W.H., Lee, J.H., Battey, A., Bortolon, A., Snipes, J. & Kolemen, E., _Nature Communications_, **15**, Article number: 3990 (2024).
 
+**[Accelerating Discoveries at DIII-D With the Integrated Research Infrastructure](https://doi.org/10.3389/fphy.2024.1524041)**<br />
+Bechtel Amara, T., Smith, S. P., Xing, Z. A., Neiser, T. F., Simpson, C., **Nelson, A. O.**, Denk, S., Colmenares, J., DeShazer, E., Antepara, O., Deshpande, A., Clark, M., Lestz, J., Tyler, N., Ding, P., Kostuk, M., Dart, E. Nazikian, R., Osborne, T., Williams, S., Uram, T. & Schissel, D. A. _Frontiers of Physics_, **12** 1524041 (2025).
+
+
 ## First Author Publications
 
 **[First Access to ELM-free Negative Triangularity at Low Aspect Ratio](https://doi.org/10.1088/1741-4326/ad89db)** <br />
