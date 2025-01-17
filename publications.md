@@ -86,6 +86,9 @@ Stewart, S., McKee, G., Chrystal, C., Cote, T., Geiger, B., Khabanov, F., **Nels
 **First observations of edge instabilities in strongly shaped negative triangularly plasmas on DIII-D** 
 Cote, T. B., Yu, G., **Nelson, A. O.**, Leuthold, N., Richner, N., Stewart, S., Khabanov, F., Zhu, Paz-Soldan, C., Schmitz, L., Thome, K. E., Austin, M. E. & Scotti, F., _Plasma Physics and Controlled Fusion_, in review.
 
+**First-wall fluxes from large and small ELMs**<br />
+Perillo, R., Boedo, J. A., Lasnier, C., McLean, A., Marini, C., Bykov, I., Glass, F., Kapat, A., **Nelson, A. O.**, & Rudakov, D., _Physics of Plasmas_, in press (2025).
+
 **[Multimodal Super-Resolution: Discovering hidden physics and its application to fusion plasmas](https://arxiv.org/abs/2405.05908)**<br />
 Jalalvand, A., Curie, M., Kim, S., Seo, J., Hu, Q., Curie, M., Steiner, P.,  **Nelson, A. O.**, Na, Y.-S & Kolemen, E., _Science_, in review.
 
