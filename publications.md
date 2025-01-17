@@ -68,8 +68,8 @@ Kim, S. K., Shousha, R., Yang, S. M., Hu, Q., Hahn, S. H., Jalalvand, A., Park, 
 
 ### 2025
 
-**Accelerating Discoveries at DIII-D With the Integrated Research Infrastructure**<br />
-Bechtel Amara, T., Smith, S. P., Xing, Z. A., Neiser, T. F., Simpson, C., **Nelson, A. O.**, Denk, S., Colmenares, J., DeShazer, E., Antepara, O., Deshpande, A., Clark, M., Lestz, J., Tyler, N., Ding, P., Kostuk, M., Dart, E. Nazikian, R., Osborne, T., Williams, S., Uram, T. & Schissel, D. A. _Frontiers of Physics_, in press.
+**[Accelerating Discoveries at DIII-D With the Integrated Research Infrastructure](https://doi.org/10.3389/fphy.2024.1524041)**<br />
+Bechtel Amara, T., Smith, S. P., Xing, Z. A., Neiser, T. F., Simpson, C., **Nelson, A. O.**, Denk, S., Colmenares, J., DeShazer, E., Antepara, O., Deshpande, A., Clark, M., Lestz, J., Tyler, N., Ding, P., Kostuk, M., Dart, E. Nazikian, R., Osborne, T., Williams, S., Uram, T. & Schissel, D. A. _Frontiers of Physics_, **12** 1524041 (2025).
 
 **Achievement of highly radiating plasma in negative triangularity and effect of reactor-relevant seeded impurities on confinement and transport**<br />
 Casali, L., Eldon, D., Odstrcil, T., Mattes, R., Welsh, A., Lee, K., **Nelson, A. O.**, Paz-Soldan, C., Khabanov, F.,Cote, T., McLean, A. G., Scotti, F. & Thome, K. E., _Plasma Physics and Controlled Fusion_, in review.
@@ -80,8 +80,8 @@ Zhang, X., Lopez, N. A., **Nelson, A. O.**, Rondini, L. & Poli, F. M., _Fusion E
 **[Characterization and controllability of radiated power via extrinsic impurity seeding in strongly negative triangularity plasmas in DIII-D](https://doi.org/10.1088/1361-6587/ad9e71)**<br />
 Eldon, D., Casali, L., Bykov, I., Chrystal, C., Erickson, K., Hyatt, A. W., Leonard, A. W., Moser, A. L., **Nelson, A. O.**, Odstrcil, T., Paz-Soldan, C., Pederson, T., Scotti, F., Shen, H., Thome, K. E., Wang, H. Q., Welsh, A. & Wilks, T. M., _Plasma Physics and Controlled Fusion_, **67** 015018 (2025).
 
-**Characterization of Turbulence Properties in Negative Triangularity DIII-DPlasmas**<br />
-Stewart, S., McKee, G., Chrystal, C., Cote, T., Geiger, B., Khabanov, F., **Nelson, A. O.**, Qin, X., Paz-Soldan, C., Schmitz, L., Thome, K. E. & Yan, Z., _Plasma Physics and Controlled Fusion_, in review.
+**[Characterization of Turbulence Properties in Negative Triangularity DIII-DPlasmas](https://doi.org/10.1088/1361-6587/ada823)**<br />
+Stewart, S., McKee, G., Chrystal, C., Cote, T., Geiger, B., Khabanov, F., **Nelson, A. O.**, Qin, X., Paz-Soldan, C., Schmitz, L., Thome, K. E. & Yan, Z., _Plasma Physics and Controlled Fusion_, in press (2025).
 
 **First observations of edge instabilities in strongly shaped negative triangularly plasmas on DIII-D** 
 Cote, T. B., Yu, G., **Nelson, A. O.**, Leuthold, N., Richner, N., Stewart, S., Khabanov, F., Zhu, Paz-Soldan, C., Schmitz, L., Thome, K. E., Austin, M. E. & Scotti, F., _Plasma Physics and Controlled Fusion_, in review.
