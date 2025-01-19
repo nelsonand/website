@@ -17,6 +17,6 @@ A few selected cards are shown below, featuring art from local graduate students
 ![Fusion Machine Cards](/blog-outreach/assets/img/cards_machines.jpg)
 *Selected Cards Detailing Fusion Machines.*
 
-These trading cards are available for purchase [here](www.makeplayingcards.com/sell/marketplace/fusion-trading-card-deck-2024.html).
+These trading cards are available for purchase [here](https://www.makeplayingcards.com/sell/fusionenergyweek).
 
 The Fusion Trading Cards were funded by the APS Forum on Outreach and Engaging the Public ([FOEP](https://engage.aps.org/foep/home)).
