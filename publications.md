@@ -87,6 +87,12 @@ Eldon, D., Casali, L., Bykov, I., Chrystal, C., Erickson, K., Hyatt, A. W., Leon
 **[Characterization of Turbulence Properties in Negative Triangularity DIII-DPlasmas](https://doi.org/10.1088/1361-6587/ada823)**<br />
 Stewart, S., McKee, G., Chrystal, C., Cote, T., Geiger, B., Khabanov, F., **Nelson, A. O.**, Qin, X., Paz-Soldan, C., Schmitz, L., Thome, K. E. & Yan, Z., _Plasma Physics and Controlled Fusion_, in press (2025).
 
+**[Doubling fusion power with volumetric optimization in magnetic confinement fusion devices](https://doi.org/10.1103/PhysRevResearch.7.013139)**<br />
+Parisi, J. F., Berkery, J. W., Sladkomedova, A., Guizzo, S., Hardman, M. R., Ball, J. R., **Nelson, A. O.**, Kaye, S. M., Anastopoulos-Tzanis, M., McNamara, S., Dominski, J., Janhunen, S., Romanelli, M., Dickinson, D., Diallo, A., Dnestrovskii, A., Guttenfelder, W., Hansen, C., Myatra, O., and Wilson, H. R., _Physical Review Research_, **7** 13139 (2025).
+
+**[Electromagnetic System Conceptual Design for a Negative Triangularity Tokamak](https://arxiv.org/abs/2501.14682)**<br />
+Guizzo, S., Drabinskiy, M.A., Hansen, C., Kachkin, A.G., Khairutdinov, E.N., **Nelson, A.O.**, Nurgaliev, M.R., Pharr, M., Subbotin, G.F. and Paz-Soldan, C., _Fusion Engineering and Design_, in review.
+
 **First observations of edge instabilities in strongly shaped negative triangularly plasmas on DIII-D**<br /> 
 Cote, T. B., Yu, G., **Nelson, A. O.**, Leuthold, N., Richner, N., Stewart, S., Khabanov, F., Zhu, Paz-Soldan, C., Schmitz, L., Thome, K. E., Austin, M. E. & Scotti, F., _Plasma Physics and Controlled Fusion_, in review.
 
