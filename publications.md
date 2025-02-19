@@ -75,7 +75,7 @@ Bechtel Amara, T., Smith, S. P., Xing, Z. A., Neiser, T. F., Simpson, C., **Nels
 **[Accelerating Discoveries at DIII-D With the Integrated Research Infrastructure](https://doi.org/10.3389/fphy.2024.1524041)**<br />
 Bechtel Amara, T., Smith, S. P., Xing, Z. A., Neiser, T. F., Simpson, C., **Nelson, A. O.**, Denk, S., Colmenares, J., DeShazer, E., Antepara, O., Deshpande, A., Clark, M., Lestz, J., Tyler, N., Ding, P., Kostuk, M., Dart, E. Nazikian, R., Osborne, T., Williams, S., Uram, T. & Schissel, D. A. _Frontiers of Physics_, **12** 1524041 (2025).
 
-**Achievement of highly radiating plasma in negative triangularity and effect of reactor-relevant seeded impurities on confinement and transport**<br />
+**[Achievement of highly radiating plasma in negative triangularity and effect of reactor-relevant seeded impurities on confinement and transport](https://iopscience.iop.org/article/10.1088/1361-6587/ada1ca)**<br />
 Casali, L., Eldon, D., Odstrcil, T., Mattes, R., Welsh, A., Lee, K., **Nelson, A. O.**, Paz-Soldan, C., Khabanov, F.,Cote, T., McLean, A. G., Scotti, F. & Thome, K. E., _Plasma Physics and Controlled Fusion_, in review.
 
 **Application of the Scrape-Off-Layer Fast Ion (SOLFI) code to assess particle motion in mirrors and tokamaks**<br />
