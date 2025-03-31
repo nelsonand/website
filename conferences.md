@@ -10,7 +10,7 @@ full-width: true
 
 - **Nelson, A. O.** _The Negative Triangularity Edge_
     in [_Physics World Webinar: Negative triangularity tokamaks: a power plant plasma solution from the core to the edge?_](https://physicsworld.com/a/negative-triangularity-tokamaks-a-power-plant-plasma-solution-from-the-core-to-the-edge/) (2024).
-- **Nelson, A. O.** _The Negative Triangularity Tokmak: Ensuring Robust Access to a High-Performance, ELM-Free Fusion Power Plant_ 
+- **Nelson, A. O.** _The Negative Triangularity Tokamak: Ensuring Robust Access to a High-Performance, ELM-Free Fusion Power Plant_ 
     in _Symposium on Plasma And Nuclear Systems (SPANS-2024)_ (Ontario, Canada, 2024).
 - **Nelson, A. O.** _Robust avoidance of edge localized modes alongside pedestal formation in negative triangularity plasmas_ 
     in _65th Annual Meeting of the APS Division of Plasma Physics_ (2023).
