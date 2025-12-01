@@ -78,10 +78,10 @@ Jalalvand, A., Curie, M., Kim, S., Seo, J., Hu, Q., Curie, M., Steiner, P.,  **N
 Bechtel Amara, T., Smith, S. P., Xing, Z. A., Neiser, T. F., Simpson, C., **Nelson, A. O.**, Denk, S., Colmenares, J., DeShazer, E., Antepara, O., Deshpande, A., Clark, M., Lestz, J., Tyler, N., Ding, P., Kostuk, M., Dart, E. Nazikian, R., Osborne, T., Williams, S., Uram, T. & Schissel, D. A. _Frontiers of Physics_, **12** 1524041 (2025).
 
 **[Achievement of highly radiating plasma in negative triangularity and effect of reactor-relevant seeded impurities on confinement and transport](https://iopscience.iop.org/article/10.1088/1361-6587/ada1ca)**<br />
-Casali, L., Eldon, D., Odstrcil, T., Mattes, R., Welsh, A., Lee, K., **Nelson, A. O.**, Paz-Soldan, C., Khabanov, F.,Cote, T., McLean, A. G., Scotti, F. & Thome, K. E., _Plasma Physics and Controlled Fusion_, in review.
+Casali, L., Eldon, D., Odstrcil, T., Mattes, R., Welsh, A., Lee, K., **Nelson, A. O.**, Paz-Soldan, C., Khabanov, F.,Cote, T., McLean, A. G., Scotti, F. & Thome, K. E., _Plasma Physics and Controlled Fusion_ **67**, 025007 (2025).
 
 **Application of the Scrape-Off-Layer Fast Ion (SOLFI) code to assess particle motion in mirrors and tokamaks**<br />
-Zhang, X., Lopez, N. A., **Nelson, A. O.**, Rondini, L. & Poli, F. M., _Fusion Engineering and Design_, in review.
+Zhang, X., Lopez, N. A., **Nelson, A. O.**, Rondini, L. & Poli, F. M., _Fusion Engineering and Design_, in review (2025).
 
 **ARC Disruption Physics and Strategy** <br />
 Sweeney, R., Riccardo, V., Braun, A., Clauser, C., Creely, A., Eich, T., Ekmark, I., Feyrer, A., Hansen, C., Hillesheim, J., Looby, T., Ratynskaia, S., Schramm, R., Tinguely, R., Wu, H., Boyer, D., Boguski, J., Carter, A., Datta, R., Fueloep, T., Granetz, R., Hoppe, M., LeViness, A., **Nelson, A. O.**, Paz-Soldan, C., Pusztai, I., Rea, C., Saperstein, A., Snyder, P. & Stein-Lubrano, B. _Journal of Plasma Physics_, in review (2025).
