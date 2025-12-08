@@ -116,6 +116,9 @@ Parisi, J. F., Berkery, J. W., Sladkomedova, A., Guizzo, S., Hardman, M. R., Bal
 **[Electromagnetic System Conceptual Design for a Negative Triangularity Tokamak](https://doi.org/10.1016/j.fusengdes.2025.115257)**<br />
 Guizzo, S., Drabinskiy, M.A., Hansen, C., Kachkin, A.G., Khairutdinov, E.N., **Nelson, A.O.**, Nurgaliev, M.R., Pharr, M., Subbotin, G.F. and Paz-Soldan, C., _Fusion Engineering and Design_ **219**, 115257 (2025).
 
+**Exploring the fusion power plant design space: comparative analysis of positive and negative triangularity tokamaks through optimization**<br />  
+Slendebroek, T., **Nelson, A.O.**, Meneghini, O., Dose, G., Ghiozzi, A., Harvey, J., Lyons, B., McClenaghan, J., Neiser, T., Weisberg, D., Yoo, M.-G., Bursch, E. and Holland, C., _Nuclear Fusion_ in press (2025).
+
 **[First observations of edge instabilities in strongly shaped negative triangularly plasmas on DIII-D](https://iopscience.iop.org/article/10.1088/1361-6587/adb5ba)**<br /> 
 Cote, T. B., Yu, G., **Nelson, A. O.**, Leuthold, N., Richner, N., Stewart, S., Khabanov, F., Zhu, Paz-Soldan, C., Schmitz, L., Thome, K. E., Austin, M. E. & Scotti, F., _Plasma Physics and Controlled Fusion_, **67** 035033 (2025).
 
@@ -142,6 +145,9 @@ Cao, N., Hatch, D. R., Michoski, C., Oliver, T., Eldon, D., **Nelson, A. O.** & 
 
 **[Spatiotemporal Forcasting of the Edge Localized Modes in Tokamak Plasmas Using Neural Networks](https://iopscience.iop.org/article/10.1088/2632-2153/adfb41)**<br />
 Samaddar, A., Gong, Q., Madireddy, S., Hansen, C. J., Joung, S., Smith, D. R., Sun, Y., Ebrahimi, F., Balaprakash, P.& **Nelson, A. O.** _Machine Learning: Science and Technology. Springer Series in Plasma Science and Technology_ **6**, 035041 (2025).
+
+**Spherical tokamak physics research in preparation for the operation NSTX-U**<br />
+Munaretto, S., Adebayo-Ige, P., Anand, H., Avdeeva, G., Baek, S., Barada, K., Belli, E., Belova, E., Berkery, J., Bernard, T., Bertelli, N., Bonofiglo, P., Bonoli, P., Boyer, M., Candy, J., Chang, C., Chung, H., Clauser, C., Comanescu, M., Corona Rivera, L. D., Crocker, N., De Levante Rodriguez, R. A., DeShazer, E., Diallo, A., Dominski, J., Duarte, V., Ebrahimi, F., Emdee, E., Ethier, S., Ferraro, N., Foley, E., Fredrickson, E., Galante, M., Gan, K., Gerhardt, S., Goldston, R., Gorelenkova, M., Guttenfelder, W., Hager, R., Halpern, F., Halpern, J., Hatch, D., Hoffmann, F., Islam, M. S., Jardin, S., Kaye, S., Khodak, A., Kinsey, J., Kleiner, A., Kolemen, E., Ku, S.-H., Lampert, M., Leard, B., LeBlanc, B., Lestz, J., Levinton, F., Li, P., Logan, N., Lopez, N., Lunsford, R., Macwan, T., Maingi, R., McClenaghan, J., McLean, A., Menard, J., Na, Y.-S., **Nelson, A. O.**, Ono, M., Pajares, A., Pankin, A., Parisi, J., Parra, F., Parsons, M., Patel, B., Podestà, M., Poli, F., Porcelli, M., Rafiq, T., Raman, R., Riquezes, J., Sabbagh, S., Sánchez-Villar, Á., Schuster, E., Shiraiwa, S., Singh, T., Smith, S., Smith, D., Soukhanovskii, V., Staebler, G., Stratton, B., Thome, K., Tobin, M., Uzun-Kaymak, I., Van Compernolle, B., Wang, W., Wehner, W., Welander, A., Wirth, B. and Yang, J., _Nuclear Fusion_ in review (2025).
 
 **[Systematic analysis of magnetic equilibrium reconstruction with eddy currents on LTX-beta](https://doi.org/10.1088/1741-4326/ae0a6b)**< br/>
 Shousha, R., Hansen, C., Maan, A., **Nelson, A. O.**, Boyle, D. P., Banerjee, S. & Majeski, R. _Nuclear Fusion_ **65**, 116009 (2025).
