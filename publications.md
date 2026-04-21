@@ -102,7 +102,7 @@ Eldon, D., Casali, L., Bykov, I., Chrystal, C., Erickson, K., Hyatt, A. W., Leon
 Stewart, S., McKee, G., Chrystal, C., Cote, T., Geiger, B., Khabanov, F., **Nelson, A. O.**, Qin, X., Paz-Soldan, C., Schmitz, L., Thome, K. E. & Yan, Z., _Plasma Physics and Controlled Fusion_ **67**, 025032 (2025).
 
 **Core turbulence during nonlinear total-f simulations of DIII-D negative triangularity regime**<br />
-Li, J., Ebrahimi, F., Hager, R. & **Nelson, A. O.** _Physics of Plasmas_, in review (2025).
+Li, J., Ebrahimi, F., Hager, R. & **Nelson, A. O.** _Physics of Plasmas_, in review (2026).
 
 **Difference in Neoclasscial Edge Flows Between Strongly Negative and Positive Triangularities in the XGC Gyrokinetic Simulation**<br />
 Ku, S., Chang, C., Hager, R., Schmitz, L. & **Nelson, A. O.** _Physics of Plasmas_, in review (2025).
