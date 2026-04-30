@@ -1,6 +1,6 @@
 ---
 layout: pagewithpost-outreach
-title: DEI and Outreach
+title: Public Engagement
 full-width: true
 ---
 
