@@ -157,13 +157,13 @@ def main():
         # First Author: numbered
         md.write("## First Author Publications\n\n")
         for e in first_author:
-            md.write(f"{number_map[e['ID']]}. {format_entry(e)}\n")
+            md.write(f"- **[{number_map[e['ID']]}]** {format_entry(e)}\n")
         md.write("\n")
 
         # Invited: numbered
         md.write("## Invited Talks and Seminars\n\n")
         for e in invited:
-            md.write(f"{number_map[e['ID']]}. {format_entry(e)}\n")
+            md.write(f"- **[{number_map[e['ID']]}]** {format_entry(e)}\n")
         md.write("\n")
 
         # Co-Author: numbered, grouped by year
@@ -171,7 +171,7 @@ def main():
         for year in sorted_years:
             md.write(f"### {year}\n\n")
             for e in coauthor_by_year[year]:
-                md.write(f"{number_map[e['ID']]}. {format_entry(e)}\n")
+                md.write(f"- **[{number_map[e['ID']]}]** {format_entry(e)}\n")
             md.write("\n")
 
     print(f"Markdown file written: {OUTPUT_FILE} ({total} numbered entries)")
