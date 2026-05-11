@@ -118,11 +118,18 @@ def main():
         and not has_keyword(e, "conference")
     ]
 
-    # Sort reverse by year
+    # Sort newest-first for display in all sections
     featured.sort(key=get_year, reverse=True)
     first_author.sort(key=get_year, reverse=True)
     invited.sort(key=get_year, reverse=True)
     coauthor.sort(key=get_year, reverse=True)
+
+    # Global numbering: oldest paper on the page = [1], newest = [total].
+    # Display order is first_author → invited → coauthor (all newest-first), so
+    # coauthor[-1] (bottom of page, oldest) = 1 and first_author[0] (top) = total.
+    all_numbered = first_author + invited + coauthor
+    total = len(all_numbered)
+    number_map = {e["ID"]: total - i for i, e in enumerate(all_numbered)}
 
     # Group coauthor by year
     coauthor_by_year = defaultdict(list)
@@ -140,34 +147,34 @@ def main():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as md:
         md.write(FRONT_MATTER)
 
-        # Featured
+        # Featured: unnumbered — these papers also appear with numbers below
         if featured:
             md.write("## Featured Articles\n\n")
             for e in featured:
                 md.write(f"- {format_entry(e)}\n")
             md.write("\n")
 
-        # First Author
+        # First Author: numbered
         md.write("## First Author Publications\n\n")
         for e in first_author:
-            md.write(f"- {format_entry(e)}\n")
+            md.write(f"{number_map[e['ID']]}. {format_entry(e)}\n")
         md.write("\n")
 
-        # Invited
+        # Invited: numbered
         md.write("## Invited Talks and Seminars\n\n")
         for e in invited:
-            md.write(f"- {format_entry(e)}\n")
+            md.write(f"{number_map[e['ID']]}. {format_entry(e)}\n")
         md.write("\n")
 
-        # Co-Author
+        # Co-Author: numbered, grouped by year
         md.write("## Co-Author Publications\n\n")
         for year in sorted_years:
             md.write(f"### {year}\n\n")
             for e in coauthor_by_year[year]:
-                md.write(f"- {format_entry(e)}\n")
+                md.write(f"{number_map[e['ID']]}. {format_entry(e)}\n")
             md.write("\n")
 
-    print(f"Markdown file written: {OUTPUT_FILE}")
+    print(f"Markdown file written: {OUTPUT_FILE} ({total} numbered entries)")
 
 
 if __name__ == "__main__":
