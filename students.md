@@ -41,6 +41,11 @@ for the OpenFUSION Toolkit<br />
 
 ## Other Teaching Endeavors
 
-It takes a village to raise a fusion scientist. 
-Because of this, in addition to the direct mentees listed above, I try to help as many students as possible from many different groups in their career paths. 
-Some of this includes indirect individual mentoring, but I also work to improve plasma education on a broader national level, as detailed on my [outreach page]( https://www.oaknelson.com/outreach/).
+It takes a village to raise a fusion scientist.
+In addition to the direct mentees listed above, I take on formal instructional roles wherever possible:
+
+ - **Instructor** — joint Columbia/Princeton/MIT fusion power plant design courses (2021, 2023)
+ - **Guest Lecturer** — Columbia University Plasma Physics II course and PPPL SULI Program (2021 – present)
+ - **Interdisciplinary curriculum development** — Columbia University (2023 – present)
+
+Beyond these roles, I also work to improve plasma education on a broader national level, as detailed on my [outreach page](https://www.oaknelson.com/outreach/).

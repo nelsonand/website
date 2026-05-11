@@ -22,17 +22,17 @@ full-width: true
     in _6th Asia-Pacific Conference on Plasma Physics_ (2022).
 - **Nelson, A. O.** _Experimental identification of inter-ELM pedestal MTMs through edge current_
     _perturbations_ in _2021 US Transport Task Force Workshop_ (2021).
-- ****Nelson, A. O.**,** Haye, R. J. L., Austin, M. E., Welander, A. S. & Kolemen, E. _ECE-based Tearing_
-    _Mode Suppression and Equilibrium Reconstruction_ in _24th Workshop on MHD Stability Control_
-    (2019).
+- **Nelson, A. O.**, Haye, R. J. L., Austin, M. E., Welander, A. S. & Kolemen, E. _ECE-based Tearing Mode Suppression and Equilibrium Reconstruction_ in _24th Workshop on MHD Stability Control_ (2019).
 
 ## Invited Lectures and Seminars  
 
 (Slides available upon reasonable request) 
+- **Nelson, A. O.** _Applied Plasma Physics: The Magnetic Pursuit of Fusion Energy_ in _CIPS Seminar at CU Boulder_ (2026).
+- **Nelson, A. O.** _Design and Optimization of Tokamaks for Fusion Energy_ in _Energy Frontier Seminars at the Institute of Renewable Energies in Mexico_ (2026).
 - **Nelson, A. O.** _Using Magnets to Build a Star on Earth_ in _Caltech Astronomy on Tap_ (2025).
 - **Nelson, A. O.** [_The Negative Triangularity Tokamak: Power Handling in a Fusion Power Plant_](https://www.youtube.com/watch?v=zuvT9qhCfR8&list=PLaWHFWu_46_xdx_cSStfhbkBi1Q7GDc8I&index=10&ab_channel=PhysicsCUBoulder) 
     in _CU Boulder Saturday Physics Series_ (2024).
-- **Nelson, A. O.** _The Negative Triangularity Tokmak: Ensuring Robust Access to a High-Performance, ELM-Free Fusion Power Plant_ 
+- **Nelson, A. O.** _The Negative Triangularity Tokamak: Ensuring Robust Access to a High-Performance, ELM-Free Fusion Power Plant_ 
     in _UCI Physics Seminar Series_ (2024).
 - **Nelson, A. O.** _Plasma Waves_ 
     in [_Princeton Plasma Physics Laboratory Introduction to Fusion Energy and Plasma Physics Course_](https://suli.pppl.gov/2023/course/) (2023).

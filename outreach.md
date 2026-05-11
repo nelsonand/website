@@ -10,4 +10,14 @@ If you would like to chat more about DEI issues in plasma science and engineerin
 
 In addition to DEI work, I strongly believe that the only way to realize fusion energy is to engage with a broad population through education and outreach. As such, a large portion of my time is dedicated to spreading information and opportunities in plasma science and engineering to students at all levels. By working together, we can develop the expert workforce needed to make fusion energy a reality. 
 
-You can find more information about specific endavours I am involved with in this space below:
+You can find more information about specific endeavours I am involved with in this space below.
+
+## Other Roles and Memberships
+
+In addition to the initiatives highlighted below, I hold or have held the following committee and community roles:
+
+ - **Co-chair** — General Atomics Personnel Development Committee (2023 – present): oversight of community and pedagogy efforts at the DIII-D tokamak in San Diego.
+ - **Trained Ally** — APS Division of Plasma Physics (2022 – present): active resource for diversity, equity and inclusion within US physics communities.
+ - **Founder and Chair** — Plasma Graduate Student Committee, Princeton University (2019 – 2021): established a committee to amplify graduate student voices and support program development.
+ - **President** — Princeton Plasma Student Leadership (2018 – 2019): served as bridge between graduate students, faculty, and program management.
+ - **Volunteer** — Princeton Plasma Physics Laboratory (2016 – 2021): lab tour guide and frequent volunteer at PPPL science education and outreach events.
