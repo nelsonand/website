@@ -36,25 +36,51 @@ def has_keyword(entry, key):
     return key in keyword_list
 
 
-def format_authors(author_field):
-    authors = author_field.split(" and ")
-    formatted = []
+AUTHOR_THRESHOLD = 20
 
-    for author in authors:
-        if "," in author:
-            last, first = [x.strip() for x in author.split(",", 1)]
+
+def format_single_author(raw):
+    """Convert 'Last, First' → 'First Last', strip braces, bold Nelson."""
+    raw = raw.strip()
+    if "," in raw:
+        last, first = [x.strip() for x in raw.split(",", 1)]
+        name = f"{first} {last}"
+    else:
+        name = raw
+    name = re.sub(r"[{}]", "", name)
+    if re.search(r"\bA\.?\s*O\.?\s+Nelson\b", name, re.IGNORECASE):
+        name = f"**{name}**"
+    return name
+
+
+def format_authors(author_field):
+    authors = [a.strip() for a in author_field.split(" and ")]
+
+    if len(authors) <= AUTHOR_THRESHOLD:
+        return ", ".join(format_single_author(a) for a in authors)
+
+    # Long list: find Nelson's position (0-indexed)
+    nelson_idx = None
+    for i, a in enumerate(authors):
+        raw = a.strip()
+        if "," in raw:
+            last, first = [x.strip() for x in raw.split(",", 1)]
             name = f"{first} {last}"
         else:
-            name = author.strip()
-
-        name = re.sub(r"[{}]", "", name)  # strip BibTeX braces from names
-
+            name = raw
+        name = re.sub(r"[{}]", "", name)
         if re.search(r"\bA\.?\s*O\.?\s+Nelson\b", name, re.IGNORECASE):
-            name = f"**{name}**"
+            nelson_idx = i
+            break
 
-        formatted.append(name)
-
-    return ", ".join(formatted)
+    if nelson_idx is not None and nelson_idx < AUTHOR_THRESHOLD:
+        # Nelson appears within the threshold: show up to and including his name
+        keep = [format_single_author(a) for a in authors[: nelson_idx + 1]]
+        suffix = ", et al." if nelson_idx + 1 < len(authors) else ""
+        return ", ".join(keep) + suffix
+    else:
+        # Nelson is deep in the list or absent: just show the first author
+        return format_single_author(authors[0]) + " et al."
 
 
 def format_entry(entry):
