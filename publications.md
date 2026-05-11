@@ -18,40 +18,40 @@ full-width: true
 
 ## First Author Publications
 
-- **[109]** **A. O. Nelson**, et al. (2024). *Characterization of the ELM-free Negative Triangularity Edge on DIII-D*. **Plasma Physics and Controlled Fusion**, 66, 105014. [Link](https://doi.org/10.1088/1361-6587/ad6a83)
-- **[108]** **A. O. Nelson**, D. T. Garnier, D.J. Battaglia, C. Paz-Soldan, I. Stewart, M. Reinke, A.J. Creely, J. Wai (2024). *Implications of vertical stability control on the SPARC tokamak*. **Nuclear Fusion**, 64(8), 086040. [DOI](https://doi.org/10.1088/1741-4326/ad58f6)
-- **[107]** **A. O. Nelson**, C. Vincent, H. Anand, J. Lovell, J. F. Parisi, H. S. Wilson, K. Imada, W. P. Wehner, M. Kochan, S. Blackmore, G. McArdle, S. Guizzo, L. Rondini, S. Freiberger, Carlos Paz-Soldan (2024). *First Access to ELM-free Negative Triangularity at Low Aspect Ratio*. **Nuclear Fusion**, 64, 124004. [DOI](https://doi.org/10.1088/1741-4326/ad89db)
-- **[106]** **A. O. Nelson**, A. W. Hyatt, W. P. Wehner, A. S. Welander, C. Paz-Soldan, T. H. Osborne, H. Anand, K. E. Thome (2023). *Vertical Control of DIII-D Discharges with Strong Negative Triangularity*. **Plasma Physics and Controlled Fusion**, 65, 044002. [DOI](https://doi.org/10.1088/1361-6587/acbe65)
-- **[105]** **A O Nelson**, L Schmitz, C Paz-Soldan, K E Thome, T B Cote, N Leuthold, F Scotti, M E Austin, A Hyatt, T Osborne (2023). *Robust Avoidance of Edge-Localized Modes alongside Gradient Formation in the Negative Triangularity Tokamak Edge*. **Physical Review Letters**, 131, 195101. [Link](https://doi.org/10.1103/PhysRevLett.131.195101)
-- **[104]** **A. O. Nelson**, Carlos Paz-Soldan, Samuli Saarelma (2022). *Prospects for H-mode inhibition in negative triangularity tokamak reactor plasmas*. **Nuclear Fusion**, 62, 096020. [DOI](https://doi.org/10.1088/1741-4326/ac8064)
-- **[103]** **A. O. Nelson**, Z. A. Xing, O. Izacard, F. M. Laggner, E. Kolemen (2021). *Interpretative SOL modeling throughout multiple ELM cycles in DIII-D*. **Nuclear Materials and Energy**, 26, 100883. [Link](https://doi.org/10.1016/j.nme.2020.100883)
-- **[102]** **A. O. Nelson**, F. M. Laggner, A. Diallo, D. R. Smith, Z. A. Xing, R. Shousha, E. Kolemen (2021). *Time-dependent experimental identification of inter-ELM microtearing modes in the tokamak edge on DIII-D*. **Nuclear Fusion**, 61, 116083. [Link](https://doi.org/10.1088/1741-4326/ac27ca)
-- **[101]** **A. O. Nelson**, F. M. Laggner, R. J. Groebner, B. A. Grierson, O. Izacard, D. Eldon, M. Shafer, A. W. Leonard, D. Shiraki, A. C. Sontag, E. Kolemen (2020). *Setting the H-mode pedestal structure: variations of particle source location using gas puff and pellet fueling*. **Nuclear Fusion**, 60, 046003. [DOI](https://doi.org/10.1088/1741-4326/ab5e65)
-- **[100]** **A. O. Nelson**, N. Logan, E. Choi, E. J. Strait, E. Kolemen (2020). *Experimental evidence of ECCD-based NTM suppression threshold reduction during mode locking on DIII-D*. **Plasma Physics and Controlled Fusion**, 62, 094002. [DOI](https://doi.org/10.1088/1361-6587/ab9b3b)
-- **[99]** **A. O. Nelson**, M. E. Austin, E. Kolemen (2019). *Electron cyclotron emission based q-profile measurement and concept for equilibrium reconstruction*. **Plasma Physics and Controlled Fusion**, 61, 085013. [DOI](https://doi.org/10.1088/1361-6587/ab24a4)
-- **[98]** **A. O. Nelson**, R. J. La Haye, M. E. Austin, A. S. Welander, E. Kolemen (2019). *Simultaneous detection of neoclassical tearing mode and electron cyclotron current drive locations using electron cyclotron emission in DIII-D*. **Fusion Engineering and Design**, 141, 25--29. [DOI](https://doi.org/10.1016/j.fusengdes.2019.02.089)
-- **[97]** **A. O. Nelson**, R. Dee, M. S. Gudipati, M. Horányi, D. James, S. Kempf, T. Munsat, Z. Sternovsky, Z. Ulibarri (2016). *New experimental capability to investigate the hypervelocity micrometeoroid bombardment of cryogenic surfaces*. **Review of Scientific Instruments**, 871(87), 24502--24502. [Link](https://doi.org/10.1063/1.4941960)
-- **[96]** **A. O. Nelson**, E. N. Grossman (2014). *Advanced designs for non-imaging submillimeter-wave Winston cone concentrators*. **Proceedings of SPIE**, 9102, 91020U. [DOI](https://doi.org/10.1117/12.2050833)
+- **[92]** **A. O. Nelson**, et al. (2024). *Characterization of the ELM-free Negative Triangularity Edge on DIII-D*. **Plasma Physics and Controlled Fusion**, 66, 105014. [Link](https://doi.org/10.1088/1361-6587/ad6a83)
+- **[91]** **A. O. Nelson**, D. T. Garnier, D.J. Battaglia, C. Paz-Soldan, I. Stewart, M. Reinke, A.J. Creely, J. Wai (2024). *Implications of vertical stability control on the SPARC tokamak*. **Nuclear Fusion**, 64(8), 086040. [DOI](https://doi.org/10.1088/1741-4326/ad58f6)
+- **[90]** **A. O. Nelson**, C. Vincent, H. Anand, J. Lovell, J. F. Parisi, H. S. Wilson, K. Imada, W. P. Wehner, M. Kochan, S. Blackmore, G. McArdle, S. Guizzo, L. Rondini, S. Freiberger, Carlos Paz-Soldan (2024). *First Access to ELM-free Negative Triangularity at Low Aspect Ratio*. **Nuclear Fusion**, 64, 124004. [DOI](https://doi.org/10.1088/1741-4326/ad89db)
+- **[89]** **A. O. Nelson**, A. W. Hyatt, W. P. Wehner, A. S. Welander, C. Paz-Soldan, T. H. Osborne, H. Anand, K. E. Thome (2023). *Vertical Control of DIII-D Discharges with Strong Negative Triangularity*. **Plasma Physics and Controlled Fusion**, 65, 044002. [DOI](https://doi.org/10.1088/1361-6587/acbe65)
+- **[88]** **A O Nelson**, L Schmitz, C Paz-Soldan, K E Thome, T B Cote, N Leuthold, F Scotti, M E Austin, A Hyatt, T Osborne (2023). *Robust Avoidance of Edge-Localized Modes alongside Gradient Formation in the Negative Triangularity Tokamak Edge*. **Physical Review Letters**, 131, 195101. [Link](https://doi.org/10.1103/PhysRevLett.131.195101)
+- **[87]** **A. O. Nelson**, Carlos Paz-Soldan, Samuli Saarelma (2022). *Prospects for H-mode inhibition in negative triangularity tokamak reactor plasmas*. **Nuclear Fusion**, 62, 096020. [DOI](https://doi.org/10.1088/1741-4326/ac8064)
+- **[86]** **A. O. Nelson**, Z. A. Xing, O. Izacard, F. M. Laggner, E. Kolemen (2021). *Interpretative SOL modeling throughout multiple ELM cycles in DIII-D*. **Nuclear Materials and Energy**, 26, 100883. [Link](https://doi.org/10.1016/j.nme.2020.100883)
+- **[85]** **A. O. Nelson**, F. M. Laggner, A. Diallo, D. R. Smith, Z. A. Xing, R. Shousha, E. Kolemen (2021). *Time-dependent experimental identification of inter-ELM microtearing modes in the tokamak edge on DIII-D*. **Nuclear Fusion**, 61, 116083. [Link](https://doi.org/10.1088/1741-4326/ac27ca)
+- **[84]** **A. O. Nelson**, F. M. Laggner, R. J. Groebner, B. A. Grierson, O. Izacard, D. Eldon, M. Shafer, A. W. Leonard, D. Shiraki, A. C. Sontag, E. Kolemen (2020). *Setting the H-mode pedestal structure: variations of particle source location using gas puff and pellet fueling*. **Nuclear Fusion**, 60, 046003. [DOI](https://doi.org/10.1088/1741-4326/ab5e65)
+- **[83]** **A. O. Nelson**, N. Logan, E. Choi, E. J. Strait, E. Kolemen (2020). *Experimental evidence of ECCD-based NTM suppression threshold reduction during mode locking on DIII-D*. **Plasma Physics and Controlled Fusion**, 62, 094002. [DOI](https://doi.org/10.1088/1361-6587/ab9b3b)
+- **[82]** **A. O. Nelson**, M. E. Austin, E. Kolemen (2019). *Electron cyclotron emission based q-profile measurement and concept for equilibrium reconstruction*. **Plasma Physics and Controlled Fusion**, 61, 085013. [DOI](https://doi.org/10.1088/1361-6587/ab24a4)
+- **[81]** **A. O. Nelson**, R. J. La Haye, M. E. Austin, A. S. Welander, E. Kolemen (2019). *Simultaneous detection of neoclassical tearing mode and electron cyclotron current drive locations using electron cyclotron emission in DIII-D*. **Fusion Engineering and Design**, 141, 25--29. [DOI](https://doi.org/10.1016/j.fusengdes.2019.02.089)
+- **[80]** **A. O. Nelson**, R. Dee, M. S. Gudipati, M. Horányi, D. James, S. Kempf, T. Munsat, Z. Sternovsky, Z. Ulibarri (2016). *New experimental capability to investigate the hypervelocity micrometeoroid bombardment of cryogenic surfaces*. **Review of Scientific Instruments**, 871(87), 24502--24502. [Link](https://doi.org/10.1063/1.4941960)
+- **[79]** **A. O. Nelson**, E. N. Grossman (2014). *Advanced designs for non-imaging submillimeter-wave Winston cone concentrators*. **Proceedings of SPIE**, 9102, 91020U. [DOI](https://doi.org/10.1117/12.2050833)
 
 ## Invited Talks and Seminars
 
-- **[95]** **A. O. Nelson** (2026). *Applied plasma physics: the magnetic pursuit of fusion energy*. **CIPS Seminar at CU Boulder**.
-- **[94]** **A. O. Nelson** (2026). *Design and Optimization of Tokamaks for Fusion Energy*. **Energy Frontier Seminars at the Institute of Renewable Energies in Mexico**.
-- **[93]** **A. O. Nelson** (2025). *Using Magnets to Build a Star on Earth*. **Caltech Astronomy on Tap**.
-- **[92]** **A. O. Nelson** (2024). *The Negative Triangularity Tokmak: Ensuring Robust Access to a High-Performance, ELM-Free Fusion Power Plant*. **UCI Physics Seminar Series**.
-- **[91]** **A. O. Nelson** (2024). *The Negative Triangularity Tokmak: Ensuring Robust Access to a High-Performance, ELM-Free Fusion Power Plant*. **Symposium on Plasma And Nuclear Systems (SPANS-2024)**.
-- **[90]** **A. O. Nelson** (2024). *The Negative Triangularity Edge*. **Physics World Webinar: Negative triangularity tokamaks: a power plant plasma solution from the core to the edge?**.
-- **[89]** **A. O. Nelson** (2024). *The Negative Triangularity Tokamak: Power Handling in a Fusion Power Plant*. **CU Boulder Saturday Physics Series**.
-- **[88]** **A. O. Nelson**, L. Schmitz, T.B. Cote, C. Paz-Soldan, N. Leuthold, K. E. Thome, M. E. Austin, G. Yu, G. Kramer, S. Stewart (2023). *Robust avoidance of peeling-ballooning instabilities through gradient reduction in the negative triangularity edge*. **2023 US Transport Task Force Workshop**.
-- **[87]** **A. O. Nelson**, et al. (2023). *Initial Experimental Results from the DIII-D Negative Triangularity Campaign*. **2nd International Fusion and Plasma Conference**.
-- **[86]** **A. O. Nelson** (2023). *Robust avoidance of edge localized modes alongside pedestal formation in negative triangularity plasmas*. **65th Annual Meeting of the APS Division of Plasma Physics**.
-- **[85]** **A. O. Nelson** (2023). *Plasma Waves*. **Introduction to Fusion Energy and Plasma Physics Course**. [Link](https://suli.pppl.gov/2023/course/)
-- **[84]** **A. O. Nelson** (2023). *Negative Triangularity: The Holy Grail for Tokamak Core-Edge Integration?*. **UCLA Plasma Science and Technology Institute Seminar Series**.
-- **[83]** **A. O. Nelson** (2022). *H-mode Inhibition in Negative Triangularity Tokamak Reactors (Topical Plenary)*. **6th Asia-Pacific Conference on Plasma Physics**.
-- **[82]** **A. O. Nelson** (2021). *Experimental identification of inter-ELM pedestal MTMs through edge current perturbations*. **2021 US Transport Task Force Workshop**.
-- **[81]** **A. O. Nelson** (2020). *A practical introduction to the H-mode pedestal: ELMs and ELM-free regimes*. **Fusion-EP Seminar Series**.
-- **[80]** **A. O. Nelson** (2020). *Introduction to Outstanding Problems in Magnetic Confinement Fusion*. **APS-DPP Student Day**.
-- **[79]** **A. O. Nelson**, R J La Haye, M E Austin, A S Welander, E Kolemen (2019). *ECE-based Tearing Mode Suppression and Equilibrium Reconstruction*. **24th Workshop on MHD Stability Control**.
+- **A. O. Nelson** (2026). *Applied plasma physics: the magnetic pursuit of fusion energy*. **CIPS Seminar at CU Boulder**.
+- **A. O. Nelson** (2026). *Design and Optimization of Tokamaks for Fusion Energy*. **Energy Frontier Seminars at the Institute of Renewable Energies in Mexico**.
+- **A. O. Nelson** (2025). *Using Magnets to Build a Star on Earth*. **Caltech Astronomy on Tap**.
+- **A. O. Nelson** (2024). *The Negative Triangularity Tokmak: Ensuring Robust Access to a High-Performance, ELM-Free Fusion Power Plant*. **UCI Physics Seminar Series**.
+- **A. O. Nelson** (2024). *The Negative Triangularity Tokmak: Ensuring Robust Access to a High-Performance, ELM-Free Fusion Power Plant*. **Symposium on Plasma And Nuclear Systems (SPANS-2024)**.
+- **A. O. Nelson** (2024). *The Negative Triangularity Edge*. **Physics World Webinar: Negative triangularity tokamaks: a power plant plasma solution from the core to the edge?**.
+- **A. O. Nelson** (2024). *The Negative Triangularity Tokamak: Power Handling in a Fusion Power Plant*. **CU Boulder Saturday Physics Series**.
+- **A. O. Nelson**, L. Schmitz, T.B. Cote, C. Paz-Soldan, N. Leuthold, K. E. Thome, M. E. Austin, G. Yu, G. Kramer, S. Stewart (2023). *Robust avoidance of peeling-ballooning instabilities through gradient reduction in the negative triangularity edge*. **2023 US Transport Task Force Workshop**.
+- **A. O. Nelson**, et al. (2023). *Initial Experimental Results from the DIII-D Negative Triangularity Campaign*. **2nd International Fusion and Plasma Conference**.
+- **A. O. Nelson** (2023). *Robust avoidance of edge localized modes alongside pedestal formation in negative triangularity plasmas*. **65th Annual Meeting of the APS Division of Plasma Physics**.
+- **A. O. Nelson** (2023). *Plasma Waves*. **Introduction to Fusion Energy and Plasma Physics Course**. [Link](https://suli.pppl.gov/2023/course/)
+- **A. O. Nelson** (2023). *Negative Triangularity: The Holy Grail for Tokamak Core-Edge Integration?*. **UCLA Plasma Science and Technology Institute Seminar Series**.
+- **A. O. Nelson** (2022). *H-mode Inhibition in Negative Triangularity Tokamak Reactors (Topical Plenary)*. **6th Asia-Pacific Conference on Plasma Physics**.
+- **A. O. Nelson** (2021). *Experimental identification of inter-ELM pedestal MTMs through edge current perturbations*. **2021 US Transport Task Force Workshop**.
+- **A. O. Nelson** (2020). *A practical introduction to the H-mode pedestal: ELMs and ELM-free regimes*. **Fusion-EP Seminar Series**.
+- **A. O. Nelson** (2020). *Introduction to Outstanding Problems in Magnetic Confinement Fusion*. **APS-DPP Student Day**.
+- **A. O. Nelson**, R J La Haye, M E Austin, A S Welander, E Kolemen (2019). *ECE-based Tearing Mode Suppression and Equilibrium Reconstruction*. **24th Workshop on MHD Stability Control**.
 
 ## Co-Author Publications
 

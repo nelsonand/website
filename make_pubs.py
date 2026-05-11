@@ -150,10 +150,10 @@ def main():
     invited.sort(key=get_year, reverse=True)
     coauthor.sort(key=get_year, reverse=True)
 
-    # Global numbering: oldest paper on the page = [1], newest = [total].
-    # Display order is first_author → invited → coauthor (all newest-first), so
-    # coauthor[-1] (bottom of page, oldest) = 1 and first_author[0] (top) = total.
-    all_numbered = first_author + invited + coauthor
+    # Global numbering covers publications only (first_author + coauthor).
+    # Invited talks are listed separately without numbers.
+    # Oldest publication = [1], newest = [total].
+    all_numbered = first_author + coauthor
     total = len(all_numbered)
     number_map = {e["ID"]: total - i for i, e in enumerate(all_numbered)}
 
@@ -186,10 +186,10 @@ def main():
             md.write(f"- **[{number_map[e['ID']]}]** {format_entry(e)}\n")
         md.write("\n")
 
-        # Invited: numbered
+        # Invited: unnumbered
         md.write("## Invited Talks and Seminars\n\n")
         for e in invited:
-            md.write(f"- **[{number_map[e['ID']]}]** {format_entry(e)}\n")
+            md.write(f"- {format_entry(e)}\n")
         md.write("\n")
 
         # Co-Author: numbered, grouped by year
