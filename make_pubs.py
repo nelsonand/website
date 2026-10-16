@@ -48,7 +48,7 @@ def format_single_author(raw):
     else:
         name = raw
     name = re.sub(r"[{}]", "", name)
-    if re.search(r"\bA\.?\s*O\.?\s+Nelson\b", name, re.IGNORECASE):
+    if re.search(r"\b(A\.?\s*O\.?|Oak|Andrew\s+Oakleigh)\s+Nelson\b", name, re.IGNORECASE):
         name = f"**{name}**"
     return name
 
@@ -69,7 +69,7 @@ def format_authors(author_field):
         else:
             name = raw
         name = re.sub(r"[{}]", "", name)
-        if re.search(r"\bA\.?\s*O\.?\s+Nelson\b", name, re.IGNORECASE):
+        if re.search(r"\b(A\.?\s*O\.?|Oak|Andrew\s+Oakleigh)\s+Nelson\b", name, re.IGNORECASE):
             nelson_idx = i
             break
 
@@ -110,7 +110,8 @@ def format_entry(entry):
     if pages:
         citation += f", {pages}"
 
-    citation += "."
+    if venue or volume or pages:
+        citation += "."
 
     if doi:
         citation += f" [DOI](https://doi.org/{doi})"
