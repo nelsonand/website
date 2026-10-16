@@ -4,6 +4,8 @@ title: Oak Nelson
 full-width: true
 ---
 
+> **News:** I am honored to be a co-recipient of the 2026 APS [John Dawson Award for Excellence in Plasma Physics Research](https://www.aps.org/funding-recognition/award/john-dawson-award) for advancing the negative triangularity tokamak concept on DIII-D! Read more in [my blog post](https://www.oaknelson.com/2026-09-30-dawson-award/).
+
 # About Me
 
 I am from Colorado and use he/him/his pronouns.
