@@ -14,7 +14,7 @@ My research focuses on experimental work in magnetic confinement fusion — spec
 
 You can learn more about the projects I am involved in, both in [research](https://www.oaknelson.com/projects/) and in [diversity, equity and inclusion](https://www.oaknelson.com/outreach/) work, on other tabs on this page.
 Full lists of my [publications](https://www.oaknelson.com/publications/), [conference contributions](https://www.oaknelson.com/conferences/) and [students](https://www.oaknelson.com/students/) are also available.
-To learn more about my career so far, you can also download a pdf of my CV [here](https://www.oaknelson.com/assets/Nelson_CV_Spring26.pdf).
+To learn more about my career so far, you can also download a pdf of my CV [here](https://www.oaknelson.com/assets/Nelson_CV_Oct26.pdf).
 
 Please find my contact information at the bottom of this page if you would like to get involved!
 
@@ -40,7 +40,7 @@ As we get closer to commercial realization, there has been a dramatic surge in i
 Within magnetic confinement fusion, I work on tokamaks, which are toroidal magnetic devices that use strong magnetic fields to constrain a fusion-relevant plasma. 
 To date, all tokamaks that have been built were built as science experiments designed to help us better understand and optimize the complicated plasma physics at play in this scenario. 
 However, several tokamaks are currently being designed and built that will push this to the next stage by demonstrating ignition - the point at which more energy is produced by a plasma than was required to make it.
-This milestone (which was also [recently achieved by laser-based fusion](https://www.llnl.gov/article/49301/shot-ages-fusion-ignition-breakthrough-hailed-one-most-impressive-scientific-feats-21st)) will herald a new era in fusion science and engineering studies, and I am very excited to play a leading role in helping it unfold!
+This milestone (which was also [achieved by laser-based fusion in 2022](https://www.llnl.gov/article/49301/shot-ages-fusion-ignition-breakthrough-hailed-one-most-impressive-scientific-feats-21st)) will herald a new era in fusion science and engineering studies, and I am very excited to play a leading role in helping it unfold!
 
 ![Tokamak Cartoon](/assets/img/bg_tokamak.png){:width="50%"; style="display:block; margin-left:auto; margin-right:auto"}
 

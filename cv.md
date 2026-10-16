@@ -6,7 +6,7 @@ full-width: true
 
 I am from Colorado and use he/him/his pronouns. I received my Ph.D. from Princeton University in 2021 and am currently an Associate Research Scientist at Columbia University, where I serve as principal investigator on DOE Fusion Energy Sciences and private-industry fusion awards.
 
-To learn more about my career, you can download a pdf of my CV [here](https://www.oaknelson.com/assets/Nelson_CV_Spring26.pdf).
+To learn more about my career, you can download a pdf of my CV [here](https://www.oaknelson.com/assets/Nelson_CV_Oct26.pdf).
 
 Please find my contact information below if you would like to get involved!
 
@@ -52,6 +52,7 @@ Research program focused on experimental work in magnetic confinement fusion, da
 
 # Selected Awards
 
+ - 2026 — APS John Dawson Award for Excellence in Plasma Physics Research
  - 2018 — US Burning Plasma Association International ITER School Scholar
  - 2016 — CU Boulder Outstanding Graduate of the College of Engineering and Applied Science
  - 2016 — CU Boulder Engineering Physics Distinguished Graduate for Research

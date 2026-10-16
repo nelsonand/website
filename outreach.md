@@ -16,6 +16,7 @@ You can find more information about specific endeavours I am involved with in th
 
 In addition to the initiatives highlighted below, I hold or have held the following committee and community roles:
 
+ - **Outreach Chair** — [MagNetUS](https://magnetus.net/) Executive Committee (2026 – present): leads outreach for the U.S. network for experimental magnetized plasma research.
  - **Co-chair** — General Atomics Personnel Development Committee (2023 – present): oversight of community and pedagogy efforts at the DIII-D tokamak in San Diego.
  - **Trained Ally** — APS Division of Plasma Physics (2022 – present): active resource for diversity, equity and inclusion within US physics communities.
  - **Founder and Chair** — Plasma Graduate Student Committee, Princeton University (2019 – 2021): established a committee to amplify graduate student voices and support program development.
