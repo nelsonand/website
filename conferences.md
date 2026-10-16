@@ -27,6 +27,7 @@ full-width: true
 ## Invited Lectures and Seminars  
 
 (Slides available upon reasonable request) 
+- **Nelson, A. O.** _Fusion Energy 101_ in _Colorado Fusion Week_ (2026).
 - **Nelson, A. O.** _Applied Plasma Physics: The Magnetic Pursuit of Fusion Energy_ in _CIPS Seminar at CU Boulder_ (2026).
 - **Nelson, A. O.** _Design and Optimization of Tokamaks for Fusion Energy_ in _Energy Frontier Seminars at the Institute of Renewable Energies in Mexico_ (2026).
 - **Nelson, A. O.** _Using Magnets to Build a Star on Earth_ in _Caltech Astronomy on Tap_ (2025).
