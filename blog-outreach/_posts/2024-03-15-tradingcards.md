@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Fusion Trading Cards
-cover-img: blog-outreach/assets/img/Star.png
-thumbnail-img: blog-outreach/assets/img/omega_front.png
-share-img: blog-outreach/assets/img/Star.png
+cover-img: blog-outreach/assets/img/Star.jpg
+thumbnail-img: blog-outreach/assets/img/omega_front.jpg
+share-img: blog-outreach/assets/img/Star.jpg
 category: outreach
 ---
 
-In support of [Fusion Energy Week 2024](https://www.oaknelson.com/2023-12-15-fusionenergyweek/), I led a team to put together a set of fusion energy trading cards for distribution across the US. These cards detail a set of basic concepts underlying fusion energy systems and selected fusion research machines from around the world. Provided in true trading card fashion, the cards encourage community engagement and learning outside of the typical academic enviornment in which fusion is discussed. 
+In support of [Fusion Energy Week 2024](https://www.oaknelson.com/2023-12-15-fusionenergyweek/), I led a team to put together a set of fusion energy trading cards for distribution across the US. These cards detail a set of basic concepts underlying fusion energy systems and selected fusion research machines from around the world. Provided in true trading card fashion, the cards encourage community engagement and learning outside of the typical academic environment in which fusion is discussed. 
 
 A few selected cards are shown below, featuring art from local graduate students and professional artists alike!
 

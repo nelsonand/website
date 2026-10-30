@@ -1,0 +1,18 @@
+{%- comment -%} Usage: {% include post-list.html category="projects" %} {%- endcomment -%}
+<ul class="post-list">
+{%- for post in site.posts -%}
+  {%- if post.category == include.category -%}
+  {%- capture thumb -%}{%- if post.thumbnail-img -%}{{ post.thumbnail-img }}{%- elsif post.cover-img.first -%}{{ post.cover-img[0].first.first }}{%- else -%}{{ post.cover-img }}{%- endif -%}{%- endcapture -%}
+  <li>
+    <a class="card" href="{{ post.url | relative_url }}">
+      {% if thumb != "" %}<img class="thumb" src="{{ thumb | strip | relative_url }}" alt="">{% else %}<span></span>{% endif %}
+      <div>
+        <div class="date">{{ post.date | date: "%B %Y" }}</div>
+        <h3>{{ post.title }}</h3>
+        <p>{{ post.excerpt | strip_html | truncatewords: 26 }}</p>
+      </div>
+    </a>
+  </li>
+  {%- endif -%}
+{%- endfor -%}
+</ul>

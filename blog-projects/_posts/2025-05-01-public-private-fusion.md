@@ -2,8 +2,8 @@
 layout: post
 title: "Academic Fusion Research in the Era of Private Investment"
 cover-img: blog-projects/assets/img/ARCHpcbase.png
-thumbnail-img: blog-projects/assets/img/MANTA_thumbnail.png
-share-img: blog-projects/assets/img/MANTA_thumbnail.png
+thumbnail-img: blog-projects/assets/img/MANTA_thumbnail.jpg
+share-img: blog-projects/assets/img/MANTA_thumbnail.jpg
 category: projects
 ---
 

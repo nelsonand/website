@@ -1,0 +1,20 @@
+# Jekyll build output and caches (GitHub Pages builds the site itself)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Local Ruby/Bundler installs
+.bundle/
+vendor/
+
+# Publication list source (exported from Zotero; see make_pubs.py)
+cv_prep.bib
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS files
+.DS_Store

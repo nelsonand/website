@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Fusion Power Plant Design Using Negative Triangularity
-cover-img: blog-projects/assets/img/MANTA_cover.png
-thumbnail-img: blog-projects/assets/img/MANTA_thumbnail.png
-share-img: blog-projects/assets/img/MANTA_thumbnail.png
+cover-img: blog-projects/assets/img/MANTA_cover.jpg
+thumbnail-img: blog-projects/assets/img/MANTA_thumbnail.jpg
+share-img: blog-projects/assets/img/MANTA_thumbnail.jpg
 category: projects
 ---
 
@@ -20,7 +20,7 @@ Since the NT ELM suppression effect is linked directly to geometry-induced chang
 Further, the natural tendency for NT plasmas to avoid H-mode even at high heating power could simplify impurity regulation and auxiliary power control in a reactor setting, and the NT geometry could facilitate larger divertor surfaces for exhaust mitigation. 
 Together, these characteristics suggest that negative triangularity may be able to provide something that no other tokamak scenario can: a robust path to an inherently ELM-free fusion pilot plant.
 
-![NT vs PT](/blog-projects/assets/img/NTPT_cartoon.png)
+![NT vs PT](/blog-projects/assets/img/NTPT_cartoon.jpg)
 *A cartoon comparing negative and positive triangularity tokamak operation. The center axis is shown as a dashed line.*
 
 A main thrust of my work is to explore how NT configurations can help to establish robust and reliable fusion power plant designs. 

@@ -1,27 +1,77 @@
 import bibtexparser
 from collections import defaultdict
 import re
+import sys
 
-INPUT_FILE = "cv_prep.bib"
+# Usage: python make_pubs.py [path/to/cv_prep.bib]
+INPUT_FILE = sys.argv[1] if len(sys.argv) > 1 else "cv_prep.bib"
 OUTPUT_FILE = "publications.md"
 
 FRONT_MATTER = """---
 layout: page
 title: Publications
-full-width: true
+kicker: Publications
+headline: Publications
+subtitle: "{n_pubs} peer-reviewed and preprint publications ({n_first} as first author). Also on <a href='https://scholar.google.com/citations?user=_RET_uYAAAAJ'>Google Scholar</a> and <a href='https://orcid.org/0000-0002-9612-1936'>ORCID</a>. Invited talks and conference contributions are on the <a href='/conferences/'>Talks</a> page."
 ---
 
 """
+
+# Selected publications, in display order. Keep in sync with the
+# "Selected Design and Engineering Publications" list in the CV (main.tex).
+SELECTED_KEYS = [
+    "nelson_pedestal_2026",
+    "slendebroek_exploring_2026",
+    "cohen_yinsen_2026",
+    "thecentaurcollaboration_compact_2026",
+    "themantacollaboration_manta_2024",
+    "salm_poloidal_2026",
+    "guizzo_electromagnetic_2025",
+    "nelson_implications_2024",
+    "miller_power_2024",
+    "jalalvand_multimodal_2025",
+    "nelson_robust_2023",
+]
+
+# Temporary corrections for known errors in the Zotero data. Remove each one
+# once it has been fixed in Zotero and the bib has been re-exported.
+DATA_FIXES = {
+    # "M. Curie" duplicates "Max Curie" in the author list
+    "jalalvand_multimodal_2025": {"author": lambda a: a.replace(" and Curie, M. and ", " and ")},
+    # DOI field holds an unrelated OSTI DOI; the url field has the correct one
+    "bechtelamara_accelerating_2025": {"doi": lambda d: "10.3389/fphy.2024.1524041",
+                                        "journaltitle": lambda j: "Frontiers in Physics"},
+}
 
 
 # ----------------------------
 # Helpers
 # ----------------------------
 
+# LaTeX accent commands that appear in the Zotero export, e.g. {\\v{c}} -> č
+LATEX_ACCENTS = {"v": "\u030c", "'": "\u0301", "`": "\u0300", '"': "\u0308",
+                 "^": "\u0302", "~": "\u0303", "c": "\u0327", "u": "\u0306"}
+
+
+def latex_to_unicode(text):
+    import unicodedata
+
+    def repl(m):
+        return unicodedata.normalize("NFC", m.group(2) + LATEX_ACCENTS[m.group(1)])
+
+    return re.sub(r"\\([v'`\"^~cu])\s*\{?([A-Za-z])\}?", repl, text)
+
+
+# Inline math that appears in titles
+LATEX_MATH = {r"$\beta$": "β", r"$\times$": "×", r"$\alpha$": "α", r"$\delta$": "δ"}
+
+
 def clean(text):
     if not text:
         return ""
-    return re.sub(r"[{}]", "", text).strip()
+    for k, v in LATEX_MATH.items():
+        text = text.replace(k, v)
+    return re.sub(r"[{}]", "", latex_to_unicode(text)).strip()
 
 
 def get_year(entry):
@@ -47,7 +97,7 @@ def format_single_author(raw):
         name = f"{first} {last}"
     else:
         name = raw
-    name = re.sub(r"[{}]", "", name)
+    name = re.sub(r"[{}]", "", latex_to_unicode(name))
     if re.search(r"\b(A\.?\s*O\.?|Oak|Andrew\s+Oakleigh)\s+Nelson\b", name, re.IGNORECASE):
         name = f"**{name}**"
     return name
@@ -55,6 +105,9 @@ def format_single_author(raw):
 
 def format_authors(author_field):
     authors = [a.strip() for a in author_field.split(" and ")]
+    # Drop exact duplicate names (a known Zotero export glitch)
+    seen = set()
+    authors = [a for a in authors if not (a in seen or seen.add(a))]
 
     if len(authors) <= AUTHOR_THRESHOLD:
         return ", ".join(format_single_author(a) for a in authors)
@@ -113,6 +166,8 @@ def format_entry(entry):
     if venue or volume or pages:
         citation += "."
 
+    # Some Zotero entries store the DOI as a full URL
+    doi = re.sub(r"^https?://(dx\.)?doi\.org/", "", doi.strip())
     if doi:
         citation += f" [DOI](https://doi.org/{doi})"
     elif url:
@@ -130,14 +185,27 @@ def main():
         bib_database = bibtexparser.load(bibtex_file)
 
     entries = bib_database.entries
+    for e in entries:
+        for field, fix in DATA_FIXES.get(e["ID"], {}).items():
+            e[field] = fix(e.get(field, ""))
 
     # Exclude honor thesis entries
     entries = [e for e in entries if not has_keyword(e, "honorthesis")]
 
-    # Sections — featured can overlap with first_author/coauthor (appears in both)
-    featured = [e for e in entries if has_keyword(e, "featured")]
-    first_author = [e for e in entries if has_keyword(e, "1st")]
-    invited = [e for e in entries if has_keyword(e, "invited")]
+    # Sections. Selected papers also appear (numbered) in the lists below.
+    # Filters match the CV: conference abstracts and invited talks are not
+    # numbered publications; they live on the Talks page (conferences.md).
+    by_key = {e["ID"]: e for e in entries}
+    missing = [k for k in SELECTED_KEYS if k not in by_key]
+    if missing:
+        print(f"Warning: selected keys not found in bib: {missing}")
+    featured = [by_key[k] for k in SELECTED_KEYS if k in by_key]
+    first_author = [
+        e for e in entries
+        if has_keyword(e, "1st")
+        and not has_keyword(e, "conference")
+        and not has_keyword(e, "invited")
+    ]
     coauthor = [
         e for e in entries
         if not has_keyword(e, "1st")
@@ -146,9 +214,7 @@ def main():
     ]
 
     # Sort newest-first for display in all sections
-    featured.sort(key=get_year, reverse=True)
     first_author.sort(key=get_year, reverse=True)
-    invited.sort(key=get_year, reverse=True)
     coauthor.sort(key=get_year, reverse=True)
 
     # Global numbering covers publications only (first_author + coauthor).
@@ -172,11 +238,11 @@ def main():
 
     # Write Markdown
     with open(OUTPUT_FILE, "w", encoding="utf-8") as md:
-        md.write(FRONT_MATTER)
+        md.write(FRONT_MATTER.format(n_pubs=total, n_first=len(first_author)))
 
-        # Featured: unnumbered — these papers also appear with numbers below
+        # Selected: unnumbered — these papers also appear with numbers below
         if featured:
-            md.write("## Featured Articles\n\n")
+            md.write("## Selected Design and Engineering Publications\n\n")
             for e in featured:
                 md.write(f"- {format_entry(e)}\n")
             md.write("\n")
@@ -185,12 +251,6 @@ def main():
         md.write("## First Author Publications\n\n")
         for e in first_author:
             md.write(f"- **[{number_map[e['ID']]}]** {format_entry(e)}\n")
-        md.write("\n")
-
-        # Invited: unnumbered
-        md.write("## Invited Talks and Seminars\n\n")
-        for e in invited:
-            md.write(f"- {format_entry(e)}\n")
         md.write("\n")
 
         # Co-Author: numbered, grouped by year

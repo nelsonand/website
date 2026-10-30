@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2026 John Dawson Award for Excellence in Plasma Physics Research
-cover-img: blog-projects/assets/img/diii-d_cut.png
+cover-img: blog-projects/assets/img/diii-d_cut.jpg
 thumbnail-img: blog-projects/assets/img/d3d_nt.jpeg
 share-img: blog-projects/assets/img/d3d_nt.jpeg
 category: projects

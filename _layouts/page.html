@@ -2,29 +2,24 @@
 layout: base
 ---
 
-{% include header.html type="page" %}
-
-<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main">
-  <div class="row">
-    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
-      {% if page.before-content %}
-        <div class="before-content">
-          {% for file in page.before-content %}
-            {% include {{ file }} %}
-          {% endfor %}
-        </div>
-      {% endif %}
-
-      {{ content }}
-
-      {% if page.after-content %}
-        <div class="after-content">
-          {% for file in page.after-content %}
-            {% include {{ file }} %}
-          {% endfor %}
-        </div>
-      {% endif %}
-
+<header class="page-head{% if page.portrait %} with-portrait{% endif %}">
+  <div class="wrap">
+    <div>
+      {% if page.kicker %}<div class="kicker">{{ page.kicker }}</div>{% endif %}
+      <h1>{{ page.headline | default: page.title }}</h1>
+      {% if page.subtitle %}<p class="lede">{{ page.subtitle }}</p>{% endif %}
     </div>
+    {% if page.portrait %}
+    <div class="portrait">
+      <img src="{{ page.portrait | relative_url }}" alt="Photo of {{ site.author }}">
+      {% if page.portrait-caption %}<div class="cap">{{ page.portrait-caption }}</div>{% endif %}
+    </div>
+    {% endif %}
   </div>
-</div>
+</header>
+
+<main class="page-body">
+  <div class="wrap">
+    {{ content }}
+  </div>
+</main>
