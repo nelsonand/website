@@ -1,0 +1,13 @@
+<footer class="site-footer">
+  <div class="wrap">
+    <div>© {{ 'now' | date: '%Y' }} {{ site.author }} · <a href="mailto:{{ site.social-network-links.email }}">{{ site.social-network-links.email }}</a></div>
+    <div class="links">
+      {%- assign s = site.social-network-links -%}
+      {% if s.google-scholar %}<a href="https://scholar.google.com/{{ s.google-scholar }}"><i class="fas fa-graduation-cap"></i>Scholar</a>{% endif %}
+      {% if s.ORCID %}<a href="https://orcid.org/{{ s.ORCID }}"><i class="fab fa-orcid"></i>ORCID</a>{% endif %}
+      {% if s.github %}<a href="https://github.com/{{ s.github }}"><i class="fab fa-github"></i>GitHub</a>{% endif %}
+      {% if s.webofscience %}<a href="https://www.webofscience.com/{{ s.webofscience }}"><i class="fas fa-book"></i>Web of Science</a>{% endif %}
+      {% if site.cv-pdf %}<a href="{{ site.cv-pdf | relative_url }}"><i class="far fa-file-pdf"></i>CV</a>{% endif %}
+    </div>
+  </div>
+</footer>

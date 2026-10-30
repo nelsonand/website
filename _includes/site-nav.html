@@ -1,0 +1,16 @@
+<nav class="site-nav">
+  <div class="wrap">
+    <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <button class="nav-toggle" aria-label="Toggle navigation">Menu</button>
+    <ul>
+      {%- for link in site.navbar-links -%}
+        {%- assign href = link[1] | relative_url -%}
+        {%- assign target = link[1] | prepend: '/' | append: '/' -%}
+        <li><a href="{{ href }}"{% if page.url == target %} class="active"{% endif %}>{{ link[0] }}</a></li>
+      {%- endfor -%}
+      {%- if site.cv-pdf -%}
+        <li><a class="cv" href="{{ site.cv-pdf | relative_url }}">CV&nbsp;↓</a></li>
+      {%- endif -%}
+    </ul>
+  </div>
+</nav>

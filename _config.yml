@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Andrew (Oak) Nelson
+title: Oak Nelson
 
 # Your name to show in the footer
 author: Oak Nelson
@@ -20,14 +20,16 @@ author: Oak Nelson
 ###############################################
 
 navbar-links:
-  Home: "index"
-  About: "cv"
   Research: "projects"
-  Engagement: "outreach"
+  Teaching: "teaching"
+  Group: "students"
+  Service: "outreach"
   Publications: "publications"
-  Conferences: "conferences"
-  Students: "students"
- 
+  Talks: "conferences"
+  About: "cv"
+
+# Public CV linked from the navigation bar and footer. Change this one line to swap in a new PDF.
+cv-pdf: "/assets/Nelson_CV_Oct26.pdf"
 
 ################
 # --- Logo --- #
@@ -84,6 +86,7 @@ social-network-links:
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
 # rss-description: This website is a virtual proof that I'm awesome
+description: "Oak Nelson is a fusion researcher at Columbia University working on plasma-informed engineering of fusion power plants: risk-informed design under physics uncertainty and power exhaust from the plasma edge to the coolant."
 
 ###########################
 # --- General options --- #
@@ -115,10 +118,10 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
@@ -126,7 +129,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "fusion energy, tokamak, plasma physics, negative triangularity, ELM-free, fusion pilot plant, magnetic confinement fusion, Columbia University"
+keywords: "fusion energy, fusion power plant design, fusion engineering, plasma physics, tokamak, negative triangularity, power exhaust, heat flux, uncertainty quantification, design optimization, machine learning, Columbia University"
 
 ######################################
 # --- Colours / background image --- #
