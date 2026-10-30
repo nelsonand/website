@@ -1,76 +1,85 @@
 ---
-layout: page
-title: Oak Nelson 
-full-width: true
+layout: home
+title: Oak Nelson
+share-description: "Oak Nelson works on plasma-informed engineering of fusion power plants at Columbia University."
 ---
 
-> **News:** I am honored to be a co-recipient of the 2026 APS [John Dawson Award for Excellence in Plasma Physics Research](https://www.aps.org/funding-recognition/award/john-dawson-award) for advancing the negative triangularity tokamak concept on DIII-D! Read more in [my blog post](https://www.oaknelson.com/2026-09-30-dawson-award/).
+<div class="hero">
+  <div class="wrap">
+    <div>
+      <div class="eyebrow">Fusion energy · Plasma physics · Engineering design</div>
+      <h1>Co-designing the plasma <em>and</em> the machine.</h1>
+      <p>I'm Oak Nelson, a research scientist at Columbia University. I study how the way we operate a fusion plasma shapes the heat loads, structural limits, and design of future fusion power plants, and I build tools that help physicists and engineers make those decisions together.</p>
+      <div class="cta">
+        <a class="p" href="{{ '/projects/' | relative_url }}">Read about my research</a>
+        <a class="s" href="{{ '/cv/' | relative_url }}">About me</a>
+      </div>
+    </div>
+    <div class="art"><img src="{{ '/blog-projects/assets/img/diii-d_cut.webp' | relative_url }}" alt="Cutaway rendering of a negative triangularity plasma inside the DIII-D tokamak"></div>
+  </div>
+</div>
 
-# About Me
+<div class="home">
 
-I am from Colorado and use he/him/his pronouns.
-I received my Ph.D. in plasma physics from Princeton University in 2021, and am currently an Associate Research Scientist at Columbia University, where I serve as principal investigator on DOE Fusion Energy Sciences and private-industry fusion awards.
-My research focuses on experimental work in magnetic confinement fusion — specifically, data-driven optimization and stability modeling of advanced tokamak configurations for fusion pilot plants, and integration of AI-enabled workflows into high-fidelity physics simulations.
+<section>
+  <div class="wrap">
+    <div class="sh">
+      <div><div class="kicker">Research</div><h2>Plasma-informed engineering of fusion power plants</h2></div>
+      <a href="{{ '/projects/' | relative_url }}">Research overview →</a>
+    </div>
+    <p class="thesis">Engineering tools often treat the plasma as a fixed heat source, and plasma models usually stop at the plasma's edge. My work sits at that interface, where <b>the plasma operating regime becomes an engineering design variable</b>.</p>
+    <div class="grid3">
+      <a class="tc" href="{{ '/projects/#foundation' | relative_url }}">
+        <div class="im" style="background-image:url('{{ '/blog-projects/assets/img/d3d_nt.jpeg' | relative_url }}')"></div>
+        <div class="b"><div class="n">Foundation</div><h3>Designing the plasma to make engineering possible</h3><p>Negative triangularity, a reversed plasma shape that avoids the edge instabilities that send bursts of heat onto reactor walls.</p></div>
+      </a>
+      <a class="tc" href="{{ '/projects/#thrust-1' | relative_url }}">
+        <div class="im" style="background-image:url('{{ '/blog-projects/assets/img/MANTA_cover.jpg' | relative_url }}')"></div>
+        <div class="b"><div class="n">Thrust 1</div><h3>Risk-informed design of fusion power plants</h3><p>Design optimization that accounts for physics uncertainty, mission-specific requirements, and how plants will change over decades of operation.</p></div>
+      </a>
+      <a class="tc" href="{{ '/projects/#thrust-2' | relative_url }}">
+        <div class="im" style="background-image:url('{{ '/blog-projects/assets/img/vvuq_pedestal_limits.png' | relative_url }}');background-color:#fff;background-size:contain"></div>
+        <div class="b"><div class="n">Thrust 2</div><h3>Designing for power exhaust, from plasma to coolant</h3><p>Probabilistic heat-load boundary conditions, and plasma pulses designed around the thermal limits of the machine.</p></div>
+      </a>
+    </div>
+  </div>
+</section>
 
-You can learn more about the projects I am involved in, both in [research](https://www.oaknelson.com/projects/) and in [diversity, equity and inclusion](https://www.oaknelson.com/outreach/) work, on other tabs on this page.
-Full lists of my [publications](https://www.oaknelson.com/publications/), [conference contributions](https://www.oaknelson.com/conferences/) and [students](https://www.oaknelson.com/students/) are also available.
-To learn more about my career so far, you can also download a pdf of my CV [here](https://www.oaknelson.com/assets/Nelson_CV_Oct26.pdf).
+<section>
+  <div class="wrap split">
+    <div class="pubs">
+      <div class="sh"><h2>Selected work</h2><a href="{{ '/publications/' | relative_url }}">Publications →</a></div>
+      <div class="p"><div class="j">Nuclear Fusion · 2026</div><a class="t" href="https://doi.org/10.1088/1741-4326/ae27e6">Exploring the fusion power plant design space: comparative analysis of positive and negative triangularity tokamaks through optimization</a><div class="a">T. Slendebroek, <b>A. O. Nelson</b>, O. M. Meneghini, et al.</div></div>
+      <div class="p"><div class="j">Plasma Physics and Controlled Fusion · 2024</div><a class="t" href="https://doi.org/10.1088/1361-6587/ad6708">MANTA: a negative-triangularity NASEM-compliant fusion pilot plant</a><div class="a">The MANTA Collaboration (student design team)</div></div>
+      <div class="p"><div class="j">Physical Review Letters · 2023</div><a class="t" href="https://doi.org/10.1103/PhysRevLett.131.195101">Robust avoidance of edge-localized modes alongside gradient formation in the negative triangularity tokamak edge</a><div class="a"><b>A. O. Nelson</b>, L. Schmitz, C. Paz-Soldan, et al.</div></div>
+    </div>
+    <div class="news">
+      <div class="sh"><h2>Recent</h2></div>
+      {%- for item in site.data.news limit: 6 -%}
+      <div class="n"><span class="d">{{ item.date }}</span><span>{% if item.url %}<a href="{{ item.url | relative_url }}">{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}</span></div>
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
 
-Please find my contact information at the bottom of this page if you would like to get involved!
+<div class="band">
+  <div class="wrap">
+    <a href="{{ '/teaching/' | relative_url }}">
+      <img src="{{ '/blog-projects/assets/img/MANTA_cover.jpg' | relative_url }}" alt="">
+      <h3>Teaching</h3>
+      <p>Project-based design courses where students integrate physics, thermal, structural, and cost constraints into a single fusion plant design.</p>
+    </a>
+    <a href="{{ '/students/' | relative_url }}">
+      <img src="{{ '/blog-outreach/assets/img/StudentDay2022.jpg' | relative_url }}" alt="">
+      <h3>Group &amp; mentoring</h3>
+      <p>The Ph.D., master's, and undergraduate students I have had the privilege to advise, and what they have gone on to do.</p>
+    </a>
+    <a href="{{ '/outreach/' | relative_url }}">
+      <img src="{{ '/blog-outreach/assets/img/plasma_outreach_CU.jpg' | relative_url }}" alt="">
+      <h3>Service &amp; community</h3>
+      <p>Building community for students and early-career scientists, and sharing fusion with the public.</p>
+    </a>
+  </div>
+</div>
 
- 
-<br />
-
-# What is Magnetic Confinement Fusion?
-
-Magnetic confinement fusion is an emerging technology that will eventually use the same process as our sun (fusing hydrogen together to make helium) to produce energy here on Earth. 
-The realization of commercial magnetic fusion energy is one of the grandest and potentially most impactful engineering challenges ever faced by the human race. 
-While the promise that fusion offers (clean, safe, firm and abundant energy) is clear, the path towards commercialization is not.
-At least two large steps remain. 
-First, a fully-integrated demonstration device must be designed and built. 
-Second, this pilot plant must be optimized for affordable production at scale. 
-Both of these objectives sit at the intersection of cutting-edge physics understanding and state-of-the-art engineering solutions, requiring global collaboration and integration across a broad array of topics. 
-
-It is a very exciting time to conduct magnetic confinement fusion research! 
-In the next decade or two, the fusion community should have answers to all of the remaining basic physics questions needed to design and build a pilot plant. 
-In the next several decades, fusion energy could begin to play a role in modern electric markets as one of the world's greatest engineering achievements. 
-Importantly, this technological challenge is supported by both public and private sources, emphasizing the global and collaborative nature of this pursuit. 
-As we get closer to commercial realization, there has been a dramatic surge in investment in fusion energy sciences and engineering, with [private investment surpassing $7 billion](https://www.fusionindustryassociation.org/about-fusion-industry/fusion-funding/) and substantial new public funding commitments from DOE and international partners.
-
-Within magnetic confinement fusion, I work on tokamaks, which are toroidal magnetic devices that use strong magnetic fields to constrain a fusion-relevant plasma. 
-To date, all tokamaks that have been built were built as science experiments designed to help us better understand and optimize the complicated plasma physics at play in this scenario. 
-However, several tokamaks are currently being designed and built that will push this to the next stage by demonstrating ignition - the point at which more energy is produced by a plasma than was required to make it.
-This milestone (which was also [achieved by laser-based fusion in 2022](https://www.llnl.gov/article/49301/shot-ages-fusion-ignition-breakthrough-hailed-one-most-impressive-scientific-feats-21st)) will herald a new era in fusion science and engineering studies, and I am very excited to play a leading role in helping it unfold!
-
-![Tokamak Cartoon](/assets/img/bg_tokamak.png){:width="50%"; style="display:block; margin-left:auto; margin-right:auto"}
-
-*A schematic of a tokamak, showing a toroidal plasma confined by several sets of magnetic field coils.*
-
-<br />
-
-# Resume Highlights
-
-### Employment
-
-#### Associate Research Scientist
- - **Columbia University**, New York, NY (United States) 2022 – present
- - Principal investigator on DOE FES and private-industry fusion awards
-
-#### Postdoctoral Research Fellow
- - **Columbia University**, New York, NY (United States) 2021 – 2022
- - Focus on negative triangularity scenarios for tokamaks and fusion outreach
-
-### Education
-
-#### Doctor of Philosophy (Ph.D.) in Plasma Physics
- - **Princeton University**, Princeton, NJ (United States) 2016 – 2021
- - Thesis: _Comprehensive Dynamic Analysis of the H-mode Pedestal in DIII-D_
-
-#### Master of Arts (M.A.) in Plasma Physics
- - **Princeton University**, Princeton, NJ (United States) 2016 – 2018
- - Focus in experimental magnetic confinement fusion
-
-#### Bachelor of Science (B.Sc.) in Engineering Physics
- - **University of Colorado, Boulder**, Boulder, CO (United States) 2012 – 2016
- - Minors: Applied Mathematics, Leadership Studies
-
+</div>

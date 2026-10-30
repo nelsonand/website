@@ -1,8 +1,15 @@
 ---
 layout: page
-title: Conferences and Seminars
-full-width: true
+title: Talks
+kicker: Talks
+headline: Talks, seminars &amp; <em>conference contributions</em>
+subtitle: "Invited talks, public lectures, and contributed presentations. Slides are available on request."
 ---
+
+### Featured: a public lecture
+
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/zuvT9qhCfR8" title="The Negative Triangularity Tokamak: Power Handling in a Fusion Power Plant (CU Boulder Saturday Physics Series, 2024)" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+*The Negative Triangularity Tokamak: Power Handling in a Fusion Power Plant*, CU Boulder Saturday Physics Series (2024). A non-specialist introduction to fusion and to how plasma shape changes the heat-exhaust problem.
 
 ## Invited Talks 
 
@@ -30,6 +37,8 @@ full-width: true
 
 (Slides available upon reasonable request) 
 - **Nelson, A. O.** _Fusion Energy 101_ in _Colorado Fusion Week_ (2026).
+- **Nelson, A. O.** _Introduction to Fusion Energy_ in _National Laboratory of the Rockies Seminar Series_ (2026).
+- **Nelson, A. O.** _Introducing the Fusion Simulator and Other Open Source Tools for Fusion Energy Pedagogy_ in _PlasmaNET Workshop_ (2026).
 - **Nelson, A. O.** _Flipping the Shape of Plasmas to Solve the Tokamak Heat-Flux Problem_ in _CIPS Seminar at CU Boulder_ (2026).
 - **Nelson, A. O.** _Applied Plasma Physics: The Magnetic Pursuit of Fusion Energy_ in _CIPS Seminar at CU Boulder_ (2026).
 - **Nelson, A. O.** _Design and Optimization of Tokamaks for Fusion Energy_ in _Energy Frontier Seminars at the Institute of Renewable Energies in Mexico_ (2026).
@@ -85,7 +94,7 @@ full-width: true
  - Stewart, S., McKee, G., Thome, K., Cote, T., Geiger, B., Hyatt, A., Khabanov, F., Marinoni, A., **Nelson, A. O.**, Schmitz, L., Scotti, F. & Yan, Z. _Experimental Investigation of Turbulence Properties and Saturation Mechanisms in the Negative Triangularity Edge at DIII-D_ in _68th Annual Meeting of the APS Division of Plasma Physics_ (2026).
  - Thome, K. E., Akcay, C., Anand, H., Bechtel Amara, T. A., Berkery, J., Bodner, G., Candy, J., Gerhardt, S. P., Halpern, F. D., Harrison, J. R., Henderson, S., Imada, K., Kaye, S., Knolker, M., Kochan, M., Liu, Y. Q., Logan, N. C., Lvovskiy, A., McArdle, G., McClenaghan, J., Munaretto, S., Neiser, T. F., **Nelson, A. O.**, Osborne, T. H., Pajares, A., Saarelma, S., Vincent, C., Welander, A., Xing, Z. A., Yang, J. & the MAST-U and NSTX-U Teams _Progress Toward a Stationary High-Confinement Spherical Tokamak Scenario via Experiment and Modeling on MAST-U and NSTX-U_ in _23rd International Spherical Torus Workshop_ (2026).
  - Vanovac, B., Hobirk, J., Dunne, M., **Nelson, A. O.**, Faitsch, M., Sauter, O., Thome, K., Hyatt, A., Scotti, F., Mantica, P. & White, A. _ELM suppression mechanisms and confinement properties in negative triangularity in ASDEX Upgrade_ in _68th Annual Meeting of the APS Division of Plasma Physics_ (2026).
- - Vanovac, B., Hobirk, J., **Nelson, A. O.**, Sauter, O., Dunne, M., Faitsch, M., Putterich, T., Stieglitz, D., Strumberger, E., Liu, X., Grover, O., Kappatou, A., Takacs, R., Mantica, P. & White, A. E. _Negative triangularity research on ASDEX Upgrade_ (2026).
+ - Vanovac, B., Hobirk, J., **Nelson, A. O.**, Sauter, O., Dunne, M., Faitsch, M., Pütterich, T., Fischer, R., Stieglitz, D., Strumberger, E., Liu, X., Grover, O., Kappatou, A., Takacs, R., Mantica, P. & White, A. E. _Negative triangularity research in ASDEX Upgrade_ in _10th Asia-Pacific Conference on Plasma Physics_ (2026).
  - Vincent, C., Lvovskiy, A., Casali, L., di Grazia, L., Anand, H., **Nelson, A. O.**, Harrison, J. R., Flesch, K. B., Federici, F., Viezzer, E., Cano-Megias, P., Rodriguez-Gonzalez, A., Puentes, F., Pena, D. & Sauter, O. _Control Development of the Negative Triangularity Scenario for MAST-U_ in _23rd International Spherical Torus Workshop_ (2026).
  - Waller, M., Michoski, C., Hatch, D., Kuang, D., Holland, C., McClenaghan, J., Schmidt, J., Ho, A., Patel, B., Li, Z., Myers, R., Sammuli, B., Orozco, D., Nakkina, T., Chen, X., Odstrcil, T., **Nelson, A. O.**, Olofsson, E., Clark, M. & Nazikian, R. _From Curation to Discovery: ML-Ready Data Infrastructure for Fusion Experiments and Simulations_ in _68th Annual Meeting of the APS Division of Plasma Physics_ (2026).
  - Wilcox, R., Park, J. M., Anastopoulos Tzanis, M. S., Kim, K., Park, J., Choi, W., Eldon, D., Hood, R., Hyatt, A., Kwon, K., Maurizio, R., **Nelson, A. O.**, Ronchi, G., Scotti, F., Shafer, M., Tsui, C. & Wilks, T. _Pedestal performance with detachment in the DIII-D SVR divertor: integrated modeling simulation predictions and experiments_ in _68th Annual Meeting of the APS Division of Plasma Physics_ (2026).

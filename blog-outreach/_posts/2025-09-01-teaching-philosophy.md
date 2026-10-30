@@ -5,6 +5,7 @@ cover-img: blog-outreach/assets/img/plasma_outreach_CU.jpg
 thumbnail-img: blog-outreach/assets/img/StudentDay2022.jpg
 share-img: blog-outreach/assets/img/StudentDay2022.jpg
 category: outreach
+last-updated: 2026-10-30
 ---
 
 One of the most rewarding parts of this work is watching a student go from learning to use a tool to knowing why that tool works — and then to designing a better one. That transition from technician to scientist is what good mentorship is supposed to produce, and it doesn't happen automatically. It requires deliberate effort from everyone in a research group, starting with the people at the top.
@@ -19,3 +20,5 @@ I have also come to believe strongly that research group culture is not separate
 On the instructional side, I have found that design-based learning is among the most effective formats for developing physical intuition. In the joint Columbia/Princeton/MIT fusion power plant design courses I have instructed, students are asked to design a complete fusion device from scratch — not just compute plasma physics, but make engineering tradeoffs, defend choices in the face of constraints, and iterate when their first design fails. The experience of watching a plasma scenario they designed fail a neutron wall loading constraint, and then figuring out how to fix it, teaches more about tokamak physics than any amount of lecture. This is also the philosophy behind the weekly graduate-level plasma seminar I founded at Columbia: students teach each other, in their own words, and the act of preparing to explain something clearly forces a depth of understanding that passive learning rarely achieves.
 
 The fusion field is growing rapidly, and the demand for trained scientists and engineers is growing faster than our current pipeline can supply. I take this seriously as a responsibility. The students who work with me today will be solving problems in 2040 that we cannot fully anticipate right now. My job is less to teach them what I know and more to help them develop the judgment, habits of mind, and collaborative instincts to figure out whatever comes next.
+
+*Update (October 2026):* A fuller description of how I teach, including two courses I would like to develop (*Fusion Energy Engineering* and *Data-Driven Design of Engineering Systems*), is now on my [Teaching](/teaching/) page, and my current and former students are listed on the [Group](/students/) page.

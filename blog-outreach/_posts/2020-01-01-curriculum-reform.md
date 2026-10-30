@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Curriculum Reform in Plasma Physics
-cover-img: blog-outreach/assets/img/curriculum_reform_cover.png
+cover-img: blog-outreach/assets/img/curriculum_reform_cover.jpg
 thumbnail-img: blog-outreach/assets/img/ice.jpeg
 share-img: blog-outreach/assets/img/ice.jpeg
 category: outreach
